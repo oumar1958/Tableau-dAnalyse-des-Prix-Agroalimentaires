@@ -99,3 +99,75 @@
 2026-02-01 15:31:57,794 - INFO - Scraping du produit 8/64: https://rnm.franceagrimer.fr/prix?BLEU-D-AUVERGNE
 2026-02-01 15:32:02,114 - INFO - Scraping du produit 9/64: https://rnm.franceagrimer.fr/prix?BEURRE
 2026-02-01 15:32:06,307 - INFO - Scraping du produit 10/64: https://rnm.franceagrimer.fr/prix?VIANDE
+2026-02-01 15:52:31,718 - INFO - Début du scraping de la catégorie: Légumes
+2026-02-01 15:52:33,269 - INFO - Trouvé 100 produits dans Légumes
+2026-02-01 15:52:33,270 - INFO - Scraping du produit 1/100: https://rnm.franceagrimer.fr/prix?SALSIFIS
+2026-02-01 15:52:34,422 - INFO - Scraping du produit 2/100: https://rnm.franceagrimer.fr/prix?CORNICHON
+2026-02-01 15:52:35,680 - INFO - Scraping du produit 3/100: https://rnm.franceagrimer.fr/prix?PASTEQUE
+2026-02-01 15:52:36,858 - INFO - Scraping du produit 4/100: https://rnm.franceagrimer.fr/prix?CHICOREE
+2026-02-01 15:52:38,114 - INFO - Scraping du produit 5/100: https://rnm.franceagrimer.fr/prix?IGNAME
+2026-02-01 15:52:39,276 - INFO - Scraping du produit 6/100: https://rnm.franceagrimer.fr/prix?LAITUE
+2026-02-01 15:52:40,575 - INFO - Scraping du produit 7/100: https://rnm.franceagrimer.fr/prix?POIREAU
+2026-02-01 15:52:41,847 - INFO - Scraping du produit 8/100: https://rnm.franceagrimer.fr/prix?ESTRAGON
+2026-02-01 15:52:43,013 - INFO - Scraping du produit 9/100: https://rnm.franceagrimer.fr/prix?SHII-TAKE
+2026-02-01 15:52:44,174 - INFO - Scraping du produit 10/100: https://rnm.franceagrimer.fr/prix?CARDON
+2026-02-01 15:52:45,343 - INFO - Début du scraping de la catégorie: Fruits
+2026-02-01 15:52:45,508 - INFO - Trouvé 64 produits dans Fruits
+2026-02-01 15:52:45,508 - INFO - Scraping du produit 1/64: https://rnm.franceagrimer.fr/prix?CITRON
+2026-02-01 15:52:46,701 - INFO - Scraping du produit 2/64: https://rnm.franceagrimer.fr/prix?FRUITS-A-COQUE-ET-FRUITS-SECS
+2026-02-01 15:52:48,052 - INFO - Scraping du produit 3/64: https://rnm.franceagrimer.fr/prix?FRAISE
+2026-02-01 15:52:49,254 - INFO - Scraping du produit 4/64: https://rnm.franceagrimer.fr/prix?ANONE
+2026-02-01 15:52:50,404 - INFO - Scraping du produit 5/64: https://rnm.franceagrimer.fr/prix?COING
+2026-02-01 15:52:51,597 - INFO - Scraping du produit 6/64: https://rnm.franceagrimer.fr/prix?POMELOS
+2026-02-01 15:52:52,803 - INFO - Scraping du produit 7/64: https://rnm.franceagrimer.fr/prix?PRUNE
+2026-02-01 15:52:54,000 - INFO - Scraping du produit 8/64: https://rnm.franceagrimer.fr/prix?SATSUMA
+2026-02-01 15:52:56,335 - INFO - Scraping du produit 9/64: https://rnm.franceagrimer.fr/prix?AGRUMES
+2026-02-01 15:52:58,779 - INFO - Scraping du produit 10/64: https://rnm.franceagrimer.fr/prix?KAKI
+2026-02-01 16:51:28,434 - INFO - Début du scraping de la catégorie: Légumes
+2026-02-01 16:51:30,218 - INFO - Trouvé 100 produits dans Légumes
+2026-02-01 16:51:30,218 - INFO - Scraping du produit 1/100: https://rnm.franceagrimer.fr/prix?SALSIFIS
+2026-02-01 16:51:31,457 - INFO - Scraping du produit 2/100: https://rnm.franceagrimer.fr/prix?CORNICHON
+2026-02-01 16:51:32,681 - INFO - Scraping du produit 3/100: https://rnm.franceagrimer.fr/prix?PASTEQUE
+2026-02-01 16:51:33,890 - INFO - Scraping du produit 4/100: https://rnm.franceagrimer.fr/prix?CHICOREE
+2026-02-01 16:51:35,148 - INFO - Scraping du produit 5/100: https://rnm.franceagrimer.fr/prix?IGNAME
+2026-02-01 16:51:36,310 - INFO - Scraping du produit 6/100: https://rnm.franceagrimer.fr/prix?LAITUE
+2026-02-01 16:51:37,854 - INFO - Scraping du produit 7/100: https://rnm.franceagrimer.fr/prix?POIREAU
+2026-02-01 16:51:39,263 - INFO - Scraping du produit 8/100: https://rnm.franceagrimer.fr/prix?ESTRAGON
+2026-02-01 16:51:40,474 - INFO - Scraping du produit 9/100: https://rnm.franceagrimer.fr/prix?SHII-TAKE
+2026-02-01 16:51:41,858 - INFO - Scraping du produit 10/100: https://rnm.franceagrimer.fr/prix?CARDON
+2026-02-01 16:51:43,060 - INFO - Début du scraping de la catégorie: Fruits
+2026-02-01 16:51:43,266 - INFO - Trouvé 64 produits dans Fruits
+2026-02-01 16:51:43,267 - INFO - Scraping du produit 1/64: https://rnm.franceagrimer.fr/prix?CITRON
+2026-02-01 16:51:44,517 - INFO - Scraping du produit 2/64: https://rnm.franceagrimer.fr/prix?FRUITS-A-COQUE-ET-FRUITS-SECS
+2026-02-01 16:51:46,039 - INFO - Scraping du produit 3/64: https://rnm.franceagrimer.fr/prix?FRAISE
+2026-02-01 16:51:47,305 - INFO - Scraping du produit 4/64: https://rnm.franceagrimer.fr/prix?ANONE
+2026-02-01 16:51:48,673 - INFO - Scraping du produit 5/64: https://rnm.franceagrimer.fr/prix?COING
+2026-02-01 16:51:49,929 - INFO - Scraping du produit 6/64: https://rnm.franceagrimer.fr/prix?POMELOS
+2026-02-01 16:51:53,599 - INFO - Scraping du produit 7/64: https://rnm.franceagrimer.fr/prix?PRUNE
+2026-02-01 16:51:54,952 - INFO - Scraping du produit 8/64: https://rnm.franceagrimer.fr/prix?SATSUMA
+2026-02-01 16:51:57,150 - INFO - Scraping du produit 9/64: https://rnm.franceagrimer.fr/prix?AGRUMES
+2026-02-01 16:51:59,676 - INFO - Scraping du produit 10/64: https://rnm.franceagrimer.fr/prix?KAKI
+2026-02-01 17:00:13,943 - INFO - Début du scraping de la catégorie: Légumes
+2026-02-01 17:00:16,603 - INFO - Trouvé 100 produits dans Légumes
+2026-02-01 17:00:16,603 - INFO - Scraping du produit 1/100: https://rnm.franceagrimer.fr/prix?SALSIFIS
+2026-02-01 17:00:18,862 - INFO - Scraping du produit 2/100: https://rnm.franceagrimer.fr/prix?CORNICHON
+2026-02-01 17:00:21,150 - INFO - Scraping du produit 3/100: https://rnm.franceagrimer.fr/prix?PASTEQUE
+2026-02-01 17:00:23,386 - INFO - Scraping du produit 4/100: https://rnm.franceagrimer.fr/prix?CHICOREE
+2026-02-01 17:00:25,657 - INFO - Scraping du produit 5/100: https://rnm.franceagrimer.fr/prix?IGNAME
+2026-02-01 17:00:27,882 - INFO - Scraping du produit 6/100: https://rnm.franceagrimer.fr/prix?LAITUE
+2026-02-01 17:00:30,367 - INFO - Scraping du produit 7/100: https://rnm.franceagrimer.fr/prix?POIREAU
+2026-02-01 17:00:33,699 - INFO - Scraping du produit 8/100: https://rnm.franceagrimer.fr/prix?ESTRAGON
+2026-02-01 17:00:36,996 - INFO - Scraping du produit 9/100: https://rnm.franceagrimer.fr/prix?SHII-TAKE
+2026-02-01 17:00:40,171 - INFO - Scraping du produit 10/100: https://rnm.franceagrimer.fr/prix?CARDON
+2026-02-01 17:00:43,442 - INFO - Début du scraping de la catégorie: Fruits
+2026-02-01 17:00:45,629 - INFO - Trouvé 64 produits dans Fruits
+2026-02-01 17:00:45,630 - INFO - Scraping du produit 1/64: https://rnm.franceagrimer.fr/prix?CITRON
+2026-02-01 17:00:48,909 - INFO - Scraping du produit 2/64: https://rnm.franceagrimer.fr/prix?FRUITS-A-COQUE-ET-FRUITS-SECS
+2026-02-01 17:00:52,220 - INFO - Scraping du produit 3/64: https://rnm.franceagrimer.fr/prix?FRAISE
+2026-02-01 17:00:55,444 - INFO - Scraping du produit 4/64: https://rnm.franceagrimer.fr/prix?ANONE
+2026-02-01 17:00:58,707 - INFO - Scraping du produit 5/64: https://rnm.franceagrimer.fr/prix?COING
+2026-02-01 17:01:01,976 - INFO - Scraping du produit 6/64: https://rnm.franceagrimer.fr/prix?POMELOS
+2026-02-01 17:01:06,264 - INFO - Scraping du produit 7/64: https://rnm.franceagrimer.fr/prix?PRUNE
+2026-02-01 17:01:10,456 - INFO - Scraping du produit 8/64: https://rnm.franceagrimer.fr/prix?SATSUMA
+2026-02-01 17:01:14,663 - INFO - Scraping du produit 9/64: https://rnm.franceagrimer.fr/prix?AGRUMES
+2026-02-01 17:01:19,196 - INFO - Scraping du produit 10/64: https://rnm.franceagrimer.fr/prix?KAKI
