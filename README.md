@@ -2,14 +2,6 @@
 
 Un projet complet de web scraping et d'analyse de données agroalimentaires pour votre portfolio, avec dashboard interactif.
 
-## 🎯 Objectif du projet
-
-Ce projet démontre des compétences en **data science** et **web scraping** à travers :
-- Collecte automatique de données agroalimentaires depuis le site officiel du RNM
-- Nettoyage et structuration des données brutes
-- Analyse statistique des tendances de prix
-- Visualisations interactives avec dashboard web
-- Architecture de projet professionnelle
 
 ## 📊 Source des données
 
@@ -68,7 +60,7 @@ agro_data_scraping/
 ### 1. Clonage et environnement
 ```bash
 # Cloner le projet
-git clone <repository-url>
+git clone <https://github.com/oumar1958/Tableau-dAnalyse-des-Prix-Agroalimentaires>
 cd agro_data_scraping
 
 # Créer l'environnement virtuel
@@ -109,8 +101,7 @@ streamlit run app.py
 streamlit run app.py
 ```
 
-### 4. Accès à l'application
-Ouvrez votre navigateur et naviguez vers : `http://localhost:8501`
+
 
 ## 📋 Fonctionnalités du Dashboard
 
@@ -144,160 +135,10 @@ Ouvrez votre navigateur et naviguez vers : `http://localhost:8501`
 - Structure du projet
 - Évolutions possibles
 
-## 🔄 Workflow de Données
-
-```mermaid
-graph TD
-    A[Site RNM] --> B[Scraping Python]
-    B --> C[Données Brutes CSV]
-    C --> D[Nettoyage & Traitement]
-    D --> E[Données Structurées]
-    E --> F[Analyse Statistique]
-    F --> G[Visualisations]
-    G --> H[Dashboard Streamlit]
-    
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#fff3e0
-    style D fill:#e8f5e8
-    style E fill:#e8f5e8
-    style F fill:#fff8e1
-    style G fill:#fce4ec
-    style H fill:#f3e5f5
-```
-
-## 📊 Métriques et KPIs
-
-### Données collectées
-- **Fréquence** : Quotidienne (configurable)
-- **Catégories** : 4+ catégories principales
-- **Marchés** : 20+ marchés français
-- **Produits** : 100+ références
-
-### Analyses disponibles
-- **Prix moyens** par produit et marché
-- **Tendances temporelles** et saisonnières
-- **Comparaisons géographiques** (origines)
-- **Distribution statistique** des prix
-- **Corrélations** entre variables
-
-## 🎨 Visualisations Générées
-
-1. **Évolution des prix** - Graphique linéaire temporel
-2. **Distribution des prix** - Histogramme et boîte à moustaches
-3. **Comparaison des marchés** - Barres horizontales
-4. **Analyse par origine** - Graphique géographique
-5. **Analyse saisonnière** - Barres groupées
-6. **Heatmap des prix** - Matrice interactive
-7. **Tableau de bord** - Indicateurs multiples
-
-## 🔧 Configuration et Personnalisation
-
-### Modification des catégories
-```python
-# Dans src/scraper.py
-categories = {
-    'Légumes': 'https://rnm.franceagrimer.fr/prix?LEGUMES',
-    'Fruits': 'https://rnm.franceagrimer.fr/prix?FRUITS',
-    # Ajouter vos catégories ici
-}
-```
-
-### Ajustement des paramètres de scraping
-```python
-# Dans src/scraper.py
-max_products_per_category = 10  # Limite de produits
-delay_between_requests = 1      # Délai en secondes
-```
-
-### Personnalisation des visualisations
-```python
-# Dans src/visualizations.py
-plt.style.use('seaborn-v0_8')  # Style des graphiques
-sns.set_palette("husl")        # Palette de couleurs
-```
-
-## 🐛 Dépannage
-
-### Problèmes courants
-
-1. **Erreur de connexion**
-   - Vérifiez votre connexion internet
-   - Le site RNM peut être temporairement indisponible
-
-2. **Pas de données collectées**
-   - Le site peut avoir changé sa structure
-   - Vérifiez les sélecteurs CSS dans `scraper.py`
-
-3. **Dashboard ne se lance pas**
-   - Vérifiez l'installation de Streamlit
-   - Assurez-vous que l'environnement virtuel est activé
-
-### Logs et monitoring
-- Logs de scraping : `scraper.log`
-- Console Streamlit pour les erreurs runtime
-- Fichiers CSV dans le dossier `data/`
-
-## 🚀 Déploiement
-
-### Option 1 : Streamlit Cloud
-```bash
-# Créer un fichier requirements.txt
-# Push sur GitHub
-# Déployer sur streamlit.io
-```
-
-### Option 2 : Docker
-```dockerfile
-FROM python:3.9-slim
-WORKDIR /app
-COPY requirements.txt .
-RUN pip install -r requirements.txt
-COPY . .
-EXPOSE 8501
-CMD ["streamlit", "run", "app.py"]
-```
-
-### Option 3 : Heroku/Railway
-- Configuration du Procfile
-- Variables d'environnement
-- Déploiement automatique
-
-## 📈 Évolutions Possibles
-
-### Court terme
-- [ ] Ajout de plus de catégories de produits
-- [ ] Système d'alertes sur variations de prix
-- [ ] Export PDF des rapports
-
-### Moyen terme
-- [ ] API REST pour accès aux données
-- [ ] Machine Learning pour prédiction des prix
-- [ ] Intégration de données historiques
-
-### Long terme
-- [ ] Multi-sources de données
-- [ ] Dashboard collaboratif
-- [ ] Application mobile
-
-## 📝 Notes Légales
-
-- Ce projet est à **but éducatif**
-- Les données proviennent de **sources publiques**
-- Respect des **conditions d'utilisation** du site source
-- Pas d'utilisation commerciale sans autorisation
 
 ## 👤 Contributeur
 
-Projet développé pour démonstration de compétences en :
-- Web Scraping
-- Analyse de Données
-- Visualisation
-- Développement Web
+Oumar Abdramane ALLAWAN
 
 ---
 
-**🥬 Dashboard Agroalimentaire** - Transformant les données brutes en insights pertinents pour l'industrie agroalimentaire.
-=======
-# Tableau-dAnalyse-des-Prix-Agroalimentaires
->>>>>>> 904f46f2b98dad431f5f293763740c058c26092f
