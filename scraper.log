@@ -1,0 +1,101 @@
+2026-02-01 15:23:02,094 - INFO - Début du scraping de la catégorie: Légumes
+2026-02-01 15:23:03,609 - INFO - Trouvé 100 produits dans Légumes
+2026-02-01 15:23:03,610 - INFO - Scraping du produit 1/100: https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE
+2026-02-01 15:23:04,959 - INFO - Scraping du produit 2/100: https://rnm.franceagrimer.fr/prix?OIGNON
+2026-02-01 15:23:06,264 - INFO - Scraping du produit 3/100: https://rnm.franceagrimer.fr/prix?CROSNE
+2026-02-01 15:23:07,465 - INFO - Scraping du produit 4/100: https://rnm.franceagrimer.fr/prix?ESTRAGON
+2026-02-01 15:23:08,632 - INFO - Scraping du produit 5/100: https://rnm.franceagrimer.fr/prix?GOMBO
+2026-02-01 15:23:10,126 - INFO - Scraping du produit 6/100: https://rnm.franceagrimer.fr/prix?MANIOC
+2026-02-01 15:23:11,653 - INFO - Scraping du produit 7/100: https://rnm.franceagrimer.fr/prix?OSEILLE
+2026-02-01 15:23:13,040 - INFO - Scraping du produit 8/100: https://rnm.franceagrimer.fr/prix?SOJA
+2026-02-01 15:23:14,215 - INFO - Scraping du produit 9/100: https://rnm.franceagrimer.fr/prix?POTIRON
+2026-02-01 15:23:16,350 - INFO - Scraping du produit 10/100: https://rnm.franceagrimer.fr/prix?RUTABAGA
+2026-02-01 15:23:17,654 - INFO - Données sauvegardées dans data/légumes_prices.csv
+2026-02-01 15:23:17,654 - INFO - Début du scraping de la catégorie: Fruits
+2026-02-01 15:23:17,800 - INFO - Trouvé 64 produits dans Fruits
+2026-02-01 15:23:17,801 - INFO - Scraping du produit 1/64: https://rnm.franceagrimer.fr/prix?FRUITS-FRAIS
+2026-02-01 15:23:18,940 - INFO - Scraping du produit 2/64: https://rnm.franceagrimer.fr/prix?PRUNE
+2026-02-01 15:23:20,178 - INFO - Scraping du produit 3/64: https://rnm.franceagrimer.fr/prix?FIGUE-SECHE
+2026-02-01 15:23:22,524 - INFO - Scraping du produit 4/64: https://rnm.franceagrimer.fr/prix?CITRON
+2026-02-01 15:23:24,790 - INFO - Scraping du produit 5/64: https://rnm.franceagrimer.fr/prix?FRUITS-A-PEPINS
+2026-02-01 15:23:27,576 - INFO - Scraping du produit 6/64: https://rnm.franceagrimer.fr/prix?MARRON
+2026-02-01 15:23:29,730 - INFO - Scraping du produit 7/64: https://rnm.franceagrimer.fr/prix?MYRTILLE
+2026-02-01 15:23:32,034 - INFO - Scraping du produit 8/64: https://rnm.franceagrimer.fr/prix?SATSUMA
+2026-02-01 15:23:34,499 - INFO - Scraping du produit 9/64: https://rnm.franceagrimer.fr/prix?KAKI
+2026-02-01 15:23:36,747 - INFO - Scraping du produit 10/64: https://rnm.franceagrimer.fr/prix?ORANGE
+2026-02-01 15:23:39,065 - INFO - Données sauvegardées dans data/fruits_prices.csv
+2026-02-01 15:23:39,068 - INFO - Début du scraping de la catégorie: Viande
+2026-02-01 15:23:40,240 - INFO - Trouvé 40 produits dans Viande
+2026-02-01 15:23:40,241 - INFO - Scraping du produit 1/40: https://rnm.franceagrimer.fr/prix?PECHE-ET-AQUACULTURE
+2026-02-01 15:23:42,377 - INFO - Scraping du produit 2/40: https://rnm.franceagrimer.fr/prix?BEURRE-OEUF-FROMAGE
+2026-02-01 15:23:45,529 - INFO - Scraping du produit 3/40: https://rnm.franceagrimer.fr/prix?MINI-CHAPON
+2026-02-01 15:23:48,741 - INFO - Scraping du produit 4/40: https://rnm.franceagrimer.fr/prix?PORCINS
+2026-02-01 15:23:52,051 - INFO - Scraping du produit 5/40: https://rnm.franceagrimer.fr/prix?LAPIN
+2026-02-01 15:23:55,300 - INFO - Scraping du produit 6/40: https://rnm.franceagrimer.fr/prix?BICHE
+2026-02-01 15:23:58,653 - INFO - Scraping du produit 7/40: https://rnm.franceagrimer.fr/prix?JEUNE-BOVIN
+2026-02-01 15:24:01,933 - INFO - Scraping du produit 8/40: https://rnm.franceagrimer.fr/prix?PORCELET
+2026-02-01 15:24:05,228 - INFO - Scraping du produit 9/40: https://rnm.franceagrimer.fr/prix?CHAPON
+2026-02-01 15:24:08,704 - INFO - Scraping du produit 10/40: https://rnm.franceagrimer.fr/prix?SAINOMMAR
+2026-02-01 15:24:11,997 - INFO - Données sauvegardées dans data/viande_prices.csv
+2026-02-01 15:24:11,997 - INFO - Début du scraping de la catégorie: Beurre_Oeuf_Fromage
+2026-02-01 15:24:14,467 - INFO - Trouvé 64 produits dans Beurre_Oeuf_Fromage
+2026-02-01 15:24:14,468 - INFO - Scraping du produit 1/64: https://rnm.franceagrimer.fr/prix?PECHE-ET-AQUACULTURE
+2026-02-01 15:24:18,854 - INFO - Scraping du produit 2/64: https://rnm.franceagrimer.fr/prix?OEUFS
+2026-02-01 15:24:23,146 - INFO - Scraping du produit 3/64: https://rnm.franceagrimer.fr/prix?BRIE-DE-MEAUX
+2026-02-01 15:24:27,476 - INFO - Scraping du produit 4/64: https://rnm.franceagrimer.fr/prix?CANTAL
+2026-02-01 15:24:31,735 - INFO - Scraping du produit 5/64: https://rnm.franceagrimer.fr/prix?CARRE
+2026-02-01 15:24:36,097 - INFO - Scraping du produit 6/64: https://rnm.franceagrimer.fr/prix?CHEVRE
+2026-02-01 15:24:40,549 - INFO - Scraping du produit 7/64: https://rnm.franceagrimer.fr/prix?FROMAGES
+2026-02-01 15:24:45,078 - INFO - Scraping du produit 8/64: https://rnm.franceagrimer.fr/prix?EDAM
+2026-02-01 15:24:49,234 - INFO - Scraping du produit 9/64: https://rnm.franceagrimer.fr/prix?BONBEL
+2026-02-01 15:24:53,447 - INFO - Scraping du produit 10/64: https://rnm.franceagrimer.fr/prix?VIANDE
+2026-02-01 15:24:57,648 - INFO - Données sauvegardées dans data/beurre_oeuf_fromage_prices.csv
+2026-02-01 15:24:57,657 - INFO - Données sauvegardées dans data/all_agro_prices.csv
+2026-02-01 15:30:32,139 - INFO - Début du scraping de la catégorie: Légumes
+2026-02-01 15:30:33,567 - INFO - Trouvé 100 produits dans Légumes
+2026-02-01 15:30:33,567 - INFO - Scraping du produit 1/100: https://rnm.franceagrimer.fr/prix?BETTE
+2026-02-01 15:30:34,770 - INFO - Scraping du produit 2/100: https://rnm.franceagrimer.fr/prix?CAROTTE
+2026-02-01 15:30:36,092 - INFO - Scraping du produit 3/100: https://rnm.franceagrimer.fr/prix?TARO
+2026-02-01 15:30:37,317 - INFO - Scraping du produit 4/100: https://rnm.franceagrimer.fr/prix?PASTEQUE
+2026-02-01 15:30:38,485 - INFO - Scraping du produit 5/100: https://rnm.franceagrimer.fr/prix?CHOUCHOU
+2026-02-01 15:30:39,690 - INFO - Scraping du produit 6/100: https://rnm.franceagrimer.fr/prix?CHOU
+2026-02-01 15:30:41,060 - INFO - Scraping du produit 7/100: https://rnm.franceagrimer.fr/prix?CROSNE
+2026-02-01 15:30:42,207 - INFO - Scraping du produit 8/100: https://rnm.franceagrimer.fr/prix?MANIOC
+2026-02-01 15:30:43,373 - INFO - Scraping du produit 9/100: https://rnm.franceagrimer.fr/prix?TOPINAMBOUR
+2026-02-01 15:30:44,577 - INFO - Scraping du produit 10/100: https://rnm.franceagrimer.fr/prix?SCORSONERE
+2026-02-01 15:30:45,727 - INFO - Début du scraping de la catégorie: Fruits
+2026-02-01 15:30:45,861 - INFO - Trouvé 64 produits dans Fruits
+2026-02-01 15:30:45,861 - INFO - Scraping du produit 1/64: https://rnm.franceagrimer.fr/prix?CERISE
+2026-02-01 15:30:47,040 - INFO - Scraping du produit 2/64: https://rnm.franceagrimer.fr/prix?NOISETTE
+2026-02-01 15:30:48,215 - INFO - Scraping du produit 3/64: https://rnm.franceagrimer.fr/prix?FRAMBOISE
+2026-02-01 15:30:49,408 - INFO - Scraping du produit 4/64: https://rnm.franceagrimer.fr/prix?BANANE
+2026-02-01 15:30:50,667 - INFO - Scraping du produit 5/64: https://rnm.franceagrimer.fr/prix?ANANAS
+2026-02-01 15:30:51,877 - INFO - Scraping du produit 6/64: https://rnm.franceagrimer.fr/prix?GRENADE
+2026-02-01 15:30:53,050 - INFO - Scraping du produit 7/64: https://rnm.franceagrimer.fr/prix?PECHE
+2026-02-01 15:30:54,220 - INFO - Scraping du produit 8/64: https://rnm.franceagrimer.fr/prix?PRUNE
+2026-02-01 15:30:56,568 - INFO - Scraping du produit 9/64: https://rnm.franceagrimer.fr/prix?FRUITS-EXOTIQUES-ET-AUTRES
+2026-02-01 15:30:59,097 - INFO - Scraping du produit 10/64: https://rnm.franceagrimer.fr/prix?CITRON
+2026-02-01 15:31:01,648 - INFO - Début du scraping de la catégorie: Viande
+2026-02-01 15:31:02,846 - INFO - Trouvé 40 produits dans Viande
+2026-02-01 15:31:02,847 - INFO - Scraping du produit 1/40: https://rnm.franceagrimer.fr/prix?FOIE-GRAS
+2026-02-01 15:31:05,170 - INFO - Scraping du produit 2/40: https://rnm.franceagrimer.fr/prix?CHEVREUIL
+2026-02-01 15:31:07,837 - INFO - Scraping du produit 3/40: https://rnm.franceagrimer.fr/prix?DINDE
+2026-02-01 15:31:10,199 - INFO - Scraping du produit 4/40: https://rnm.franceagrimer.fr/prix?SAINOMMAR
+2026-02-01 15:31:12,534 - INFO - Scraping du produit 5/40: https://rnm.franceagrimer.fr/prix?MINI-CHAPON
+2026-02-01 15:31:14,903 - INFO - Scraping du produit 6/40: https://rnm.franceagrimer.fr/prix?BEURRE-OEUF-FROMAGE
+2026-02-01 15:31:17,083 - INFO - Scraping du produit 7/40: https://rnm.franceagrimer.fr/prix?CHEVREAU
+2026-02-01 15:31:20,838 - INFO - Scraping du produit 8/40: https://rnm.franceagrimer.fr/prix?COCHE
+2026-02-01 15:31:24,005 - INFO - Scraping du produit 9/40: https://rnm.franceagrimer.fr/prix?POULE
+2026-02-01 15:31:27,303 - INFO - Scraping du produit 10/40: https://rnm.franceagrimer.fr/prix?CANE
+2026-02-01 15:31:30,567 - INFO - Début du scraping de la catégorie: Beurre_Oeuf_Fromage
+2026-02-01 15:31:32,762 - INFO - Trouvé 64 produits dans Beurre_Oeuf_Fromage
+2026-02-01 15:31:32,763 - INFO - Scraping du produit 1/64: https://rnm.franceagrimer.fr/prix?OMELETTE
+2026-02-01 15:31:36,408 - INFO - Scraping du produit 2/64: https://rnm.franceagrimer.fr/prix?BEURRE-ET-MARGARINE
+2026-02-01 15:31:39,684 - INFO - Scraping du produit 3/64: https://rnm.franceagrimer.fr/prix?CARRE
+2026-02-01 15:31:42,958 - INFO - Scraping du produit 4/64: https://rnm.franceagrimer.fr/prix?CREME-ANGLAISE
+2026-02-01 15:31:46,131 - INFO - Scraping du produit 5/64: https://rnm.franceagrimer.fr/prix?BEAUFORT
+2026-02-01 15:31:49,417 - INFO - Scraping du produit 6/64: https://rnm.franceagrimer.fr/prix?BRIE-DE-MEAUX
+2026-02-01 15:31:53,607 - INFO - Scraping du produit 7/64: https://rnm.franceagrimer.fr/prix?MUNSTER
+2026-02-01 15:31:57,794 - INFO - Scraping du produit 8/64: https://rnm.franceagrimer.fr/prix?BLEU-D-AUVERGNE
+2026-02-01 15:32:02,114 - INFO - Scraping du produit 9/64: https://rnm.franceagrimer.fr/prix?BEURRE
+2026-02-01 15:32:06,307 - INFO - Scraping du produit 10/64: https://rnm.franceagrimer.fr/prix?VIANDE

@@ -1,0 +1,682 @@
+product,date,market,description,source_url,price,quantity,unit,origin,quality,product_clean,market_clean,unit_price,month,year,season,product_category,price_category
+Orange,2026-02-01,MIN de Bordeaux,Orange Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?ORANGE,13.71,2,kg,Portugal,Cat. II,Orange,MIN de Bordeaux,13.71,2,2026,Hiver,Fruits,10-20€
+Banane,2026-01-30,MIN de Nice,Banane Bio - Belgique,https://rnm.franceagrimer.fr/prix?BANANE,16.95,10,pièce,Belgique,Bio,Banane,MIN de Nice,16.95,1,2026,Hiver,Fruits,10-20€
+Raisin,2026-01-11,MIN d'Avignon,Raisin Cat. I - France,https://rnm.franceagrimer.fr/prix?RAISIN,13.03,8,kg,France,Cat. I,Raisin,MIN d'Avignon,13.03,1,2026,Hiver,Fruits,10-20€
+Fromage de chèvre,2025-11-26,MIN de Rungis,Fromage de chèvre Bio - Italie,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,12.69,6,pièce,Italie,Bio,Fromage De Chèvre,MIN de Rungis,12.69,11,2025,Automne,Produits laitiers,10-20€
+Crème,2025-11-24,MIN de Marseille,Crème Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?CRÈME,13.4,3,kg,Espagne,Cat. II,Crème,MIN de Marseille,13.4,11,2025,Automne,Produits laitiers,10-20€
+Lait,2026-01-13,MIN de Rungis,Lait Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?LAIT,7.55,8,litre,Pays-Bas,Cat. II,Lait,MIN de Rungis,7.55,1,2026,Hiver,Produits laitiers,5-10€
+Kiwi,2026-01-09,MIN de Perpignan,Kiwi Bio - Maroc,https://rnm.franceagrimer.fr/prix?KIWI,4.42,3,kg,Maroc,Bio,Kiwi,MIN de Perpignan,4.42,1,2026,Hiver,Fruits,2-5€
+Fromage,2025-11-26,MIN de Nice,Fromage Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?FROMAGE,11.43,1,litre,Maroc,Cat. II,Fromage,MIN de Nice,11.43,11,2025,Automne,Produits laitiers,10-20€
+Veau,2025-12-03,MIN de Marseille,Veau Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?VEAU,25.82,8,pièce,Belgique,Cat. I,Veau,MIN de Marseille,25.82,12,2025,Hiver,Viande,>20€
+Courgette,2026-01-26,MIN de Nantes,Courgette Extra - Portugal,https://rnm.franceagrimer.fr/prix?COURGETTE,3.76,6,pièce,Portugal,Extra,Courgette,MIN de Nantes,3.76,1,2026,Hiver,Légumes,2-5€
+Cheval,2025-12-01,MIN d'Avignon,Cheval Bio - Maroc,https://rnm.franceagrimer.fr/prix?CHEVAL,26.08,9,pièce,Maroc,Bio,Cheval,MIN d'Avignon,26.08,12,2025,Hiver,Viande,>20€
+Fromage de chèvre,2026-01-08,MIN de Bordeaux,Fromage de chèvre Extra - Portugal,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,14.24,9,kg,Portugal,Extra,Fromage De Chèvre,MIN de Bordeaux,14.24,1,2026,Hiver,Produits laitiers,10-20€
+Pêche,2025-12-19,MIN de Bordeaux,Pêche Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?PÊCHE,11.85,5,litre,Allemagne,Cat. I,Pêche,MIN de Bordeaux,11.85,12,2025,Hiver,Fruits,10-20€
+Crème,2026-01-29,MIN de Strasbourg,Crème Extra - Italie,https://rnm.franceagrimer.fr/prix?CRÈME,13.64,5,litre,Italie,Extra,Crème,MIN de Strasbourg,13.64,1,2026,Hiver,Produits laitiers,10-20€
+Salade,2026-01-28,MIN de Paris,Salade Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?SALADE,5.43,9,pièce,Pays-Bas,Cat. I,Salade,MIN de Paris,5.43,1,2026,Hiver,Légumes,5-10€
+Pomme de terre,2025-11-14,MIN de Paris,Pomme de terre Bio - Espagne,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,6.87,7,pièce,Espagne,Bio,Pomme De Terre,MIN de Paris,6.87,11,2025,Automne,Légumes,5-10€
+Lapin,2025-12-13,MIN de Toulouse,Lapin Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?LAPIN,28.42,2,kg,Portugal,Cat. I,Lapin,MIN de Toulouse,28.42,12,2025,Hiver,Viande,>20€
+Fraise,2026-01-07,MIN de Lille,Fraise Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?FRAISE,4.94,6,pièce,Espagne,Cat. I,Fraise,MIN de Lille,4.94,1,2026,Hiver,Fruits,2-5€
+Pêche,2025-11-27,MIN de Toulouse,Pêche Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?PÊCHE,7.82,3,pièce,Allemagne,Cat. II,Pêche,MIN de Toulouse,7.82,11,2025,Automne,Fruits,5-10€
+Volaille,2026-01-17,MIN d'Avignon,Volaille Extra - Maroc,https://rnm.franceagrimer.fr/prix?VOLAILLE,21.51,7,pièce,Maroc,Extra,Volaille,MIN d'Avignon,21.51,1,2026,Hiver,Viande,>20€
+Pomme,2026-01-31,MIN de Paris,Pomme Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?POMME,15.2,9,pièce,Portugal,Cat. II,Pomme,MIN de Paris,15.2,1,2026,Hiver,Fruits,10-20€
+Kiwi,2025-12-19,MIN de Marseille,Kiwi Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?KIWI,5.19,2,pièce,Espagne,Cat. I,Kiwi,MIN de Marseille,5.19,12,2025,Hiver,Fruits,5-10€
+Veau,2025-12-23,MIN de Nantes,Veau Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?VEAU,31.75,3,kg,Pays-Bas,Extra,Veau,MIN de Nantes,31.75,12,2025,Hiver,Viande,>20€
+Oignon,2025-12-23,MIN d'Avignon,Oignon Bio - Espagne,https://rnm.franceagrimer.fr/prix?OIGNON,3.29,1,pièce,Espagne,Bio,Oignon,MIN d'Avignon,3.29,12,2025,Hiver,Légumes,2-5€
+Fromage,2026-01-10,MIN d'Avignon,Fromage Cat. I - France,https://rnm.franceagrimer.fr/prix?FROMAGE,10.26,4,pièce,France,Cat. I,Fromage,MIN d'Avignon,10.26,1,2026,Hiver,Produits laitiers,10-20€
+Cerise,2025-11-15,MIN de Perpignan,Cerise Bio - Portugal,https://rnm.franceagrimer.fr/prix?CERISE,6.46,5,pièce,Portugal,Bio,Cerise,MIN de Perpignan,6.46,11,2025,Automne,Fruits,5-10€
+Carotte,2025-11-23,MIN de Lille,Carotte Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?CAROTTE,3.94,2,litre,Maroc,Cat. II,Carotte,MIN de Lille,3.94,11,2025,Automne,Légumes,2-5€
+Poire,2025-11-18,MIN de Rungis,Poire Bio - Italie,https://rnm.franceagrimer.fr/prix?POIRE,10.32,3,pièce,Italie,Bio,Poire,MIN de Rungis,10.32,11,2025,Automne,Fruits,10-20€
+Œuf,2025-11-15,MIN de Lille,Œuf Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?ŒUF,4.97,8,pièce,Pays-Bas,Cat. II,Œuf,MIN de Lille,4.97,11,2025,Automne,Produits laitiers,2-5€
+Tomate,2025-12-03,MIN de Marseille,Tomate Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?TOMATE,3.25,7,litre,Pays-Bas,Bio,Tomate,MIN de Marseille,3.25,12,2025,Hiver,Légumes,2-5€
+Banane,2025-11-09,MIN de Strasbourg,Banane Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?BANANE,12.67,10,litre,Pays-Bas,Cat. II,Banane,MIN de Strasbourg,12.67,11,2025,Automne,Fruits,10-20€
+Agneau,2025-12-29,MIN de Lille,Agneau Extra - Portugal,https://rnm.franceagrimer.fr/prix?AGNEAU,26.94,4,kg,Portugal,Extra,Agneau,MIN de Lille,26.94,12,2025,Hiver,Viande,>20€
+Bœuf,2025-12-11,MIN de Toulouse,Bœuf Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?BŒUF,25.95,1,kg,Allemagne,Cat. I,Bœuf,MIN de Toulouse,25.95,12,2025,Hiver,Viande,>20€
+Kiwi,2025-12-08,MIN de Nice,Kiwi Cat. I - France,https://rnm.franceagrimer.fr/prix?KIWI,5.17,4,pièce,France,Cat. I,Kiwi,MIN de Nice,5.17,12,2025,Hiver,Fruits,5-10€
+Agneau,2025-11-15,MIN de Bordeaux,Agneau Bio - Espagne,https://rnm.franceagrimer.fr/prix?AGNEAU,30.99,10,pièce,Espagne,Bio,Agneau,MIN de Bordeaux,30.99,11,2025,Automne,Viande,>20€
+Chou,2025-12-27,MIN de Lyon,Chou Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?CHOU,7.79,5,litre,Belgique,Cat. II,Chou,MIN de Lyon,7.79,12,2025,Hiver,Légumes,5-10€
+Fraise,2025-12-24,MIN de Lille,Fraise Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?FRAISE,3.49,5,litre,Allemagne,Cat. II,Fraise,MIN de Lille,3.49,12,2025,Hiver,Fruits,2-5€
+Orange,2026-01-19,MIN de Marseille,Orange Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?ORANGE,9.65,10,kg,Espagne,Cat. II,Orange,MIN de Marseille,9.65,1,2026,Hiver,Fruits,5-10€
+Pastèque,2025-11-07,MIN de Lille,Pastèque Bio - France,https://rnm.franceagrimer.fr/prix?PASTÈQUE,3.14,8,pièce,France,Bio,Pastèque,MIN de Lille,3.14,11,2025,Automne,Fruits,2-5€
+Crème,2026-01-14,MIN de Paris,Crème Bio - Italie,https://rnm.franceagrimer.fr/prix?CRÈME,14.13,6,kg,Italie,Bio,Crème,MIN de Paris,14.13,1,2026,Hiver,Produits laitiers,10-20€
+Poire,2025-12-06,MIN de Strasbourg,Poire Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?POIRE,12.28,10,pièce,Maroc,Cat. I,Poire,MIN de Strasbourg,12.28,12,2025,Hiver,Fruits,10-20€
+Agneau,2026-02-01,MIN de Rungis,Agneau Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?AGNEAU,31.29,1,kg,Pays-Bas,Extra,Agneau,MIN de Rungis,31.29,2,2026,Hiver,Viande,>20€
+Haricot vert,2026-01-01,MIN de Strasbourg,Haricot vert Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?HARICOT-VERT,7.19,8,pièce,Pays-Bas,Cat. II,Haricot Vert,MIN de Strasbourg,7.19,1,2026,Hiver,Légumes,5-10€
+Veau,2026-01-24,MIN de Rungis,Veau Bio - Portugal,https://rnm.franceagrimer.fr/prix?VEAU,21.0,6,kg,Portugal,Bio,Veau,MIN de Rungis,21.0,1,2026,Hiver,Viande,>20€
+Yaourt,2025-12-29,MIN de Bordeaux,Yaourt Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?YAOURT,6.56,8,kg,Espagne,Cat. II,Yaourt,MIN de Bordeaux,6.56,12,2025,Hiver,Produits laitiers,5-10€
+Pêche,2025-11-18,MIN de Marseille,Pêche Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?PÊCHE,7.34,4,kg,Pays-Bas,Cat. I,Pêche,MIN de Marseille,7.34,11,2025,Automne,Fruits,5-10€
+Poire,2025-12-14,MIN de Paris,Poire Extra - Portugal,https://rnm.franceagrimer.fr/prix?POIRE,13.77,6,litre,Portugal,Extra,Poire,MIN de Paris,13.77,12,2025,Hiver,Fruits,10-20€
+Agneau,2025-11-04,MIN de Paris,Agneau Bio - Portugal,https://rnm.franceagrimer.fr/prix?AGNEAU,28.3,6,pièce,Portugal,Bio,Agneau,MIN de Paris,28.3,11,2025,Automne,Viande,>20€
+Melon,2026-01-16,MIN de Paris,Melon Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?MELON,7.82,3,kg,Belgique,Cat. II,Melon,MIN de Paris,7.82,1,2026,Hiver,Fruits,5-10€
+Raisin,2025-12-03,MIN de Toulouse,Raisin Extra - Allemagne,https://rnm.franceagrimer.fr/prix?RAISIN,15.68,7,litre,Allemagne,Extra,Raisin,MIN de Toulouse,15.68,12,2025,Hiver,Fruits,10-20€
+Tomate,2026-01-30,MIN de Strasbourg,Tomate Bio - France,https://rnm.franceagrimer.fr/prix?TOMATE,3.43,4,kg,France,Bio,Tomate,MIN de Strasbourg,3.43,1,2026,Hiver,Légumes,2-5€
+Poireau,2026-01-18,MIN de Paris,Poireau Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?POIREAU,3.69,3,pièce,Maroc,Cat. I,Poireau,MIN de Paris,3.69,1,2026,Hiver,Légumes,2-5€
+Cheval,2025-12-31,MIN de Strasbourg,Cheval Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?CHEVAL,23.64,1,kg,Espagne,Cat. I,Cheval,MIN de Strasbourg,23.64,12,2025,Hiver,Viande,>20€
+Raisin,2025-12-19,MIN de Toulouse,Raisin Cat. II - Italie,https://rnm.franceagrimer.fr/prix?RAISIN,13.47,4,kg,Italie,Cat. II,Raisin,MIN de Toulouse,13.47,12,2025,Hiver,Fruits,10-20€
+Pomme,2026-01-04,MIN de Marseille,Pomme Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?POMME,11.13,3,litre,Portugal,Cat. II,Pomme,MIN de Marseille,11.13,1,2026,Hiver,Fruits,10-20€
+Raisin,2026-01-22,MIN de Toulouse,Raisin Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?RAISIN,14.38,3,litre,Pays-Bas,Cat. I,Raisin,MIN de Toulouse,14.38,1,2026,Hiver,Fruits,10-20€
+Canard,2026-01-25,MIN de Lille,Canard Cat. I - France,https://rnm.franceagrimer.fr/prix?CANARD,27.45,7,pièce,France,Cat. I,Canard,MIN de Lille,27.45,1,2026,Hiver,Viande,>20€
+Pomme de terre,2025-12-12,MIN de Marseille,Pomme de terre Cat. I - France,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,5.91,8,litre,France,Cat. I,Pomme De Terre,MIN de Marseille,5.91,12,2025,Hiver,Légumes,5-10€
+Canard,2025-12-22,MIN de Strasbourg,Canard Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?CANARD,29.14,8,kg,Pays-Bas,Cat. I,Canard,MIN de Strasbourg,29.14,12,2025,Hiver,Viande,>20€
+Oignon,2026-01-24,MIN d'Avignon,Oignon Cat. II - Italie,https://rnm.franceagrimer.fr/prix?OIGNON,3.17,8,litre,Italie,Cat. II,Oignon,MIN d'Avignon,3.17,1,2026,Hiver,Légumes,2-5€
+Ail,2025-11-07,MIN d'Avignon,Ail Extra - Belgique,https://rnm.franceagrimer.fr/prix?AIL,6.03,2,pièce,Belgique,Extra,Ail,MIN d'Avignon,6.03,11,2025,Automne,Légumes,5-10€
+Agneau,2026-01-04,MIN de Rungis,Agneau Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?AGNEAU,32.23,10,litre,Espagne,Cat. I,Agneau,MIN de Rungis,32.23,1,2026,Hiver,Viande,>20€
+Poireau,2025-11-19,MIN de Lille,Poireau Extra - Italie,https://rnm.franceagrimer.fr/prix?POIREAU,4.08,9,kg,Italie,Extra,Poireau,MIN de Lille,4.08,11,2025,Automne,Légumes,2-5€
+Crème,2025-11-20,MIN de Nice,Crème Bio - Allemagne,https://rnm.franceagrimer.fr/prix?CRÈME,13.81,4,kg,Allemagne,Bio,Crème,MIN de Nice,13.81,11,2025,Automne,Produits laitiers,10-20€
+Pomme,2026-01-22,MIN de Lille,Pomme Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?POMME,13.87,8,kg,Espagne,Cat. II,Pomme,MIN de Lille,13.87,1,2026,Hiver,Fruits,10-20€
+Bœuf,2025-12-12,MIN de Nice,Bœuf Extra - Espagne,https://rnm.franceagrimer.fr/prix?BŒUF,29.31,2,pièce,Espagne,Extra,Bœuf,MIN de Nice,29.31,12,2025,Hiver,Viande,>20€
+Bœuf,2026-01-03,MIN de Nice,Bœuf Cat. II - Italie,https://rnm.franceagrimer.fr/prix?BŒUF,26.22,6,pièce,Italie,Cat. II,Bœuf,MIN de Nice,26.22,1,2026,Hiver,Viande,>20€
+Carotte,2026-01-27,MIN de Toulouse,Carotte Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?CAROTTE,3.94,3,litre,Maroc,Cat. II,Carotte,MIN de Toulouse,3.94,1,2026,Hiver,Légumes,2-5€
+Ail,2026-01-25,MIN de Nice,Ail Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?AIL,6.83,5,kg,Belgique,Cat. II,Ail,MIN de Nice,6.83,1,2026,Hiver,Légumes,5-10€
+Oignon,2025-12-17,MIN d'Avignon,Oignon Bio - France,https://rnm.franceagrimer.fr/prix?OIGNON,3.71,6,litre,France,Bio,Oignon,MIN d'Avignon,3.71,12,2025,Hiver,Légumes,2-5€
+Poivron,2026-01-04,MIN de Lille,Poivron Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?POIVRON,2.57,10,kg,Belgique,Cat. II,Poivron,MIN de Lille,2.57,1,2026,Hiver,Légumes,2-5€
+Citron,2026-01-17,MIN d'Avignon,Citron Extra - Espagne,https://rnm.franceagrimer.fr/prix?CITRON,9.88,7,kg,Espagne,Extra,Citron,MIN d'Avignon,9.88,1,2026,Hiver,Fruits,5-10€
+Lapin,2026-01-15,MIN de Marseille,Lapin Cat. II - Italie,https://rnm.franceagrimer.fr/prix?LAPIN,23.61,3,litre,Italie,Cat. II,Lapin,MIN de Marseille,23.61,1,2026,Hiver,Viande,>20€
+Dinde,2025-12-20,MIN d'Avignon,Dinde Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?DINDE,28.56,6,pièce,Espagne,Cat. II,Dinde,MIN d'Avignon,28.56,12,2025,Hiver,Viande,>20€
+Pêche,2026-01-10,MIN de Strasbourg,Pêche Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?PÊCHE,13.12,10,pièce,Portugal,Cat. I,Pêche,MIN de Strasbourg,13.12,1,2026,Hiver,Fruits,10-20€
+Carotte,2025-12-20,MIN de Lille,Carotte Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?CAROTTE,3.45,5,litre,Belgique,Cat. I,Carotte,MIN de Lille,3.45,12,2025,Hiver,Légumes,2-5€
+Agneau,2026-01-09,MIN de Bordeaux,Agneau Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?AGNEAU,33.91,6,litre,Espagne,Cat. I,Agneau,MIN de Bordeaux,33.91,1,2026,Hiver,Viande,>20€
+Courgette,2025-11-17,MIN de Paris,Courgette Extra - Espagne,https://rnm.franceagrimer.fr/prix?COURGETTE,3.84,8,kg,Espagne,Extra,Courgette,MIN de Paris,3.84,11,2025,Automne,Légumes,2-5€
+Carotte,2025-12-12,MIN de Nice,Carotte Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?CAROTTE,3.41,3,litre,Espagne,Cat. I,Carotte,MIN de Nice,3.41,12,2025,Hiver,Légumes,2-5€
+Citron,2026-01-19,MIN de Lille,Citron Extra - Belgique,https://rnm.franceagrimer.fr/prix?CITRON,7.91,10,pièce,Belgique,Extra,Citron,MIN de Lille,7.91,1,2026,Hiver,Fruits,5-10€
+Lait,2026-01-12,MIN de Strasbourg,Lait Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?LAIT,9.5,9,litre,Pays-Bas,Extra,Lait,MIN de Strasbourg,9.5,1,2026,Hiver,Produits laitiers,5-10€
+Canard,2025-11-08,MIN de Perpignan,Canard Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?CANARD,35.05,7,litre,Belgique,Cat. II,Canard,MIN de Perpignan,35.05,11,2025,Automne,Viande,>20€
+Poire,2025-11-23,MIN de Marseille,Poire Cat. II - France,https://rnm.franceagrimer.fr/prix?POIRE,10.44,3,kg,France,Cat. II,Poire,MIN de Marseille,10.44,11,2025,Automne,Fruits,10-20€
+Agneau,2025-12-10,MIN de Bordeaux,Agneau Bio - Belgique,https://rnm.franceagrimer.fr/prix?AGNEAU,26.51,8,pièce,Belgique,Bio,Agneau,MIN de Bordeaux,26.51,12,2025,Hiver,Viande,>20€
+Agneau,2026-01-29,MIN de Strasbourg,Agneau Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?AGNEAU,31.27,9,pièce,Espagne,Cat. I,Agneau,MIN de Strasbourg,31.27,1,2026,Hiver,Viande,>20€
+Raisin,2025-11-10,MIN de Nantes,Raisin Bio - Maroc,https://rnm.franceagrimer.fr/prix?RAISIN,9.86,6,litre,Maroc,Bio,Raisin,MIN de Nantes,9.86,11,2025,Automne,Fruits,5-10€
+Carotte,2025-12-06,MIN de Lyon,Carotte Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?CAROTTE,3.06,6,kg,Belgique,Cat. II,Carotte,MIN de Lyon,3.06,12,2025,Hiver,Légumes,2-5€
+Kiwi,2025-12-09,MIN de Lyon,Kiwi Bio - France,https://rnm.franceagrimer.fr/prix?KIWI,5.33,4,kg,France,Bio,Kiwi,MIN de Lyon,5.33,12,2025,Hiver,Fruits,5-10€
+Poulet,2025-12-14,MIN de Toulouse,Poulet Bio - Allemagne,https://rnm.franceagrimer.fr/prix?POULET,14.77,1,pièce,Allemagne,Bio,Poulet,MIN de Toulouse,14.77,12,2025,Hiver,Viande,10-20€
+Raisin,2025-11-05,MIN de Toulouse,Raisin Bio - Allemagne,https://rnm.franceagrimer.fr/prix?RAISIN,8.79,3,pièce,Allemagne,Bio,Raisin,MIN de Toulouse,8.79,11,2025,Automne,Fruits,5-10€
+Bœuf,2025-11-28,MIN de Lyon,Bœuf Bio - Maroc,https://rnm.franceagrimer.fr/prix?BŒUF,28.41,7,kg,Maroc,Bio,Bœuf,MIN de Lyon,28.41,11,2025,Automne,Viande,>20€
+Citron,2025-11-27,MIN de Rungis,Citron Bio - France,https://rnm.franceagrimer.fr/prix?CITRON,5.25,3,kg,France,Bio,Citron,MIN de Rungis,5.25,11,2025,Automne,Fruits,5-10€
+Raisin,2026-01-08,MIN de Lille,Raisin Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?RAISIN,12.75,10,kg,Maroc,Cat. II,Raisin,MIN de Lille,12.75,1,2026,Hiver,Fruits,10-20€
+Lapin,2026-01-22,MIN de Paris,Lapin Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?LAPIN,23.71,9,kg,Belgique,Cat. I,Lapin,MIN de Paris,23.71,1,2026,Hiver,Viande,>20€
+Tomate,2025-12-11,MIN de Marseille,Tomate Bio - Portugal,https://rnm.franceagrimer.fr/prix?TOMATE,3.34,8,kg,Portugal,Bio,Tomate,MIN de Marseille,3.34,12,2025,Hiver,Légumes,2-5€
+Aubergine,2026-01-18,MIN de Perpignan,Aubergine Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?AUBERGINE,2.71,1,kg,Pays-Bas,Bio,Aubergine,MIN de Perpignan,2.71,1,2026,Hiver,Légumes,2-5€
+Veau,2025-12-26,MIN de Lille,Veau Cat. I - Italie,https://rnm.franceagrimer.fr/prix?VEAU,21.88,8,kg,Italie,Cat. I,Veau,MIN de Lille,21.88,12,2025,Hiver,Viande,>20€
+Pastèque,2026-01-19,MIN de Paris,Pastèque Bio - Maroc,https://rnm.franceagrimer.fr/prix?PASTÈQUE,4.36,4,litre,Maroc,Bio,Pastèque,MIN de Paris,4.36,1,2026,Hiver,Fruits,2-5€
+Fromage de chèvre,2026-01-23,MIN de Bordeaux,Fromage de chèvre Bio - Espagne,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,15.25,1,kg,Espagne,Bio,Fromage De Chèvre,MIN de Bordeaux,15.25,1,2026,Hiver,Produits laitiers,10-20€
+Yaourt,2025-12-12,MIN de Marseille,Yaourt Bio - Italie,https://rnm.franceagrimer.fr/prix?YAOURT,6.0,10,kg,Italie,Bio,Yaourt,MIN de Marseille,6.0,12,2025,Hiver,Produits laitiers,5-10€
+Pomme de terre,2026-01-27,MIN de Marseille,Pomme de terre Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,7.31,2,litre,Portugal,Cat. I,Pomme De Terre,MIN de Marseille,7.31,1,2026,Hiver,Légumes,5-10€
+Dinde,2025-11-13,MIN de Paris,Dinde Cat. I - Italie,https://rnm.franceagrimer.fr/prix?DINDE,30.82,6,litre,Italie,Cat. I,Dinde,MIN de Paris,30.82,11,2025,Automne,Viande,>20€
+Canard,2026-01-28,MIN de Bordeaux,Canard Bio - Maroc,https://rnm.franceagrimer.fr/prix?CANARD,35.98,7,kg,Maroc,Bio,Canard,MIN de Bordeaux,35.98,1,2026,Hiver,Viande,>20€
+Lait,2025-12-31,MIN de Rungis,Lait Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?LAIT,9.42,6,litre,Espagne,Cat. II,Lait,MIN de Rungis,9.42,12,2025,Hiver,Produits laitiers,5-10€
+Agneau,2026-01-04,MIN de Nantes,Agneau Cat. II - France,https://rnm.franceagrimer.fr/prix?AGNEAU,30.45,8,pièce,France,Cat. II,Agneau,MIN de Nantes,30.45,1,2026,Hiver,Viande,>20€
+Veau,2025-12-16,MIN d'Avignon,Veau Extra - Espagne,https://rnm.franceagrimer.fr/prix?VEAU,33.16,7,kg,Espagne,Extra,Veau,MIN d'Avignon,33.16,12,2025,Hiver,Viande,>20€
+Tomate,2025-12-01,MIN de Bordeaux,Tomate Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?TOMATE,3.61,4,litre,Espagne,Cat. II,Tomate,MIN de Bordeaux,3.61,12,2025,Hiver,Légumes,2-5€
+Kiwi,2026-01-05,MIN de Perpignan,Kiwi Bio - Portugal,https://rnm.franceagrimer.fr/prix?KIWI,5.94,6,litre,Portugal,Bio,Kiwi,MIN de Perpignan,5.94,1,2026,Hiver,Fruits,5-10€
+Poulet,2026-01-01,MIN de Nantes,Poulet Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?POULET,15.47,4,pièce,Pays-Bas,Cat. I,Poulet,MIN de Nantes,15.47,1,2026,Hiver,Viande,10-20€
+Lapin,2026-01-29,MIN de Nantes,Lapin Bio - France,https://rnm.franceagrimer.fr/prix?LAPIN,21.99,1,kg,France,Bio,Lapin,MIN de Nantes,21.99,1,2026,Hiver,Viande,>20€
+Aubergine,2026-01-20,MIN de Paris,Aubergine Cat. I - Italie,https://rnm.franceagrimer.fr/prix?AUBERGINE,2.4,8,kg,Italie,Cat. I,Aubergine,MIN de Paris,2.4,1,2026,Hiver,Légumes,2-5€
+Fraise,2026-01-26,MIN de Toulouse,Fraise Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?FRAISE,4.98,4,pièce,Belgique,Cat. II,Fraise,MIN de Toulouse,4.98,1,2026,Hiver,Fruits,2-5€
+Haricot vert,2026-01-22,MIN de Lille,Haricot vert Bio - Allemagne,https://rnm.franceagrimer.fr/prix?HARICOT-VERT,7.89,1,kg,Allemagne,Bio,Haricot Vert,MIN de Lille,7.89,1,2026,Hiver,Légumes,5-10€
+Porc,2025-12-25,MIN de Strasbourg,Porc Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?PORC,34.65,10,pièce,Allemagne,Cat. II,Porc,MIN de Strasbourg,34.65,12,2025,Hiver,Viande,>20€
+Oignon,2026-01-15,MIN de Paris,Oignon Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?OIGNON,3.59,5,litre,Pays-Bas,Extra,Oignon,MIN de Paris,3.59,1,2026,Hiver,Légumes,2-5€
+Porc,2026-01-13,MIN de Nice,Porc Extra - Belgique,https://rnm.franceagrimer.fr/prix?PORC,29.6,3,kg,Belgique,Extra,Porc,MIN de Nice,29.6,1,2026,Hiver,Viande,>20€
+Veau,2025-12-02,MIN de Nice,Veau Extra - Belgique,https://rnm.franceagrimer.fr/prix?VEAU,32.35,7,pièce,Belgique,Extra,Veau,MIN de Nice,32.35,12,2025,Hiver,Viande,>20€
+Fromage de chèvre,2026-01-15,MIN de Bordeaux,Fromage de chèvre Extra - Belgique,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,14.25,9,pièce,Belgique,Extra,Fromage De Chèvre,MIN de Bordeaux,14.25,1,2026,Hiver,Produits laitiers,10-20€
+Fromage de chèvre,2026-01-10,MIN de Marseille,Fromage de chèvre Cat. I - France,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,15.14,1,pièce,France,Cat. I,Fromage De Chèvre,MIN de Marseille,15.14,1,2026,Hiver,Produits laitiers,10-20€
+Cerise,2025-12-10,MIN de Marseille,Cerise Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?CERISE,9.39,2,litre,Maroc,Cat. I,Cerise,MIN de Marseille,9.39,12,2025,Hiver,Fruits,5-10€
+Lapin,2025-12-11,MIN de Marseille,Lapin Cat. II - France,https://rnm.franceagrimer.fr/prix?LAPIN,28.72,7,pièce,France,Cat. II,Lapin,MIN de Marseille,28.72,12,2025,Hiver,Viande,>20€
+Lait,2025-11-16,MIN de Rungis,Lait Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?LAIT,10.06,10,pièce,Pays-Bas,Cat. II,Lait,MIN de Rungis,10.06,11,2025,Automne,Produits laitiers,10-20€
+Carotte,2026-01-16,MIN de Paris,Carotte Bio - Portugal,https://rnm.franceagrimer.fr/prix?CAROTTE,3.35,4,kg,Portugal,Bio,Carotte,MIN de Paris,3.35,1,2026,Hiver,Légumes,2-5€
+Œuf,2026-01-09,MIN de Perpignan,Œuf Bio - Espagne,https://rnm.franceagrimer.fr/prix?ŒUF,5.0,2,pièce,Espagne,Bio,Œuf,MIN de Perpignan,5.0,1,2026,Hiver,Produits laitiers,5-10€
+Crème,2025-12-17,MIN de Lille,Crème Bio - Italie,https://rnm.franceagrimer.fr/prix?CRÈME,11.08,6,kg,Italie,Bio,Crème,MIN de Lille,11.08,12,2025,Hiver,Produits laitiers,10-20€
+Poireau,2026-01-06,MIN de Paris,Poireau Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?POIREAU,3.81,8,litre,Belgique,Cat. II,Poireau,MIN de Paris,3.81,1,2026,Hiver,Légumes,2-5€
+Aubergine,2025-11-15,MIN de Rungis,Aubergine Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?AUBERGINE,2.61,5,litre,Pays-Bas,Extra,Aubergine,MIN de Rungis,2.61,11,2025,Automne,Légumes,2-5€
+Raisin,2025-12-08,MIN de Lille,Raisin Extra - Belgique,https://rnm.franceagrimer.fr/prix?RAISIN,10.49,2,kg,Belgique,Extra,Raisin,MIN de Lille,10.49,12,2025,Hiver,Fruits,10-20€
+Veau,2026-01-21,MIN de Nantes,Veau Cat. II - France,https://rnm.franceagrimer.fr/prix?VEAU,22.4,3,pièce,France,Cat. II,Veau,MIN de Nantes,22.4,1,2026,Hiver,Viande,>20€
+Beurre,2025-12-06,MIN de Perpignan,Beurre Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?BEURRE,8.78,2,pièce,Espagne,Cat. I,Beurre,MIN de Perpignan,8.78,12,2025,Hiver,Produits laitiers,5-10€
+Salade,2025-12-05,MIN de Rungis,Salade Extra - Allemagne,https://rnm.franceagrimer.fr/prix?SALADE,4.98,10,kg,Allemagne,Extra,Salade,MIN de Rungis,4.98,12,2025,Hiver,Légumes,2-5€
+Dinde,2026-01-05,MIN d'Avignon,Dinde Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?DINDE,35.11,3,kg,Pays-Bas,Cat. I,Dinde,MIN d'Avignon,35.11,1,2026,Hiver,Viande,>20€
+Pomme de terre,2026-01-09,MIN d'Avignon,Pomme de terre Cat. II - France,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,7.47,4,kg,France,Cat. II,Pomme De Terre,MIN d'Avignon,7.47,1,2026,Hiver,Légumes,5-10€
+Lait,2025-12-13,MIN de Perpignan,Lait Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?LAIT,8.87,9,kg,Allemagne,Cat. I,Lait,MIN de Perpignan,8.87,12,2025,Hiver,Produits laitiers,5-10€
+Kiwi,2025-11-14,MIN de Bordeaux,Kiwi Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?KIWI,3.88,1,litre,Belgique,Cat. I,Kiwi,MIN de Bordeaux,3.88,11,2025,Automne,Fruits,2-5€
+Bœuf,2025-11-10,MIN de Nantes,Bœuf Bio - Allemagne,https://rnm.franceagrimer.fr/prix?BŒUF,27.05,5,pièce,Allemagne,Bio,Bœuf,MIN de Nantes,27.05,11,2025,Automne,Viande,>20€
+Poulet,2026-01-09,MIN de Bordeaux,Poulet Bio - Maroc,https://rnm.franceagrimer.fr/prix?POULET,12.99,5,kg,Maroc,Bio,Poulet,MIN de Bordeaux,12.99,1,2026,Hiver,Viande,10-20€
+Pastèque,2026-01-09,MIN de Nice,Pastèque Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?PASTÈQUE,4.54,5,pièce,Allemagne,Cat. II,Pastèque,MIN de Nice,4.54,1,2026,Hiver,Fruits,2-5€
+Poivron,2026-01-25,MIN de Perpignan,Poivron Bio - Allemagne,https://rnm.franceagrimer.fr/prix?POIVRON,2.72,6,pièce,Allemagne,Bio,Poivron,MIN de Perpignan,2.72,1,2026,Hiver,Légumes,2-5€
+Fromage,2026-01-06,MIN d'Avignon,Fromage Extra - Italie,https://rnm.franceagrimer.fr/prix?FROMAGE,11.95,7,pièce,Italie,Extra,Fromage,MIN d'Avignon,11.95,1,2026,Hiver,Produits laitiers,10-20€
+Melon,2025-11-10,MIN de Strasbourg,Melon Extra - Maroc,https://rnm.franceagrimer.fr/prix?MELON,5.17,4,litre,Maroc,Extra,Melon,MIN de Strasbourg,5.17,11,2025,Automne,Fruits,5-10€
+Veau,2025-12-31,MIN d'Avignon,Veau Extra - Belgique,https://rnm.franceagrimer.fr/prix?VEAU,19.36,4,pièce,Belgique,Extra,Veau,MIN d'Avignon,19.36,12,2025,Hiver,Viande,10-20€
+Melon,2025-12-24,MIN de Paris,Melon Bio - Allemagne,https://rnm.franceagrimer.fr/prix?MELON,7.87,5,kg,Allemagne,Bio,Melon,MIN de Paris,7.87,12,2025,Hiver,Fruits,5-10€
+Veau,2025-11-03,MIN de Rungis,Veau Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?VEAU,32.44,8,kg,Pays-Bas,Cat. I,Veau,MIN de Rungis,32.44,11,2025,Automne,Viande,>20€
+Pomme de terre,2026-01-09,MIN d'Avignon,Pomme de terre Cat. I - France,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,7.34,9,pièce,France,Cat. I,Pomme De Terre,MIN d'Avignon,7.34,1,2026,Hiver,Légumes,5-10€
+Fraise,2025-12-29,MIN de Toulouse,Fraise Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?FRAISE,4.5,4,kg,Portugal,Cat. II,Fraise,MIN de Toulouse,4.5,12,2025,Hiver,Fruits,2-5€
+Tomate,2026-01-15,MIN de Lille,Tomate Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?TOMATE,3.16,2,pièce,Portugal,Cat. I,Tomate,MIN de Lille,3.16,1,2026,Hiver,Légumes,2-5€
+Pomme,2025-11-13,MIN de Nantes,Pomme Cat. I - France,https://rnm.franceagrimer.fr/prix?POMME,8.96,8,pièce,France,Cat. I,Pomme,MIN de Nantes,8.96,11,2025,Automne,Fruits,5-10€
+Cerise,2026-02-01,MIN de Bordeaux,Cerise Bio - Espagne,https://rnm.franceagrimer.fr/prix?CERISE,11.86,8,litre,Espagne,Bio,Cerise,MIN de Bordeaux,11.86,2,2026,Hiver,Fruits,10-20€
+Cerise,2025-12-29,MIN de Lyon,Cerise Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?CERISE,9.63,8,litre,Belgique,Cat. I,Cerise,MIN de Lyon,9.63,12,2025,Hiver,Fruits,5-10€
+Pastèque,2026-01-05,MIN de Nantes,Pastèque Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?PASTÈQUE,4.53,9,kg,Allemagne,Cat. I,Pastèque,MIN de Nantes,4.53,1,2026,Hiver,Fruits,2-5€
+Citron,2026-01-30,MIN de Nice,Citron Extra - Belgique,https://rnm.franceagrimer.fr/prix?CITRON,8.75,4,pièce,Belgique,Extra,Citron,MIN de Nice,8.75,1,2026,Hiver,Fruits,5-10€
+Beurre,2025-11-11,MIN d'Avignon,Beurre Cat. II - France,https://rnm.franceagrimer.fr/prix?BEURRE,8.88,8,pièce,France,Cat. II,Beurre,MIN d'Avignon,8.88,11,2025,Automne,Produits laitiers,5-10€
+Banane,2026-01-08,MIN de Lille,Banane Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?BANANE,12.7,5,kg,Espagne,Cat. I,Banane,MIN de Lille,12.7,1,2026,Hiver,Fruits,10-20€
+Veau,2025-12-06,MIN de Nice,Veau Extra - Belgique,https://rnm.franceagrimer.fr/prix?VEAU,21.15,1,litre,Belgique,Extra,Veau,MIN de Nice,21.15,12,2025,Hiver,Viande,>20€
+Raisin,2025-11-17,MIN de Rungis,Raisin Extra - Portugal,https://rnm.franceagrimer.fr/prix?RAISIN,10.86,4,litre,Portugal,Extra,Raisin,MIN de Rungis,10.86,11,2025,Automne,Fruits,10-20€
+Lapin,2025-12-11,MIN de Rungis,Lapin Extra - Belgique,https://rnm.franceagrimer.fr/prix?LAPIN,25.3,5,litre,Belgique,Extra,Lapin,MIN de Rungis,25.3,12,2025,Hiver,Viande,>20€
+Pomme,2026-01-04,MIN de Nantes,Pomme Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?POMME,15.04,9,pièce,Pays-Bas,Bio,Pomme,MIN de Nantes,15.04,1,2026,Hiver,Fruits,10-20€
+Citron,2026-01-19,MIN de Toulouse,Citron Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?CITRON,8.18,2,kg,Pays-Bas,Cat. I,Citron,MIN de Toulouse,8.18,1,2026,Hiver,Fruits,5-10€
+Fraise,2025-11-21,MIN de Perpignan,Fraise Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?FRAISE,2.82,6,litre,Pays-Bas,Extra,Fraise,MIN de Perpignan,2.82,11,2025,Automne,Fruits,2-5€
+Cerise,2025-11-15,MIN de Marseille,Cerise Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?CERISE,7.32,4,pièce,Portugal,Cat. II,Cerise,MIN de Marseille,7.32,11,2025,Automne,Fruits,5-10€
+Poireau,2026-01-28,MIN de Lille,Poireau Cat. II - Italie,https://rnm.franceagrimer.fr/prix?POIREAU,4.24,5,kg,Italie,Cat. II,Poireau,MIN de Lille,4.24,1,2026,Hiver,Légumes,2-5€
+Oignon,2026-01-19,MIN d'Avignon,Oignon Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?OIGNON,3.32,8,pièce,Portugal,Cat. II,Oignon,MIN d'Avignon,3.32,1,2026,Hiver,Légumes,2-5€
+Pomme de terre,2025-12-24,MIN de Nantes,Pomme de terre Bio - Italie,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,7.18,6,litre,Italie,Bio,Pomme De Terre,MIN de Nantes,7.18,12,2025,Hiver,Légumes,5-10€
+Agneau,2026-01-28,MIN de Lille,Agneau Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?AGNEAU,26.6,7,litre,Pays-Bas,Bio,Agneau,MIN de Lille,26.6,1,2026,Hiver,Viande,>20€
+Dinde,2026-01-08,MIN de Lille,Dinde Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?DINDE,30.79,1,litre,Pays-Bas,Extra,Dinde,MIN de Lille,30.79,1,2026,Hiver,Viande,>20€
+Beurre,2025-12-30,MIN de Nice,Beurre Bio - Belgique,https://rnm.franceagrimer.fr/prix?BEURRE,11.02,6,kg,Belgique,Bio,Beurre,MIN de Nice,11.02,12,2025,Hiver,Produits laitiers,10-20€
+Lapin,2025-12-13,MIN de Perpignan,Lapin Extra - Allemagne,https://rnm.franceagrimer.fr/prix?LAPIN,25.1,9,litre,Allemagne,Extra,Lapin,MIN de Perpignan,25.1,12,2025,Hiver,Viande,>20€
+Cerise,2026-01-01,MIN de Toulouse,Cerise Bio - Maroc,https://rnm.franceagrimer.fr/prix?CERISE,9.6,4,litre,Maroc,Bio,Cerise,MIN de Toulouse,9.6,1,2026,Hiver,Fruits,5-10€
+Volaille,2025-12-27,MIN de Toulouse,Volaille Cat. I - Italie,https://rnm.franceagrimer.fr/prix?VOLAILLE,18.65,5,pièce,Italie,Cat. I,Volaille,MIN de Toulouse,18.65,12,2025,Hiver,Viande,10-20€
+Fraise,2025-11-03,MIN de Nice,Fraise Extra - Portugal,https://rnm.franceagrimer.fr/prix?FRAISE,2.93,3,pièce,Portugal,Extra,Fraise,MIN de Nice,2.93,11,2025,Automne,Fruits,2-5€
+Veau,2025-12-26,MIN de Nantes,Veau Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?VEAU,19.1,10,kg,Maroc,Cat. II,Veau,MIN de Nantes,19.1,12,2025,Hiver,Viande,10-20€
+Fromage,2025-11-25,MIN de Lyon,Fromage Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?FROMAGE,10.79,1,kg,Espagne,Cat. II,Fromage,MIN de Lyon,10.79,11,2025,Automne,Produits laitiers,10-20€
+Oignon,2025-11-03,MIN de Nice,Oignon Bio - France,https://rnm.franceagrimer.fr/prix?OIGNON,3.16,5,litre,France,Bio,Oignon,MIN de Nice,3.16,11,2025,Automne,Légumes,2-5€
+Orange,2026-01-31,MIN de Perpignan,Orange Extra - Belgique,https://rnm.franceagrimer.fr/prix?ORANGE,11.87,5,kg,Belgique,Extra,Orange,MIN de Perpignan,11.87,1,2026,Hiver,Fruits,10-20€
+Pomme de terre,2026-01-03,MIN de Nantes,Pomme de terre Extra - Allemagne,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,6.95,4,kg,Allemagne,Extra,Pomme De Terre,MIN de Nantes,6.95,1,2026,Hiver,Légumes,5-10€
+Carotte,2026-01-18,MIN de Bordeaux,Carotte Extra - France,https://rnm.franceagrimer.fr/prix?CAROTTE,3.37,10,litre,France,Extra,Carotte,MIN de Bordeaux,3.37,1,2026,Hiver,Légumes,2-5€
+Poulet,2025-11-29,MIN de Rungis,Poulet Extra - Allemagne,https://rnm.franceagrimer.fr/prix?POULET,15.4,9,pièce,Allemagne,Extra,Poulet,MIN de Rungis,15.4,11,2025,Automne,Viande,10-20€
+Fromage,2026-01-27,MIN de Rungis,Fromage Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?FROMAGE,11.34,2,litre,Pays-Bas,Cat. I,Fromage,MIN de Rungis,11.34,1,2026,Hiver,Produits laitiers,10-20€
+Pomme de terre,2026-01-25,MIN de Bordeaux,Pomme de terre Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,6.99,7,kg,Portugal,Cat. I,Pomme De Terre,MIN de Bordeaux,6.99,1,2026,Hiver,Légumes,5-10€
+Aubergine,2025-11-29,MIN de Marseille,Aubergine Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?AUBERGINE,2.66,5,litre,Pays-Bas,Cat. II,Aubergine,MIN de Marseille,2.66,11,2025,Automne,Légumes,2-5€
+Porc,2025-11-24,MIN de Bordeaux,Porc Cat. II - Italie,https://rnm.franceagrimer.fr/prix?PORC,28.47,4,pièce,Italie,Cat. II,Porc,MIN de Bordeaux,28.47,11,2025,Automne,Viande,>20€
+Fromage,2026-02-01,MIN de Strasbourg,Fromage Extra - France,https://rnm.franceagrimer.fr/prix?FROMAGE,9.96,2,litre,France,Extra,Fromage,MIN de Strasbourg,9.96,2,2026,Hiver,Produits laitiers,5-10€
+Yaourt,2025-11-15,MIN de Nice,Yaourt Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?YAOURT,5.72,4,pièce,Espagne,Cat. II,Yaourt,MIN de Nice,5.72,11,2025,Automne,Produits laitiers,5-10€
+Kiwi,2025-11-03,MIN de Marseille,Kiwi Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?KIWI,3.47,5,kg,Allemagne,Cat. II,Kiwi,MIN de Marseille,3.47,11,2025,Automne,Fruits,2-5€
+Carotte,2025-12-12,MIN de Perpignan,Carotte Extra - Belgique,https://rnm.franceagrimer.fr/prix?CAROTTE,3.14,7,kg,Belgique,Extra,Carotte,MIN de Perpignan,3.14,12,2025,Hiver,Légumes,2-5€
+Aubergine,2025-12-08,MIN de Nice,Aubergine Extra - Belgique,https://rnm.franceagrimer.fr/prix?AUBERGINE,3.09,6,litre,Belgique,Extra,Aubergine,MIN de Nice,3.09,12,2025,Hiver,Légumes,2-5€
+Oignon,2025-11-21,MIN de Paris,Oignon Cat. II - Italie,https://rnm.franceagrimer.fr/prix?OIGNON,3.51,7,kg,Italie,Cat. II,Oignon,MIN de Paris,3.51,11,2025,Automne,Légumes,2-5€
+Yaourt,2025-12-01,MIN d'Avignon,Yaourt Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?YAOURT,6.87,8,pièce,Belgique,Cat. II,Yaourt,MIN d'Avignon,6.87,12,2025,Hiver,Produits laitiers,5-10€
+Fromage,2025-11-04,MIN de Lyon,Fromage Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?FROMAGE,11.13,10,litre,Belgique,Cat. I,Fromage,MIN de Lyon,11.13,11,2025,Automne,Produits laitiers,10-20€
+Pomme,2025-11-20,MIN de Perpignan,Pomme Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?POMME,10.42,3,kg,Maroc,Cat. II,Pomme,MIN de Perpignan,10.42,11,2025,Automne,Fruits,10-20€
+Pomme,2026-01-16,MIN de Lyon,Pomme Extra - Espagne,https://rnm.franceagrimer.fr/prix?POMME,11.94,10,pièce,Espagne,Extra,Pomme,MIN de Lyon,11.94,1,2026,Hiver,Fruits,10-20€
+Lapin,2025-12-17,MIN d'Avignon,Lapin Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?LAPIN,27.11,1,litre,Pays-Bas,Bio,Lapin,MIN d'Avignon,27.11,12,2025,Hiver,Viande,>20€
+Fraise,2026-01-02,MIN de Perpignan,Fraise Cat. I - Italie,https://rnm.franceagrimer.fr/prix?FRAISE,3.67,7,kg,Italie,Cat. I,Fraise,MIN de Perpignan,3.67,1,2026,Hiver,Fruits,2-5€
+Fraise,2026-01-01,MIN de Lyon,Fraise Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?FRAISE,3.85,6,kg,Pays-Bas,Cat. II,Fraise,MIN de Lyon,3.85,1,2026,Hiver,Fruits,2-5€
+Cheval,2025-12-01,MIN de Lyon,Cheval Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?CHEVAL,21.5,2,pièce,Pays-Bas,Extra,Cheval,MIN de Lyon,21.5,12,2025,Hiver,Viande,>20€
+Pomme,2026-01-10,MIN de Perpignan,Pomme Cat. II - Italie,https://rnm.franceagrimer.fr/prix?POMME,9.51,7,litre,Italie,Cat. II,Pomme,MIN de Perpignan,9.51,1,2026,Hiver,Fruits,5-10€
+Cheval,2025-11-21,MIN de Paris,Cheval Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?CHEVAL,19.95,3,litre,Pays-Bas,Cat. II,Cheval,MIN de Paris,19.95,11,2025,Automne,Viande,10-20€
+Raisin,2025-11-03,MIN de Nice,Raisin Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?RAISIN,8.65,5,pièce,Belgique,Cat. I,Raisin,MIN de Nice,8.65,11,2025,Automne,Fruits,5-10€
+Porc,2025-12-31,MIN de Marseille,Porc Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?PORC,30.07,5,pièce,Allemagne,Cat. II,Porc,MIN de Marseille,30.07,12,2025,Hiver,Viande,>20€
+Chou,2025-12-08,MIN de Strasbourg,Chou Bio - Portugal,https://rnm.franceagrimer.fr/prix?CHOU,7.53,3,pièce,Portugal,Bio,Chou,MIN de Strasbourg,7.53,12,2025,Hiver,Légumes,5-10€
+Poivron,2025-12-24,MIN de Bordeaux,Poivron Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?POIVRON,2.72,7,kg,Espagne,Cat. I,Poivron,MIN de Bordeaux,2.72,12,2025,Hiver,Légumes,2-5€
+Cerise,2025-12-07,MIN de Nantes,Cerise Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?CERISE,7.95,5,litre,Pays-Bas,Cat. II,Cerise,MIN de Nantes,7.95,12,2025,Hiver,Fruits,5-10€
+Canard,2026-01-23,MIN de Bordeaux,Canard Extra - Espagne,https://rnm.franceagrimer.fr/prix?CANARD,28.4,2,litre,Espagne,Extra,Canard,MIN de Bordeaux,28.4,1,2026,Hiver,Viande,>20€
+Courgette,2025-11-11,MIN de Lyon,Courgette Bio - Espagne,https://rnm.franceagrimer.fr/prix?COURGETTE,4.28,4,litre,Espagne,Bio,Courgette,MIN de Lyon,4.28,11,2025,Automne,Légumes,2-5€
+Pomme,2025-11-26,MIN de Nice,Pomme Extra - Maroc,https://rnm.franceagrimer.fr/prix?POMME,10.33,8,pièce,Maroc,Extra,Pomme,MIN de Nice,10.33,11,2025,Automne,Fruits,10-20€
+Veau,2025-11-30,MIN de Perpignan,Veau Extra - Belgique,https://rnm.franceagrimer.fr/prix?VEAU,33.45,4,pièce,Belgique,Extra,Veau,MIN de Perpignan,33.45,11,2025,Automne,Viande,>20€
+Poulet,2025-11-22,MIN de Paris,Poulet Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?POULET,12.82,8,pièce,Pays-Bas,Extra,Poulet,MIN de Paris,12.82,11,2025,Automne,Viande,10-20€
+Poulet,2025-11-24,MIN de Nice,Poulet Extra - France,https://rnm.franceagrimer.fr/prix?POULET,16.91,1,pièce,France,Extra,Poulet,MIN de Nice,16.91,11,2025,Automne,Viande,10-20€
+Fraise,2026-01-30,MIN d'Avignon,Fraise Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?FRAISE,4.63,8,litre,Belgique,Cat. I,Fraise,MIN d'Avignon,4.63,1,2026,Hiver,Fruits,2-5€
+Pomme,2026-01-17,MIN de Lyon,Pomme Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?POMME,11.93,6,kg,Maroc,Cat. II,Pomme,MIN de Lyon,11.93,1,2026,Hiver,Fruits,10-20€
+Tomate,2025-12-13,MIN de Rungis,Tomate Cat. II - France,https://rnm.franceagrimer.fr/prix?TOMATE,3.23,8,kg,France,Cat. II,Tomate,MIN de Rungis,3.23,12,2025,Hiver,Légumes,2-5€
+Salade,2025-11-13,MIN de Nantes,Salade Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?SALADE,5.13,6,kg,Portugal,Cat. I,Salade,MIN de Nantes,5.13,11,2025,Automne,Légumes,5-10€
+Beurre,2025-12-03,MIN de Strasbourg,Beurre Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?BEURRE,11.16,1,pièce,Maroc,Cat. II,Beurre,MIN de Strasbourg,11.16,12,2025,Hiver,Produits laitiers,10-20€
+Tomate,2025-12-08,MIN de Toulouse,Tomate Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?TOMATE,3.07,3,litre,Belgique,Cat. II,Tomate,MIN de Toulouse,3.07,12,2025,Hiver,Légumes,2-5€
+Pastèque,2025-11-09,MIN de Rungis,Pastèque Bio - Allemagne,https://rnm.franceagrimer.fr/prix?PASTÈQUE,3.17,8,pièce,Allemagne,Bio,Pastèque,MIN de Rungis,3.17,11,2025,Automne,Fruits,2-5€
+Beurre,2025-11-25,MIN de Nice,Beurre Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?BEURRE,11.44,3,pièce,Belgique,Cat. II,Beurre,MIN de Nice,11.44,11,2025,Automne,Produits laitiers,10-20€
+Crème,2025-11-27,MIN de Toulouse,Crème Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?CRÈME,14.35,3,litre,Belgique,Cat. I,Crème,MIN de Toulouse,14.35,11,2025,Automne,Produits laitiers,10-20€
+Pomme de terre,2025-11-11,MIN de Marseille,Pomme de terre Extra - Belgique,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,6.27,3,kg,Belgique,Extra,Pomme De Terre,MIN de Marseille,6.27,11,2025,Automne,Légumes,5-10€
+Dinde,2025-12-17,MIN de Nantes,Dinde Extra - Belgique,https://rnm.franceagrimer.fr/prix?DINDE,31.4,5,pièce,Belgique,Extra,Dinde,MIN de Nantes,31.4,12,2025,Hiver,Viande,>20€
+Orange,2026-01-09,MIN de Toulouse,Orange Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?ORANGE,15.21,2,pièce,Pays-Bas,Cat. II,Orange,MIN de Toulouse,15.21,1,2026,Hiver,Fruits,10-20€
+Cerise,2025-11-10,MIN de Paris,Cerise Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?CERISE,6.32,4,kg,Portugal,Cat. I,Cerise,MIN de Paris,6.32,11,2025,Automne,Fruits,5-10€
+Orange,2025-12-26,MIN de Nantes,Orange Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?ORANGE,14.06,1,kg,Espagne,Cat. I,Orange,MIN de Nantes,14.06,12,2025,Hiver,Fruits,10-20€
+Poivron,2026-01-19,MIN de Nice,Poivron Bio - Maroc,https://rnm.franceagrimer.fr/prix?POIVRON,2.39,1,kg,Maroc,Bio,Poivron,MIN de Nice,2.39,1,2026,Hiver,Légumes,2-5€
+Kiwi,2025-11-21,MIN d'Avignon,Kiwi Extra - Belgique,https://rnm.franceagrimer.fr/prix?KIWI,3.51,2,litre,Belgique,Extra,Kiwi,MIN d'Avignon,3.51,11,2025,Automne,Fruits,2-5€
+Salade,2025-12-09,MIN d'Avignon,Salade Extra - France,https://rnm.franceagrimer.fr/prix?SALADE,5.38,5,pièce,France,Extra,Salade,MIN d'Avignon,5.38,12,2025,Hiver,Légumes,5-10€
+Cheval,2026-02-01,MIN de Nice,Cheval Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?CHEVAL,20.24,10,kg,Allemagne,Cat. I,Cheval,MIN de Nice,20.24,2,2026,Hiver,Viande,>20€
+Banane,2025-12-28,MIN de Paris,Banane Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?BANANE,15.39,8,litre,Portugal,Cat. II,Banane,MIN de Paris,15.39,12,2025,Hiver,Fruits,10-20€
+Raisin,2025-11-12,MIN de Lille,Raisin Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?RAISIN,10.68,4,kg,Espagne,Cat. II,Raisin,MIN de Lille,10.68,11,2025,Automne,Fruits,10-20€
+Kiwi,2025-11-07,MIN de Toulouse,Kiwi Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?KIWI,4.11,9,kg,Pays-Bas,Cat. I,Kiwi,MIN de Toulouse,4.11,11,2025,Automne,Fruits,2-5€
+Courgette,2025-12-31,MIN de Perpignan,Courgette Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?COURGETTE,4.42,3,litre,Espagne,Cat. II,Courgette,MIN de Perpignan,4.42,12,2025,Hiver,Légumes,2-5€
+Oignon,2026-01-17,MIN de Strasbourg,Oignon Cat. II - Italie,https://rnm.franceagrimer.fr/prix?OIGNON,3.29,10,pièce,Italie,Cat. II,Oignon,MIN de Strasbourg,3.29,1,2026,Hiver,Légumes,2-5€
+Carotte,2026-01-11,MIN de Marseille,Carotte Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?CAROTTE,3.9,5,litre,Espagne,Cat. II,Carotte,MIN de Marseille,3.9,1,2026,Hiver,Légumes,2-5€
+Salade,2025-12-09,MIN de Nice,Salade Bio - France,https://rnm.franceagrimer.fr/prix?SALADE,4.84,2,pièce,France,Bio,Salade,MIN de Nice,4.84,12,2025,Hiver,Légumes,2-5€
+Yaourt,2025-12-10,MIN de Marseille,Yaourt Extra - France,https://rnm.franceagrimer.fr/prix?YAOURT,6.21,3,kg,France,Extra,Yaourt,MIN de Marseille,6.21,12,2025,Hiver,Produits laitiers,5-10€
+Pastèque,2026-01-19,MIN de Nice,Pastèque Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?PASTÈQUE,4.48,7,litre,Portugal,Cat. I,Pastèque,MIN de Nice,4.48,1,2026,Hiver,Fruits,2-5€
+Yaourt,2025-11-29,MIN de Nice,Yaourt Cat. II - France,https://rnm.franceagrimer.fr/prix?YAOURT,5.72,3,litre,France,Cat. II,Yaourt,MIN de Nice,5.72,11,2025,Automne,Produits laitiers,5-10€
+Pastèque,2025-11-03,MIN de Rungis,Pastèque Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?PASTÈQUE,2.79,4,pièce,Portugal,Cat. II,Pastèque,MIN de Rungis,2.79,11,2025,Automne,Fruits,2-5€
+Poivron,2025-12-29,MIN de Nice,Poivron Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?POIVRON,2.96,5,litre,Portugal,Cat. II,Poivron,MIN de Nice,2.96,12,2025,Hiver,Légumes,2-5€
+Veau,2026-01-07,MIN de Perpignan,Veau Extra - Maroc,https://rnm.franceagrimer.fr/prix?VEAU,18.17,1,kg,Maroc,Extra,Veau,MIN de Perpignan,18.17,1,2026,Hiver,Viande,10-20€
+Melon,2026-01-05,MIN de Nice,Melon Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?MELON,7.23,7,pièce,Pays-Bas,Bio,Melon,MIN de Nice,7.23,1,2026,Hiver,Fruits,5-10€
+Orange,2025-11-09,MIN de Nice,Orange Bio - Maroc,https://rnm.franceagrimer.fr/prix?ORANGE,8.37,10,pièce,Maroc,Bio,Orange,MIN de Nice,8.37,11,2025,Automne,Fruits,5-10€
+Pomme,2025-12-26,MIN de Nice,Pomme Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?POMME,11.63,1,litre,Belgique,Cat. II,Pomme,MIN de Nice,11.63,12,2025,Hiver,Fruits,10-20€
+Veau,2025-11-17,MIN de Nantes,Veau Bio - Italie,https://rnm.franceagrimer.fr/prix?VEAU,32.16,6,kg,Italie,Bio,Veau,MIN de Nantes,32.16,11,2025,Automne,Viande,>20€
+Courgette,2025-11-11,MIN de Nantes,Courgette Bio - Espagne,https://rnm.franceagrimer.fr/prix?COURGETTE,4.18,5,kg,Espagne,Bio,Courgette,MIN de Nantes,4.18,11,2025,Automne,Légumes,2-5€
+Lapin,2025-12-07,MIN de Toulouse,Lapin Bio - Allemagne,https://rnm.franceagrimer.fr/prix?LAPIN,26.76,3,pièce,Allemagne,Bio,Lapin,MIN de Toulouse,26.76,12,2025,Hiver,Viande,>20€
+Raisin,2025-11-28,MIN de Toulouse,Raisin Extra - Maroc,https://rnm.franceagrimer.fr/prix?RAISIN,11.37,7,litre,Maroc,Extra,Raisin,MIN de Toulouse,11.37,11,2025,Automne,Fruits,10-20€
+Fromage de chèvre,2025-12-12,MIN de Nantes,Fromage de chèvre Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,11.94,1,pièce,Pays-Bas,Extra,Fromage De Chèvre,MIN de Nantes,11.94,12,2025,Hiver,Produits laitiers,10-20€
+Ail,2026-01-04,MIN de Toulouse,Ail Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?AIL,6.86,10,litre,Pays-Bas,Extra,Ail,MIN de Toulouse,6.86,1,2026,Hiver,Légumes,5-10€
+Lait,2025-11-09,MIN de Marseille,Lait Cat. II - France,https://rnm.franceagrimer.fr/prix?LAIT,8.05,7,kg,France,Cat. II,Lait,MIN de Marseille,8.05,11,2025,Automne,Produits laitiers,5-10€
+Courgette,2025-12-09,MIN de Paris,Courgette Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?COURGETTE,4.08,2,kg,Allemagne,Cat. I,Courgette,MIN de Paris,4.08,12,2025,Hiver,Légumes,2-5€
+Poivron,2025-12-07,MIN d'Avignon,Poivron Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?POIVRON,2.68,4,pièce,Belgique,Cat. I,Poivron,MIN d'Avignon,2.68,12,2025,Hiver,Légumes,2-5€
+Poulet,2026-01-12,MIN de Rungis,Poulet Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?POULET,14.56,9,kg,Allemagne,Cat. I,Poulet,MIN de Rungis,14.56,1,2026,Hiver,Viande,10-20€
+Pomme,2025-12-18,MIN de Bordeaux,Pomme Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?POMME,13.26,8,kg,Espagne,Cat. II,Pomme,MIN de Bordeaux,13.26,12,2025,Hiver,Fruits,10-20€
+Fraise,2026-01-09,MIN de Rungis,Fraise Extra - Italie,https://rnm.franceagrimer.fr/prix?FRAISE,3.68,8,pièce,Italie,Extra,Fraise,MIN de Rungis,3.68,1,2026,Hiver,Fruits,2-5€
+Poireau,2025-12-06,MIN de Nice,Poireau Bio - Allemagne,https://rnm.franceagrimer.fr/prix?POIREAU,3.81,4,litre,Allemagne,Bio,Poireau,MIN de Nice,3.81,12,2025,Hiver,Légumes,2-5€
+Bœuf,2025-11-10,MIN de Marseille,Bœuf Cat. I - France,https://rnm.franceagrimer.fr/prix?BŒUF,25.08,7,litre,France,Cat. I,Bœuf,MIN de Marseille,25.08,11,2025,Automne,Viande,>20€
+Poire,2025-11-24,MIN de Lyon,Poire Extra - Maroc,https://rnm.franceagrimer.fr/prix?POIRE,9.39,9,kg,Maroc,Extra,Poire,MIN de Lyon,9.39,11,2025,Automne,Fruits,5-10€
+Salade,2026-01-03,MIN de Marseille,Salade Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?SALADE,4.85,3,pièce,Portugal,Cat. I,Salade,MIN de Marseille,4.85,1,2026,Hiver,Légumes,2-5€
+Yaourt,2025-11-16,MIN d'Avignon,Yaourt Bio - Italie,https://rnm.franceagrimer.fr/prix?YAOURT,5.76,6,litre,Italie,Bio,Yaourt,MIN d'Avignon,5.76,11,2025,Automne,Produits laitiers,5-10€
+Fraise,2026-01-12,MIN de Perpignan,Fraise Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?FRAISE,4.84,4,kg,Belgique,Cat. II,Fraise,MIN de Perpignan,4.84,1,2026,Hiver,Fruits,2-5€
+Dinde,2025-12-20,MIN d'Avignon,Dinde Cat. I - Italie,https://rnm.franceagrimer.fr/prix?DINDE,33.55,7,pièce,Italie,Cat. I,Dinde,MIN d'Avignon,33.55,12,2025,Hiver,Viande,>20€
+Kiwi,2026-01-02,MIN de Strasbourg,Kiwi Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?KIWI,5.09,7,kg,Belgique,Cat. II,Kiwi,MIN de Strasbourg,5.09,1,2026,Hiver,Fruits,5-10€
+Yaourt,2025-12-07,MIN de Paris,Yaourt Extra - Belgique,https://rnm.franceagrimer.fr/prix?YAOURT,6.33,1,kg,Belgique,Extra,Yaourt,MIN de Paris,6.33,12,2025,Hiver,Produits laitiers,5-10€
+Raisin,2025-11-13,MIN de Nantes,Raisin Extra - Allemagne,https://rnm.franceagrimer.fr/prix?RAISIN,9.94,2,kg,Allemagne,Extra,Raisin,MIN de Nantes,9.94,11,2025,Automne,Fruits,5-10€
+Porc,2025-12-27,MIN de Marseille,Porc Extra - Allemagne,https://rnm.franceagrimer.fr/prix?PORC,29.55,5,kg,Allemagne,Extra,Porc,MIN de Marseille,29.55,12,2025,Hiver,Viande,>20€
+Citron,2026-01-24,MIN de Perpignan,Citron Bio - Portugal,https://rnm.franceagrimer.fr/prix?CITRON,9.45,4,pièce,Portugal,Bio,Citron,MIN de Perpignan,9.45,1,2026,Hiver,Fruits,5-10€
+Porc,2025-11-25,MIN de Lyon,Porc Cat. I - France,https://rnm.franceagrimer.fr/prix?PORC,32.72,9,litre,France,Cat. I,Porc,MIN de Lyon,32.72,11,2025,Automne,Viande,>20€
+Melon,2025-11-09,MIN de Lille,Melon Bio - Espagne,https://rnm.franceagrimer.fr/prix?MELON,5.78,3,kg,Espagne,Bio,Melon,MIN de Lille,5.78,11,2025,Automne,Fruits,5-10€
+Veau,2025-11-30,MIN de Bordeaux,Veau Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?VEAU,28.95,3,kg,Pays-Bas,Cat. I,Veau,MIN de Bordeaux,28.95,11,2025,Automne,Viande,>20€
+Ail,2025-11-28,MIN de Nantes,Ail Bio - Espagne,https://rnm.franceagrimer.fr/prix?AIL,7.53,10,kg,Espagne,Bio,Ail,MIN de Nantes,7.53,11,2025,Automne,Légumes,5-10€
+Ail,2026-01-16,MIN de Toulouse,Ail Extra - Portugal,https://rnm.franceagrimer.fr/prix?AIL,7.56,2,litre,Portugal,Extra,Ail,MIN de Toulouse,7.56,1,2026,Hiver,Légumes,5-10€
+Oignon,2025-12-14,MIN de Nice,Oignon Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?OIGNON,3.7,7,litre,Espagne,Cat. II,Oignon,MIN de Nice,3.7,12,2025,Hiver,Légumes,2-5€
+Porc,2025-12-30,MIN d'Avignon,Porc Cat. I - Italie,https://rnm.franceagrimer.fr/prix?PORC,32.98,2,pièce,Italie,Cat. I,Porc,MIN d'Avignon,32.98,12,2025,Hiver,Viande,>20€
+Carotte,2025-12-21,MIN d'Avignon,Carotte Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?CAROTTE,3.33,1,kg,Pays-Bas,Bio,Carotte,MIN d'Avignon,3.33,12,2025,Hiver,Légumes,2-5€
+Veau,2025-12-20,MIN de Toulouse,Veau Extra - Espagne,https://rnm.franceagrimer.fr/prix?VEAU,20.43,3,pièce,Espagne,Extra,Veau,MIN de Toulouse,20.43,12,2025,Hiver,Viande,>20€
+Veau,2025-11-18,MIN de Strasbourg,Veau Bio - Italie,https://rnm.franceagrimer.fr/prix?VEAU,26.1,2,litre,Italie,Bio,Veau,MIN de Strasbourg,26.1,11,2025,Automne,Viande,>20€
+Tomate,2025-11-08,MIN de Nantes,Tomate Bio - Belgique,https://rnm.franceagrimer.fr/prix?TOMATE,2.73,9,pièce,Belgique,Bio,Tomate,MIN de Nantes,2.73,11,2025,Automne,Légumes,2-5€
+Fromage de chèvre,2026-01-30,MIN de Perpignan,Fromage de chèvre Cat. I - Italie,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,13.4,3,kg,Italie,Cat. I,Fromage De Chèvre,MIN de Perpignan,13.4,1,2026,Hiver,Produits laitiers,10-20€
+Kiwi,2026-01-30,MIN de Bordeaux,Kiwi Cat. II - Italie,https://rnm.franceagrimer.fr/prix?KIWI,5.11,5,kg,Italie,Cat. II,Kiwi,MIN de Bordeaux,5.11,1,2026,Hiver,Fruits,5-10€
+Pomme,2026-01-10,MIN de Lyon,Pomme Bio - Italie,https://rnm.franceagrimer.fr/prix?POMME,9.86,1,litre,Italie,Bio,Pomme,MIN de Lyon,9.86,1,2026,Hiver,Fruits,5-10€
+Lait,2025-12-15,MIN de Paris,Lait Extra - Portugal,https://rnm.franceagrimer.fr/prix?LAIT,7.52,10,pièce,Portugal,Extra,Lait,MIN de Paris,7.52,12,2025,Hiver,Produits laitiers,5-10€
+Carotte,2025-11-15,MIN de Lyon,Carotte Extra - Maroc,https://rnm.franceagrimer.fr/prix?CAROTTE,3.28,8,litre,Maroc,Extra,Carotte,MIN de Lyon,3.28,11,2025,Automne,Légumes,2-5€
+Lait,2025-12-10,MIN de Strasbourg,Lait Extra - France,https://rnm.franceagrimer.fr/prix?LAIT,10.01,3,kg,France,Extra,Lait,MIN de Strasbourg,10.01,12,2025,Hiver,Produits laitiers,10-20€
+Agneau,2025-11-10,MIN de Perpignan,Agneau Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?AGNEAU,35.64,1,pièce,Pays-Bas,Cat. II,Agneau,MIN de Perpignan,35.64,11,2025,Automne,Viande,>20€
+Pêche,2025-11-15,MIN de Perpignan,Pêche Extra - Belgique,https://rnm.franceagrimer.fr/prix?PÊCHE,9.01,7,pièce,Belgique,Extra,Pêche,MIN de Perpignan,9.01,11,2025,Automne,Fruits,5-10€
+Aubergine,2026-01-14,MIN de Nantes,Aubergine Extra - France,https://rnm.franceagrimer.fr/prix?AUBERGINE,2.67,7,pièce,France,Extra,Aubergine,MIN de Nantes,2.67,1,2026,Hiver,Légumes,2-5€
+Carotte,2025-11-28,MIN de Toulouse,Carotte Cat. I - France,https://rnm.franceagrimer.fr/prix?CAROTTE,3.93,2,litre,France,Cat. I,Carotte,MIN de Toulouse,3.93,11,2025,Automne,Légumes,2-5€
+Veau,2025-11-16,MIN de Nice,Veau Extra - Allemagne,https://rnm.franceagrimer.fr/prix?VEAU,25.7,10,kg,Allemagne,Extra,Veau,MIN de Nice,25.7,11,2025,Automne,Viande,>20€
+Yaourt,2026-01-19,MIN de Bordeaux,Yaourt Bio - Italie,https://rnm.franceagrimer.fr/prix?YAOURT,6.9,10,kg,Italie,Bio,Yaourt,MIN de Bordeaux,6.9,1,2026,Hiver,Produits laitiers,5-10€
+Crème,2025-11-12,MIN de Paris,Crème Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?CRÈME,12.55,10,litre,Maroc,Cat. II,Crème,MIN de Paris,12.55,11,2025,Automne,Produits laitiers,10-20€
+Poulet,2025-12-22,MIN de Perpignan,Poulet Extra - Espagne,https://rnm.franceagrimer.fr/prix?POULET,15.35,2,kg,Espagne,Extra,Poulet,MIN de Perpignan,15.35,12,2025,Hiver,Viande,10-20€
+Veau,2025-12-19,MIN de Marseille,Veau Cat. I - Italie,https://rnm.franceagrimer.fr/prix?VEAU,22.41,5,kg,Italie,Cat. I,Veau,MIN de Marseille,22.41,12,2025,Hiver,Viande,>20€
+Fromage de chèvre,2025-11-04,MIN d'Avignon,Fromage de chèvre Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,14.63,2,litre,Portugal,Cat. II,Fromage De Chèvre,MIN d'Avignon,14.63,11,2025,Automne,Produits laitiers,10-20€
+Melon,2025-12-18,MIN de Paris,Melon Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?MELON,7.02,5,kg,Pays-Bas,Bio,Melon,MIN de Paris,7.02,12,2025,Hiver,Fruits,5-10€
+Dinde,2025-11-20,MIN de Lille,Dinde Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?DINDE,31.85,6,pièce,Espagne,Cat. I,Dinde,MIN de Lille,31.85,11,2025,Automne,Viande,>20€
+Poulet,2025-12-12,MIN de Lyon,Poulet Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?POULET,15.82,1,litre,Allemagne,Cat. II,Poulet,MIN de Lyon,15.82,12,2025,Hiver,Viande,10-20€
+Poulet,2025-12-05,MIN de Rungis,Poulet Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?POULET,15.81,4,kg,Belgique,Cat. I,Poulet,MIN de Rungis,15.81,12,2025,Hiver,Viande,10-20€
+Porc,2025-11-18,MIN de Nantes,Porc Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?PORC,33.95,7,kg,Espagne,Cat. I,Porc,MIN de Nantes,33.95,11,2025,Automne,Viande,>20€
+Pastèque,2025-12-11,MIN de Lyon,Pastèque Extra - Espagne,https://rnm.franceagrimer.fr/prix?PASTÈQUE,5.35,3,pièce,Espagne,Extra,Pastèque,MIN de Lyon,5.35,12,2025,Hiver,Fruits,5-10€
+Raisin,2025-12-16,MIN de Bordeaux,Raisin Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?RAISIN,15.09,7,kg,Pays-Bas,Bio,Raisin,MIN de Bordeaux,15.09,12,2025,Hiver,Fruits,10-20€
+Agneau,2025-12-14,MIN de Bordeaux,Agneau Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?AGNEAU,24.39,1,litre,Allemagne,Cat. I,Agneau,MIN de Bordeaux,24.39,12,2025,Hiver,Viande,>20€
+Citron,2025-11-18,MIN de Marseille,Citron Extra - Portugal,https://rnm.franceagrimer.fr/prix?CITRON,5.42,9,pièce,Portugal,Extra,Citron,MIN de Marseille,5.42,11,2025,Automne,Fruits,5-10€
+Œuf,2025-11-08,MIN d'Avignon,Œuf Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?ŒUF,5.59,4,pièce,Belgique,Cat. I,Œuf,MIN d'Avignon,5.59,11,2025,Automne,Produits laitiers,5-10€
+Poulet,2025-11-26,MIN de Paris,Poulet Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?POULET,14.79,8,pièce,Allemagne,Cat. II,Poulet,MIN de Paris,14.79,11,2025,Automne,Viande,10-20€
+Citron,2025-12-24,MIN de Nice,Citron Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?CITRON,7.68,5,litre,Pays-Bas,Bio,Citron,MIN de Nice,7.68,12,2025,Hiver,Fruits,5-10€
+Pomme de terre,2026-01-05,MIN de Bordeaux,Pomme de terre Bio - Belgique,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,6.05,10,kg,Belgique,Bio,Pomme De Terre,MIN de Bordeaux,6.05,1,2026,Hiver,Légumes,5-10€
+Cheval,2026-01-21,MIN de Nantes,Cheval Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?CHEVAL,21.48,10,kg,Espagne,Cat. II,Cheval,MIN de Nantes,21.48,1,2026,Hiver,Viande,>20€
+Kiwi,2025-12-09,MIN de Paris,Kiwi Bio - France,https://rnm.franceagrimer.fr/prix?KIWI,4.9,7,pièce,France,Bio,Kiwi,MIN de Paris,4.9,12,2025,Hiver,Fruits,2-5€
+Ail,2025-12-17,MIN de Toulouse,Ail Extra - Portugal,https://rnm.franceagrimer.fr/prix?AIL,7.41,7,litre,Portugal,Extra,Ail,MIN de Toulouse,7.41,12,2025,Hiver,Légumes,5-10€
+Porc,2025-12-10,MIN de Paris,Porc Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?PORC,28.86,5,litre,Belgique,Cat. II,Porc,MIN de Paris,28.86,12,2025,Hiver,Viande,>20€
+Fromage,2026-01-08,MIN de Lyon,Fromage Bio - Allemagne,https://rnm.franceagrimer.fr/prix?FROMAGE,11.21,8,pièce,Allemagne,Bio,Fromage,MIN de Lyon,11.21,1,2026,Hiver,Produits laitiers,10-20€
+Lait,2026-01-05,MIN de Rungis,Lait Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?LAIT,9.38,5,kg,Belgique,Cat. II,Lait,MIN de Rungis,9.38,1,2026,Hiver,Produits laitiers,5-10€
+Poireau,2025-11-25,MIN de Nantes,Poireau Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?POIREAU,4.63,7,pièce,Allemagne,Cat. II,Poireau,MIN de Nantes,4.63,11,2025,Automne,Légumes,2-5€
+Bœuf,2025-12-11,MIN de Nice,Bœuf Extra - France,https://rnm.franceagrimer.fr/prix?BŒUF,29.69,8,pièce,France,Extra,Bœuf,MIN de Nice,29.69,12,2025,Hiver,Viande,>20€
+Haricot vert,2025-12-20,MIN d'Avignon,Haricot vert Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?HARICOT-VERT,6.69,7,litre,Maroc,Cat. I,Haricot Vert,MIN d'Avignon,6.69,12,2025,Hiver,Légumes,5-10€
+Veau,2025-12-25,MIN de Nice,Veau Bio - Maroc,https://rnm.franceagrimer.fr/prix?VEAU,26.02,3,pièce,Maroc,Bio,Veau,MIN de Nice,26.02,12,2025,Hiver,Viande,>20€
+Pastèque,2025-12-01,MIN de Bordeaux,Pastèque Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?PASTÈQUE,4.11,5,pièce,Allemagne,Cat. II,Pastèque,MIN de Bordeaux,4.11,12,2025,Hiver,Fruits,2-5€
+Œuf,2025-11-16,MIN d'Avignon,Œuf Extra - Maroc,https://rnm.franceagrimer.fr/prix?ŒUF,5.78,4,litre,Maroc,Extra,Œuf,MIN d'Avignon,5.78,11,2025,Automne,Produits laitiers,5-10€
+Agneau,2026-01-17,MIN d'Avignon,Agneau Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?AGNEAU,25.52,4,pièce,Belgique,Cat. II,Agneau,MIN d'Avignon,25.52,1,2026,Hiver,Viande,>20€
+Poireau,2025-12-22,MIN de Marseille,Poireau Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?POIREAU,4.78,2,pièce,Maroc,Cat. I,Poireau,MIN de Marseille,4.78,12,2025,Hiver,Légumes,2-5€
+Œuf,2026-01-27,MIN de Lyon,Œuf Bio - Espagne,https://rnm.franceagrimer.fr/prix?ŒUF,4.71,6,pièce,Espagne,Bio,Œuf,MIN de Lyon,4.71,1,2026,Hiver,Produits laitiers,2-5€
+Raisin,2025-12-30,MIN de Strasbourg,Raisin Bio - Espagne,https://rnm.franceagrimer.fr/prix?RAISIN,15.8,1,litre,Espagne,Bio,Raisin,MIN de Strasbourg,15.8,12,2025,Hiver,Fruits,10-20€
+Pastèque,2025-12-28,MIN de Nantes,Pastèque Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?PASTÈQUE,3.9,10,kg,Pays-Bas,Cat. II,Pastèque,MIN de Nantes,3.9,12,2025,Hiver,Fruits,2-5€
+Veau,2026-01-14,MIN de Perpignan,Veau Bio - Allemagne,https://rnm.franceagrimer.fr/prix?VEAU,26.28,3,kg,Allemagne,Bio,Veau,MIN de Perpignan,26.28,1,2026,Hiver,Viande,>20€
+Lait,2025-12-22,MIN de Toulouse,Lait Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?LAIT,8.25,4,litre,Espagne,Cat. II,Lait,MIN de Toulouse,8.25,12,2025,Hiver,Produits laitiers,5-10€
+Kiwi,2026-01-11,MIN de Nice,Kiwi Bio - Italie,https://rnm.franceagrimer.fr/prix?KIWI,4.15,9,pièce,Italie,Bio,Kiwi,MIN de Nice,4.15,1,2026,Hiver,Fruits,2-5€
+Lait,2026-01-15,MIN de Bordeaux,Lait Extra - Italie,https://rnm.franceagrimer.fr/prix?LAIT,8.23,6,kg,Italie,Extra,Lait,MIN de Bordeaux,8.23,1,2026,Hiver,Produits laitiers,5-10€
+Bœuf,2025-11-27,MIN de Lyon,Bœuf Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?BŒUF,25.66,7,litre,Allemagne,Cat. I,Bœuf,MIN de Lyon,25.66,11,2025,Automne,Viande,>20€
+Canard,2026-01-15,MIN de Nantes,Canard Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?CANARD,27.3,7,kg,Maroc,Cat. I,Canard,MIN de Nantes,27.3,1,2026,Hiver,Viande,>20€
+Kiwi,2025-12-12,MIN de Rungis,Kiwi Bio - Italie,https://rnm.franceagrimer.fr/prix?KIWI,4.25,8,kg,Italie,Bio,Kiwi,MIN de Rungis,4.25,12,2025,Hiver,Fruits,2-5€
+Cheval,2026-01-31,MIN de Nantes,Cheval Extra - Allemagne,https://rnm.franceagrimer.fr/prix?CHEVAL,24.25,2,pièce,Allemagne,Extra,Cheval,MIN de Nantes,24.25,1,2026,Hiver,Viande,>20€
+Volaille,2025-11-12,MIN de Perpignan,Volaille Bio - Italie,https://rnm.franceagrimer.fr/prix?VOLAILLE,19.02,1,kg,Italie,Bio,Volaille,MIN de Perpignan,19.02,11,2025,Automne,Viande,10-20€
+Porc,2026-01-01,MIN de Lyon,Porc Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?PORC,26.82,3,pièce,Allemagne,Cat. I,Porc,MIN de Lyon,26.82,1,2026,Hiver,Viande,>20€
+Yaourt,2025-12-07,MIN d'Avignon,Yaourt Bio - Italie,https://rnm.franceagrimer.fr/prix?YAOURT,6.81,8,litre,Italie,Bio,Yaourt,MIN d'Avignon,6.81,12,2025,Hiver,Produits laitiers,5-10€
+Poivron,2025-11-03,MIN de Nantes,Poivron Extra - Portugal,https://rnm.franceagrimer.fr/prix?POIVRON,2.5,6,kg,Portugal,Extra,Poivron,MIN de Nantes,2.5,11,2025,Automne,Légumes,2-5€
+Chou,2026-01-03,MIN de Marseille,Chou Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?CHOU,8.32,1,litre,Maroc,Cat. I,Chou,MIN de Marseille,8.32,1,2026,Hiver,Légumes,5-10€
+Pastèque,2025-11-23,MIN de Lille,Pastèque Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?PASTÈQUE,3.28,2,kg,Pays-Bas,Cat. I,Pastèque,MIN de Lille,3.28,11,2025,Automne,Fruits,2-5€
+Poivron,2025-11-24,MIN de Nice,Poivron Extra - Maroc,https://rnm.franceagrimer.fr/prix?POIVRON,2.45,7,kg,Maroc,Extra,Poivron,MIN de Nice,2.45,11,2025,Automne,Légumes,2-5€
+Poivron,2025-12-20,MIN de Toulouse,Poivron Extra - Portugal,https://rnm.franceagrimer.fr/prix?POIVRON,3.15,4,litre,Portugal,Extra,Poivron,MIN de Toulouse,3.15,12,2025,Hiver,Légumes,2-5€
+Banane,2025-12-19,MIN de Lyon,Banane Cat. II - Italie,https://rnm.franceagrimer.fr/prix?BANANE,15.61,3,litre,Italie,Cat. II,Banane,MIN de Lyon,15.61,12,2025,Hiver,Fruits,10-20€
+Bœuf,2025-12-16,MIN de Lille,Bœuf Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?BŒUF,28.82,2,kg,Espagne,Cat. I,Bœuf,MIN de Lille,28.82,12,2025,Hiver,Viande,>20€
+Carotte,2025-12-03,MIN de Bordeaux,Carotte Extra - Belgique,https://rnm.franceagrimer.fr/prix?CAROTTE,3.6,1,pièce,Belgique,Extra,Carotte,MIN de Bordeaux,3.6,12,2025,Hiver,Légumes,2-5€
+Crème,2025-11-19,MIN de Paris,Crème Bio - Belgique,https://rnm.franceagrimer.fr/prix?CRÈME,12.55,9,pièce,Belgique,Bio,Crème,MIN de Paris,12.55,11,2025,Automne,Produits laitiers,10-20€
+Oignon,2025-12-23,MIN de Perpignan,Oignon Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?OIGNON,3.82,8,litre,Pays-Bas,Extra,Oignon,MIN de Perpignan,3.82,12,2025,Hiver,Légumes,2-5€
+Beurre,2026-01-11,MIN d'Avignon,Beurre Extra - Italie,https://rnm.franceagrimer.fr/prix?BEURRE,9.78,1,kg,Italie,Extra,Beurre,MIN d'Avignon,9.78,1,2026,Hiver,Produits laitiers,5-10€
+Courgette,2026-01-22,MIN de Bordeaux,Courgette Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?COURGETTE,4.46,2,kg,Espagne,Cat. II,Courgette,MIN de Bordeaux,4.46,1,2026,Hiver,Légumes,2-5€
+Fromage,2025-12-12,MIN de Lyon,Fromage Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?FROMAGE,11.8,10,litre,Maroc,Cat. I,Fromage,MIN de Lyon,11.8,12,2025,Hiver,Produits laitiers,10-20€
+Agneau,2025-12-24,MIN de Lyon,Agneau Extra - Espagne,https://rnm.franceagrimer.fr/prix?AGNEAU,31.29,2,kg,Espagne,Extra,Agneau,MIN de Lyon,31.29,12,2025,Hiver,Viande,>20€
+Salade,2025-12-28,MIN de Nice,Salade Extra - Espagne,https://rnm.franceagrimer.fr/prix?SALADE,5.36,9,pièce,Espagne,Extra,Salade,MIN de Nice,5.36,12,2025,Hiver,Légumes,5-10€
+Poivron,2025-11-16,MIN de Paris,Poivron Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?POIVRON,2.86,10,litre,Portugal,Cat. I,Poivron,MIN de Paris,2.86,11,2025,Automne,Légumes,2-5€
+Poulet,2025-11-05,MIN de Perpignan,Poulet Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?POULET,16.76,10,kg,Espagne,Cat. II,Poulet,MIN de Perpignan,16.76,11,2025,Automne,Viande,10-20€
+Agneau,2026-01-11,MIN de Strasbourg,Agneau Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?AGNEAU,26.01,9,kg,Espagne,Cat. II,Agneau,MIN de Strasbourg,26.01,1,2026,Hiver,Viande,>20€
+Fraise,2025-12-12,MIN de Bordeaux,Fraise Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?FRAISE,4.25,6,pièce,Pays-Bas,Bio,Fraise,MIN de Bordeaux,4.25,12,2025,Hiver,Fruits,2-5€
+Fromage,2025-12-29,MIN de Toulouse,Fromage Bio - Maroc,https://rnm.franceagrimer.fr/prix?FROMAGE,10.48,6,pièce,Maroc,Bio,Fromage,MIN de Toulouse,10.48,12,2025,Hiver,Produits laitiers,10-20€
+Courgette,2025-11-10,MIN de Perpignan,Courgette Bio - France,https://rnm.franceagrimer.fr/prix?COURGETTE,4.05,5,pièce,France,Bio,Courgette,MIN de Perpignan,4.05,11,2025,Automne,Légumes,2-5€
+Fraise,2026-01-16,MIN de Rungis,Fraise Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?FRAISE,4.78,10,kg,Espagne,Cat. II,Fraise,MIN de Rungis,4.78,1,2026,Hiver,Fruits,2-5€
+Chou,2025-11-29,MIN de Strasbourg,Chou Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?CHOU,8.46,3,kg,Maroc,Cat. II,Chou,MIN de Strasbourg,8.46,11,2025,Automne,Légumes,5-10€
+Œuf,2026-01-06,MIN de Marseille,Œuf Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?ŒUF,5.5,8,litre,Belgique,Cat. I,Œuf,MIN de Marseille,5.5,1,2026,Hiver,Produits laitiers,5-10€
+Canard,2025-12-04,MIN de Rungis,Canard Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?CANARD,30.35,1,kg,Espagne,Cat. II,Canard,MIN de Rungis,30.35,12,2025,Hiver,Viande,>20€
+Pastèque,2025-12-22,MIN de Lille,Pastèque Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?PASTÈQUE,4.13,2,pièce,Allemagne,Cat. II,Pastèque,MIN de Lille,4.13,12,2025,Hiver,Fruits,2-5€
+Veau,2025-12-13,MIN de Paris,Veau Extra - France,https://rnm.franceagrimer.fr/prix?VEAU,29.02,10,kg,France,Extra,Veau,MIN de Paris,29.02,12,2025,Hiver,Viande,>20€
+Volaille,2025-11-22,MIN de Bordeaux,Volaille Bio - Maroc,https://rnm.franceagrimer.fr/prix?VOLAILLE,19.7,5,litre,Maroc,Bio,Volaille,MIN de Bordeaux,19.7,11,2025,Automne,Viande,10-20€
+Veau,2025-12-26,MIN d'Avignon,Veau Extra - Maroc,https://rnm.franceagrimer.fr/prix?VEAU,23.88,6,pièce,Maroc,Extra,Veau,MIN d'Avignon,23.88,12,2025,Hiver,Viande,>20€
+Fraise,2026-01-08,MIN de Toulouse,Fraise Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?FRAISE,4.42,4,kg,Belgique,Cat. I,Fraise,MIN de Toulouse,4.42,1,2026,Hiver,Fruits,2-5€
+Fromage,2026-01-24,MIN de Lille,Fromage Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?FROMAGE,10.36,3,pièce,Espagne,Cat. II,Fromage,MIN de Lille,10.36,1,2026,Hiver,Produits laitiers,10-20€
+Veau,2025-12-05,MIN de Paris,Veau Cat. II - Italie,https://rnm.franceagrimer.fr/prix?VEAU,30.96,2,litre,Italie,Cat. II,Veau,MIN de Paris,30.96,12,2025,Hiver,Viande,>20€
+Haricot vert,2026-01-04,MIN de Paris,Haricot vert Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?HARICOT-VERT,7.71,1,kg,Maroc,Cat. I,Haricot Vert,MIN de Paris,7.71,1,2026,Hiver,Légumes,5-10€
+Cerise,2025-12-18,MIN de Paris,Cerise Bio - Belgique,https://rnm.franceagrimer.fr/prix?CERISE,8.78,5,pièce,Belgique,Bio,Cerise,MIN de Paris,8.78,12,2025,Hiver,Fruits,5-10€
+Veau,2026-01-01,MIN de Strasbourg,Veau Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?VEAU,19.4,5,kg,Maroc,Cat. II,Veau,MIN de Strasbourg,19.4,1,2026,Hiver,Viande,10-20€
+Fromage de chèvre,2026-01-02,MIN de Toulouse,Fromage de chèvre Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,11.99,7,pièce,Portugal,Cat. II,Fromage De Chèvre,MIN de Toulouse,11.99,1,2026,Hiver,Produits laitiers,10-20€
+Dinde,2026-01-30,MIN d'Avignon,Dinde Bio - Maroc,https://rnm.franceagrimer.fr/prix?DINDE,30.62,1,litre,Maroc,Bio,Dinde,MIN d'Avignon,30.62,1,2026,Hiver,Viande,>20€
+Aubergine,2026-01-26,MIN de Perpignan,Aubergine Extra - Espagne,https://rnm.franceagrimer.fr/prix?AUBERGINE,2.98,9,pièce,Espagne,Extra,Aubergine,MIN de Perpignan,2.98,1,2026,Hiver,Légumes,2-5€
+Citron,2026-01-05,MIN de Perpignan,Citron Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?CITRON,7.89,6,kg,Portugal,Cat. II,Citron,MIN de Perpignan,7.89,1,2026,Hiver,Fruits,5-10€
+Fromage,2026-01-21,MIN d'Avignon,Fromage Cat. I - Italie,https://rnm.franceagrimer.fr/prix?FROMAGE,10.29,10,pièce,Italie,Cat. I,Fromage,MIN d'Avignon,10.29,1,2026,Hiver,Produits laitiers,10-20€
+Pomme,2025-11-11,MIN de Marseille,Pomme Cat. II - Italie,https://rnm.franceagrimer.fr/prix?POMME,10.19,4,litre,Italie,Cat. II,Pomme,MIN de Marseille,10.19,11,2025,Automne,Fruits,10-20€
+Pomme de terre,2025-12-23,MIN de Strasbourg,Pomme de terre Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,7.43,9,kg,Portugal,Cat. II,Pomme De Terre,MIN de Strasbourg,7.43,12,2025,Hiver,Légumes,5-10€
+Pomme,2025-11-20,MIN de Rungis,Pomme Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?POMME,9.61,8,pièce,Belgique,Cat. II,Pomme,MIN de Rungis,9.61,11,2025,Automne,Fruits,5-10€
+Carotte,2026-01-07,MIN de Nantes,Carotte Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?CAROTTE,3.33,3,litre,Allemagne,Cat. II,Carotte,MIN de Nantes,3.33,1,2026,Hiver,Légumes,2-5€
+Orange,2025-12-15,MIN de Rungis,Orange Extra - Belgique,https://rnm.franceagrimer.fr/prix?ORANGE,10.94,6,kg,Belgique,Extra,Orange,MIN de Rungis,10.94,12,2025,Hiver,Fruits,10-20€
+Yaourt,2025-11-09,MIN de Lille,Yaourt Cat. I - France,https://rnm.franceagrimer.fr/prix?YAOURT,5.91,9,pièce,France,Cat. I,Yaourt,MIN de Lille,5.91,11,2025,Automne,Produits laitiers,5-10€
+Volaille,2025-11-18,MIN de Paris,Volaille Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?VOLAILLE,22.63,9,kg,Pays-Bas,Cat. II,Volaille,MIN de Paris,22.63,11,2025,Automne,Viande,>20€
+Fraise,2025-12-22,MIN de Lille,Fraise Bio - Italie,https://rnm.franceagrimer.fr/prix?FRAISE,4.6,4,pièce,Italie,Bio,Fraise,MIN de Lille,4.6,12,2025,Hiver,Fruits,2-5€
+Bœuf,2025-12-18,MIN de Marseille,Bœuf Bio - Maroc,https://rnm.franceagrimer.fr/prix?BŒUF,29.77,10,litre,Maroc,Bio,Bœuf,MIN de Marseille,29.77,12,2025,Hiver,Viande,>20€
+Crème,2026-01-21,MIN de Nice,Crème Extra - Espagne,https://rnm.franceagrimer.fr/prix?CRÈME,12.33,9,litre,Espagne,Extra,Crème,MIN de Nice,12.33,1,2026,Hiver,Produits laitiers,10-20€
+Fromage de chèvre,2026-01-07,MIN de Nantes,Fromage de chèvre Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,14.06,5,kg,Espagne,Cat. I,Fromage De Chèvre,MIN de Nantes,14.06,1,2026,Hiver,Produits laitiers,10-20€
+Ail,2025-12-23,MIN de Bordeaux,Ail Cat. II - France,https://rnm.franceagrimer.fr/prix?AIL,7.48,1,pièce,France,Cat. II,Ail,MIN de Bordeaux,7.48,12,2025,Hiver,Légumes,5-10€
+Fraise,2026-01-02,MIN de Marseille,Fraise Cat. I - France,https://rnm.franceagrimer.fr/prix?FRAISE,3.19,2,pièce,France,Cat. I,Fraise,MIN de Marseille,3.19,1,2026,Hiver,Fruits,2-5€
+Porc,2025-12-20,MIN de Lille,Porc Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?PORC,27.84,10,pièce,Portugal,Cat. I,Porc,MIN de Lille,27.84,12,2025,Hiver,Viande,>20€
+Citron,2025-12-11,MIN de Strasbourg,Citron Extra - Portugal,https://rnm.franceagrimer.fr/prix?CITRON,8.87,5,kg,Portugal,Extra,Citron,MIN de Strasbourg,8.87,12,2025,Hiver,Fruits,5-10€
+Yaourt,2025-12-02,MIN de Bordeaux,Yaourt Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?YAOURT,5.8,10,pièce,Belgique,Cat. I,Yaourt,MIN de Bordeaux,5.8,12,2025,Hiver,Produits laitiers,5-10€
+Fraise,2026-01-01,MIN de Strasbourg,Fraise Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?FRAISE,3.26,5,kg,Pays-Bas,Cat. I,Fraise,MIN de Strasbourg,3.26,1,2026,Hiver,Fruits,2-5€
+Dinde,2026-01-09,MIN de Lille,Dinde Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?DINDE,31.19,8,pièce,Allemagne,Cat. I,Dinde,MIN de Lille,31.19,1,2026,Hiver,Viande,>20€
+Cerise,2025-12-03,MIN de Marseille,Cerise Extra - Espagne,https://rnm.franceagrimer.fr/prix?CERISE,9.61,1,pièce,Espagne,Extra,Cerise,MIN de Marseille,9.61,12,2025,Hiver,Fruits,5-10€
+Oignon,2025-11-08,MIN de Lille,Oignon Extra - Maroc,https://rnm.franceagrimer.fr/prix?OIGNON,3.51,3,kg,Maroc,Extra,Oignon,MIN de Lille,3.51,11,2025,Automne,Légumes,2-5€
+Chou,2025-12-04,MIN de Marseille,Chou Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?CHOU,8.39,7,pièce,Allemagne,Cat. II,Chou,MIN de Marseille,8.39,12,2025,Hiver,Légumes,5-10€
+Fromage,2026-01-21,MIN de Bordeaux,Fromage Cat. I - France,https://rnm.franceagrimer.fr/prix?FROMAGE,9.68,10,kg,France,Cat. I,Fromage,MIN de Bordeaux,9.68,1,2026,Hiver,Produits laitiers,5-10€
+Fraise,2025-11-06,MIN de Lille,Fraise Extra - France,https://rnm.franceagrimer.fr/prix?FRAISE,3.65,9,pièce,France,Extra,Fraise,MIN de Lille,3.65,11,2025,Automne,Fruits,2-5€
+Fraise,2025-11-18,MIN d'Avignon,Fraise Extra - France,https://rnm.franceagrimer.fr/prix?FRAISE,3.63,3,litre,France,Extra,Fraise,MIN d'Avignon,3.63,11,2025,Automne,Fruits,2-5€
+Fromage,2025-11-06,MIN de Marseille,Fromage Bio - Portugal,https://rnm.franceagrimer.fr/prix?FROMAGE,10.25,4,pièce,Portugal,Bio,Fromage,MIN de Marseille,10.25,11,2025,Automne,Produits laitiers,10-20€
+Courgette,2026-01-31,MIN de Toulouse,Courgette Bio - France,https://rnm.franceagrimer.fr/prix?COURGETTE,4.54,5,litre,France,Bio,Courgette,MIN de Toulouse,4.54,1,2026,Hiver,Légumes,2-5€
+Pomme de terre,2025-11-21,MIN de Toulouse,Pomme de terre Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,6.55,3,litre,Maroc,Cat. II,Pomme De Terre,MIN de Toulouse,6.55,11,2025,Automne,Légumes,5-10€
+Tomate,2025-12-22,MIN de Perpignan,Tomate Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?TOMATE,3.56,9,kg,Portugal,Cat. I,Tomate,MIN de Perpignan,3.56,12,2025,Hiver,Légumes,2-5€
+Pastèque,2025-11-04,MIN de Perpignan,Pastèque Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?PASTÈQUE,3.46,1,litre,Pays-Bas,Cat. I,Pastèque,MIN de Perpignan,3.46,11,2025,Automne,Fruits,2-5€
+Agneau,2025-12-05,MIN de Strasbourg,Agneau Bio - Italie,https://rnm.franceagrimer.fr/prix?AGNEAU,32.74,1,pièce,Italie,Bio,Agneau,MIN de Strasbourg,32.74,12,2025,Hiver,Viande,>20€
+Veau,2026-01-29,MIN de Strasbourg,Veau Cat. II - Italie,https://rnm.franceagrimer.fr/prix?VEAU,32.88,10,litre,Italie,Cat. II,Veau,MIN de Strasbourg,32.88,1,2026,Hiver,Viande,>20€
+Dinde,2025-12-21,MIN de Nice,Dinde Bio - Maroc,https://rnm.franceagrimer.fr/prix?DINDE,30.06,9,pièce,Maroc,Bio,Dinde,MIN de Nice,30.06,12,2025,Hiver,Viande,>20€
+Melon,2025-12-02,MIN de Nice,Melon Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?MELON,6.23,9,litre,Allemagne,Cat. II,Melon,MIN de Nice,6.23,12,2025,Hiver,Fruits,5-10€
+Canard,2026-01-09,MIN de Nantes,Canard Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?CANARD,33.88,10,litre,Maroc,Cat. II,Canard,MIN de Nantes,33.88,1,2026,Hiver,Viande,>20€
+Banane,2026-01-12,MIN de Strasbourg,Banane Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?BANANE,17.76,1,kg,Pays-Bas,Bio,Banane,MIN de Strasbourg,17.76,1,2026,Hiver,Fruits,10-20€
+Lapin,2025-11-17,MIN d'Avignon,Lapin Bio - Allemagne,https://rnm.franceagrimer.fr/prix?LAPIN,25.96,3,kg,Allemagne,Bio,Lapin,MIN d'Avignon,25.96,11,2025,Automne,Viande,>20€
+Pastèque,2025-12-20,MIN de Paris,Pastèque Extra - Allemagne,https://rnm.franceagrimer.fr/prix?PASTÈQUE,3.99,7,litre,Allemagne,Extra,Pastèque,MIN de Paris,3.99,12,2025,Hiver,Fruits,2-5€
+Veau,2025-11-12,MIN de Marseille,Veau Extra - Maroc,https://rnm.franceagrimer.fr/prix?VEAU,20.8,1,kg,Maroc,Extra,Veau,MIN de Marseille,20.8,11,2025,Automne,Viande,>20€
+Agneau,2025-12-15,MIN de Rungis,Agneau Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?AGNEAU,30.65,1,pièce,Belgique,Cat. I,Agneau,MIN de Rungis,30.65,12,2025,Hiver,Viande,>20€
+Cheval,2025-11-08,MIN de Bordeaux,Cheval Cat. II - France,https://rnm.franceagrimer.fr/prix?CHEVAL,20.72,2,kg,France,Cat. II,Cheval,MIN de Bordeaux,20.72,11,2025,Automne,Viande,>20€
+Veau,2025-11-18,MIN d'Avignon,Veau Bio - Belgique,https://rnm.franceagrimer.fr/prix?VEAU,30.22,3,kg,Belgique,Bio,Veau,MIN d'Avignon,30.22,11,2025,Automne,Viande,>20€
+Carotte,2025-12-19,MIN de Paris,Carotte Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?CAROTTE,3.51,4,kg,Belgique,Cat. II,Carotte,MIN de Paris,3.51,12,2025,Hiver,Légumes,2-5€
+Porc,2025-12-13,MIN de Lyon,Porc Bio - Portugal,https://rnm.franceagrimer.fr/prix?PORC,26.87,10,pièce,Portugal,Bio,Porc,MIN de Lyon,26.87,12,2025,Hiver,Viande,>20€
+Pomme de terre,2025-11-16,MIN de Lyon,Pomme de terre Cat. I - France,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,5.67,7,litre,France,Cat. I,Pomme De Terre,MIN de Lyon,5.67,11,2025,Automne,Légumes,5-10€
+Veau,2025-11-12,MIN de Nantes,Veau Extra - Italie,https://rnm.franceagrimer.fr/prix?VEAU,30.12,10,pièce,Italie,Extra,Veau,MIN de Nantes,30.12,11,2025,Automne,Viande,>20€
+Pêche,2025-12-30,MIN de Rungis,Pêche Bio - Espagne,https://rnm.franceagrimer.fr/prix?PÊCHE,12.01,6,pièce,Espagne,Bio,Pêche,MIN de Rungis,12.01,12,2025,Hiver,Fruits,10-20€
+Raisin,2025-12-21,MIN de Toulouse,Raisin Cat. I - France,https://rnm.franceagrimer.fr/prix?RAISIN,13.72,8,kg,France,Cat. I,Raisin,MIN de Toulouse,13.72,12,2025,Hiver,Fruits,10-20€
+Orange,2025-12-16,MIN de Nantes,Orange Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?ORANGE,10.91,4,litre,Belgique,Cat. II,Orange,MIN de Nantes,10.91,12,2025,Hiver,Fruits,10-20€
+Œuf,2025-11-20,MIN de Nantes,Œuf Bio - Belgique,https://rnm.franceagrimer.fr/prix?ŒUF,5.78,2,pièce,Belgique,Bio,Œuf,MIN de Nantes,5.78,11,2025,Automne,Produits laitiers,5-10€
+Crème,2025-11-19,MIN de Nantes,Crème Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?CRÈME,12.54,3,litre,Belgique,Cat. I,Crème,MIN de Nantes,12.54,11,2025,Automne,Produits laitiers,10-20€
+Veau,2026-01-07,MIN d'Avignon,Veau Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?VEAU,18.68,1,litre,Belgique,Cat. II,Veau,MIN d'Avignon,18.68,1,2026,Hiver,Viande,10-20€
+Orange,2025-12-11,MIN de Toulouse,Orange Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?ORANGE,13.54,7,litre,Pays-Bas,Cat. I,Orange,MIN de Toulouse,13.54,12,2025,Hiver,Fruits,10-20€
+Pomme de terre,2025-12-23,MIN de Lyon,Pomme de terre Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,6.11,2,pièce,Pays-Bas,Cat. II,Pomme De Terre,MIN de Lyon,6.11,12,2025,Hiver,Légumes,5-10€
+Kiwi,2026-01-04,MIN de Rungis,Kiwi Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?KIWI,4.95,4,kg,Espagne,Cat. II,Kiwi,MIN de Rungis,4.95,1,2026,Hiver,Fruits,2-5€
+Veau,2026-01-25,MIN de Nantes,Veau Bio - Italie,https://rnm.franceagrimer.fr/prix?VEAU,19.65,8,pièce,Italie,Bio,Veau,MIN de Nantes,19.65,1,2026,Hiver,Viande,10-20€
+Citron,2025-12-30,MIN de Perpignan,Citron Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?CITRON,8.53,6,pièce,Pays-Bas,Extra,Citron,MIN de Perpignan,8.53,12,2025,Hiver,Fruits,5-10€
+Bœuf,2026-01-24,MIN de Bordeaux,Bœuf Bio - Maroc,https://rnm.franceagrimer.fr/prix?BŒUF,25.25,2,kg,Maroc,Bio,Bœuf,MIN de Bordeaux,25.25,1,2026,Hiver,Viande,>20€
+Lait,2025-12-17,MIN de Nice,Lait Bio - Portugal,https://rnm.franceagrimer.fr/prix?LAIT,8.97,5,kg,Portugal,Bio,Lait,MIN de Nice,8.97,12,2025,Hiver,Produits laitiers,5-10€
+Citron,2025-12-31,MIN de Rungis,Citron Cat. I - France,https://rnm.franceagrimer.fr/prix?CITRON,8.71,6,kg,France,Cat. I,Citron,MIN de Rungis,8.71,12,2025,Hiver,Fruits,5-10€
+Fromage de chèvre,2026-01-04,MIN de Nice,Fromage de chèvre Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,14.34,5,pièce,Portugal,Cat. II,Fromage De Chèvre,MIN de Nice,14.34,1,2026,Hiver,Produits laitiers,10-20€
+Veau,2025-12-10,MIN de Rungis,Veau Bio - Espagne,https://rnm.franceagrimer.fr/prix?VEAU,26.52,7,kg,Espagne,Bio,Veau,MIN de Rungis,26.52,12,2025,Hiver,Viande,>20€
+Kiwi,2026-01-11,MIN d'Avignon,Kiwi Bio - Portugal,https://rnm.franceagrimer.fr/prix?KIWI,3.87,6,kg,Portugal,Bio,Kiwi,MIN d'Avignon,3.87,1,2026,Hiver,Fruits,2-5€
+Veau,2025-11-15,MIN de Nice,Veau Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?VEAU,34.56,3,pièce,Portugal,Cat. I,Veau,MIN de Nice,34.56,11,2025,Automne,Viande,>20€
+Melon,2025-12-12,MIN de Paris,Melon Extra - Italie,https://rnm.franceagrimer.fr/prix?MELON,8.23,2,kg,Italie,Extra,Melon,MIN de Paris,8.23,12,2025,Hiver,Fruits,5-10€
+Pêche,2026-01-09,MIN de Strasbourg,Pêche Bio - Italie,https://rnm.franceagrimer.fr/prix?PÊCHE,8.81,9,kg,Italie,Bio,Pêche,MIN de Strasbourg,8.81,1,2026,Hiver,Fruits,5-10€
+Melon,2025-12-23,MIN de Perpignan,Melon Bio - Portugal,https://rnm.franceagrimer.fr/prix?MELON,6.84,3,kg,Portugal,Bio,Melon,MIN de Perpignan,6.84,12,2025,Hiver,Fruits,5-10€
+Crème,2025-12-21,MIN de Nice,Crème Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?CRÈME,12.16,5,pièce,Espagne,Cat. II,Crème,MIN de Nice,12.16,12,2025,Hiver,Produits laitiers,10-20€
+Orange,2025-12-13,MIN de Lyon,Orange Cat. I - Italie,https://rnm.franceagrimer.fr/prix?ORANGE,9.79,3,kg,Italie,Cat. I,Orange,MIN de Lyon,9.79,12,2025,Hiver,Fruits,5-10€
+Bœuf,2026-01-11,MIN de Lyon,Bœuf Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?BŒUF,28.94,2,kg,Pays-Bas,Bio,Bœuf,MIN de Lyon,28.94,1,2026,Hiver,Viande,>20€
+Porc,2025-12-21,MIN de Nantes,Porc Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?PORC,28.94,9,kg,Espagne,Cat. I,Porc,MIN de Nantes,28.94,12,2025,Hiver,Viande,>20€
+Banane,2026-01-28,MIN de Lyon,Banane Extra - Italie,https://rnm.franceagrimer.fr/prix?BANANE,14.61,5,pièce,Italie,Extra,Banane,MIN de Lyon,14.61,1,2026,Hiver,Fruits,10-20€
+Poulet,2026-01-16,MIN de Lille,Poulet Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?POULET,13.99,1,kg,Espagne,Cat. I,Poulet,MIN de Lille,13.99,1,2026,Hiver,Viande,10-20€
+Veau,2026-01-26,MIN de Nantes,Veau Extra - Italie,https://rnm.franceagrimer.fr/prix?VEAU,28.82,1,litre,Italie,Extra,Veau,MIN de Nantes,28.82,1,2026,Hiver,Viande,>20€
+Bœuf,2025-11-12,MIN de Bordeaux,Bœuf Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?BŒUF,25.7,1,pièce,Maroc,Cat. II,Bœuf,MIN de Bordeaux,25.7,11,2025,Automne,Viande,>20€
+Ail,2025-12-31,MIN de Marseille,Ail Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?AIL,5.71,10,kg,Pays-Bas,Extra,Ail,MIN de Marseille,5.71,12,2025,Hiver,Légumes,5-10€
+Canard,2025-12-13,MIN de Strasbourg,Canard Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?CANARD,27.23,6,pièce,Maroc,Cat. I,Canard,MIN de Strasbourg,27.23,12,2025,Hiver,Viande,>20€
+Volaille,2025-11-13,MIN de Bordeaux,Volaille Cat. II - France,https://rnm.franceagrimer.fr/prix?VOLAILLE,21.95,5,kg,France,Cat. II,Volaille,MIN de Bordeaux,21.95,11,2025,Automne,Viande,>20€
+Kiwi,2025-12-16,MIN de Paris,Kiwi Bio - Belgique,https://rnm.franceagrimer.fr/prix?KIWI,5.04,5,pièce,Belgique,Bio,Kiwi,MIN de Paris,5.04,12,2025,Hiver,Fruits,5-10€
+Ail,2025-12-08,MIN de Marseille,Ail Cat. II - France,https://rnm.franceagrimer.fr/prix?AIL,6.45,10,pièce,France,Cat. II,Ail,MIN de Marseille,6.45,12,2025,Hiver,Légumes,5-10€
+Pastèque,2026-01-02,MIN de Rungis,Pastèque Bio - Allemagne,https://rnm.franceagrimer.fr/prix?PASTÈQUE,3.53,8,kg,Allemagne,Bio,Pastèque,MIN de Rungis,3.53,1,2026,Hiver,Fruits,2-5€
+Porc,2026-02-01,MIN d'Avignon,Porc Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?PORC,28.06,9,kg,Espagne,Cat. II,Porc,MIN d'Avignon,28.06,2,2026,Hiver,Viande,>20€
+Orange,2025-11-12,MIN de Nice,Orange Extra - Maroc,https://rnm.franceagrimer.fr/prix?ORANGE,8.27,10,kg,Maroc,Extra,Orange,MIN de Nice,8.27,11,2025,Automne,Fruits,5-10€
+Œuf,2026-01-02,MIN de Lyon,Œuf Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?ŒUF,5.58,9,kg,Portugal,Cat. I,Œuf,MIN de Lyon,5.58,1,2026,Hiver,Produits laitiers,5-10€
+Bœuf,2026-01-02,MIN de Lille,Bœuf Cat. I - Italie,https://rnm.franceagrimer.fr/prix?BŒUF,29.71,9,pièce,Italie,Cat. I,Bœuf,MIN de Lille,29.71,1,2026,Hiver,Viande,>20€
+Pêche,2026-01-04,MIN de Paris,Pêche Cat. I - France,https://rnm.franceagrimer.fr/prix?PÊCHE,11.61,8,litre,France,Cat. I,Pêche,MIN de Paris,11.61,1,2026,Hiver,Fruits,10-20€
+Poulet,2025-12-18,MIN de Marseille,Poulet Bio - France,https://rnm.franceagrimer.fr/prix?POULET,16.8,4,kg,France,Bio,Poulet,MIN de Marseille,16.8,12,2025,Hiver,Viande,10-20€
+Haricot vert,2026-01-25,MIN de Toulouse,Haricot vert Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?HARICOT-VERT,7.75,3,kg,Maroc,Cat. I,Haricot Vert,MIN de Toulouse,7.75,1,2026,Hiver,Légumes,5-10€
+Poivron,2026-02-01,MIN de Nice,Poivron Cat. I - Italie,https://rnm.franceagrimer.fr/prix?POIVRON,3.05,1,litre,Italie,Cat. I,Poivron,MIN de Nice,3.05,2,2026,Hiver,Légumes,2-5€
+Ail,2025-12-29,MIN de Lille,Ail Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?AIL,6.85,4,pièce,Pays-Bas,Extra,Ail,MIN de Lille,6.85,12,2025,Hiver,Légumes,5-10€
+Pomme de terre,2026-01-29,MIN de Lyon,Pomme de terre Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,7.46,1,litre,Belgique,Cat. II,Pomme De Terre,MIN de Lyon,7.46,1,2026,Hiver,Légumes,5-10€
+Volaille,2026-01-18,MIN de Toulouse,Volaille Extra - France,https://rnm.franceagrimer.fr/prix?VOLAILLE,19.99,1,pièce,France,Extra,Volaille,MIN de Toulouse,19.99,1,2026,Hiver,Viande,10-20€
+Fromage de chèvre,2025-11-24,MIN de Toulouse,Fromage de chèvre Extra - Espagne,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,14.35,8,kg,Espagne,Extra,Fromage De Chèvre,MIN de Toulouse,14.35,11,2025,Automne,Produits laitiers,10-20€
+Pomme,2025-12-23,MIN de Nantes,Pomme Cat. I - France,https://rnm.franceagrimer.fr/prix?POMME,13.96,3,kg,France,Cat. I,Pomme,MIN de Nantes,13.96,12,2025,Hiver,Fruits,10-20€
+Lapin,2025-12-26,MIN de Strasbourg,Lapin Bio - Espagne,https://rnm.franceagrimer.fr/prix?LAPIN,24.8,6,kg,Espagne,Bio,Lapin,MIN de Strasbourg,24.8,12,2025,Hiver,Viande,>20€
+Agneau,2025-11-19,MIN de Lyon,Agneau Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?AGNEAU,32.97,9,pièce,Pays-Bas,Cat. I,Agneau,MIN de Lyon,32.97,11,2025,Automne,Viande,>20€
+Agneau,2025-12-18,MIN d'Avignon,Agneau Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?AGNEAU,24.83,6,pièce,Belgique,Cat. II,Agneau,MIN d'Avignon,24.83,12,2025,Hiver,Viande,>20€
+Citron,2025-11-05,MIN de Lyon,Citron Cat. I - France,https://rnm.franceagrimer.fr/prix?CITRON,5.49,9,pièce,France,Cat. I,Citron,MIN de Lyon,5.49,11,2025,Automne,Fruits,5-10€
+Melon,2025-12-18,MIN de Lyon,Melon Bio - Allemagne,https://rnm.franceagrimer.fr/prix?MELON,5.87,1,litre,Allemagne,Bio,Melon,MIN de Lyon,5.87,12,2025,Hiver,Fruits,5-10€
+Banane,2025-11-04,MIN de Nantes,Banane Extra - Allemagne,https://rnm.franceagrimer.fr/prix?BANANE,9.88,3,kg,Allemagne,Extra,Banane,MIN de Nantes,9.88,11,2025,Automne,Fruits,5-10€
+Carotte,2025-12-28,MIN de Nantes,Carotte Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?CAROTTE,3.31,4,litre,Pays-Bas,Cat. II,Carotte,MIN de Nantes,3.31,12,2025,Hiver,Légumes,2-5€
+Crème,2026-02-01,MIN de Marseille,Crème Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?CRÈME,13.53,3,kg,Maroc,Cat. II,Crème,MIN de Marseille,13.53,2,2026,Hiver,Produits laitiers,10-20€
+Orange,2026-01-11,MIN de Marseille,Orange Extra - Allemagne,https://rnm.franceagrimer.fr/prix?ORANGE,11.47,9,litre,Allemagne,Extra,Orange,MIN de Marseille,11.47,1,2026,Hiver,Fruits,10-20€
+Pomme,2025-12-05,MIN de Nantes,Pomme Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?POMME,11.18,10,kg,Pays-Bas,Bio,Pomme,MIN de Nantes,11.18,12,2025,Hiver,Fruits,10-20€
+Poire,2026-01-07,MIN de Paris,Poire Cat. I - France,https://rnm.franceagrimer.fr/prix?POIRE,12.3,5,kg,France,Cat. I,Poire,MIN de Paris,12.3,1,2026,Hiver,Fruits,10-20€
+Orange,2025-12-08,MIN de Paris,Orange Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?ORANGE,10.52,6,kg,Pays-Bas,Bio,Orange,MIN de Paris,10.52,12,2025,Hiver,Fruits,10-20€
+Ail,2025-11-04,MIN de Strasbourg,Ail Extra - France,https://rnm.franceagrimer.fr/prix?AIL,6.18,6,litre,France,Extra,Ail,MIN de Strasbourg,6.18,11,2025,Automne,Légumes,5-10€
+Volaille,2026-01-11,MIN de Toulouse,Volaille Bio - France,https://rnm.franceagrimer.fr/prix?VOLAILLE,22.81,4,kg,France,Bio,Volaille,MIN de Toulouse,22.81,1,2026,Hiver,Viande,>20€
+Tomate,2025-11-06,MIN de Rungis,Tomate Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?TOMATE,3.51,4,pièce,Allemagne,Cat. II,Tomate,MIN de Rungis,3.51,11,2025,Automne,Légumes,2-5€
+Citron,2025-11-14,MIN de Strasbourg,Citron Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?CITRON,6.23,6,kg,Espagne,Cat. II,Citron,MIN de Strasbourg,6.23,11,2025,Automne,Fruits,5-10€
+Carotte,2025-11-21,MIN d'Avignon,Carotte Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?CAROTTE,3.33,6,kg,Pays-Bas,Cat. I,Carotte,MIN d'Avignon,3.33,11,2025,Automne,Légumes,2-5€
+Chou,2025-11-12,MIN de Perpignan,Chou Bio - Allemagne,https://rnm.franceagrimer.fr/prix?CHOU,7.63,9,kg,Allemagne,Bio,Chou,MIN de Perpignan,7.63,11,2025,Automne,Légumes,5-10€
+Salade,2026-01-13,MIN de Nantes,Salade Cat. II - Italie,https://rnm.franceagrimer.fr/prix?SALADE,5.64,1,kg,Italie,Cat. II,Salade,MIN de Nantes,5.64,1,2026,Hiver,Légumes,5-10€
+Poivron,2026-01-12,MIN de Nantes,Poivron Bio - Espagne,https://rnm.franceagrimer.fr/prix?POIVRON,2.92,4,litre,Espagne,Bio,Poivron,MIN de Nantes,2.92,1,2026,Hiver,Légumes,2-5€
+Raisin,2025-12-17,MIN de Lyon,Raisin Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?RAISIN,12.92,8,kg,Pays-Bas,Extra,Raisin,MIN de Lyon,12.92,12,2025,Hiver,Fruits,10-20€
+Orange,2026-01-07,MIN de Toulouse,Orange Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?ORANGE,9.25,7,pièce,Belgique,Cat. II,Orange,MIN de Toulouse,9.25,1,2026,Hiver,Fruits,5-10€
+Crème,2026-01-26,MIN d'Avignon,Crème Bio - Maroc,https://rnm.franceagrimer.fr/prix?CRÈME,11.03,6,pièce,Maroc,Bio,Crème,MIN d'Avignon,11.03,1,2026,Hiver,Produits laitiers,10-20€
+Aubergine,2026-01-13,MIN de Lyon,Aubergine Extra - Allemagne,https://rnm.franceagrimer.fr/prix?AUBERGINE,2.41,7,kg,Allemagne,Extra,Aubergine,MIN de Lyon,2.41,1,2026,Hiver,Légumes,2-5€
+Carotte,2025-11-11,MIN de Perpignan,Carotte Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?CAROTTE,3.78,7,pièce,Belgique,Cat. I,Carotte,MIN de Perpignan,3.78,11,2025,Automne,Légumes,2-5€
+Courgette,2025-12-25,MIN de Paris,Courgette Cat. II - France,https://rnm.franceagrimer.fr/prix?COURGETTE,4.28,9,litre,France,Cat. II,Courgette,MIN de Paris,4.28,12,2025,Hiver,Légumes,2-5€
+Cerise,2026-01-05,MIN de Paris,Cerise Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?CERISE,9.9,3,kg,Allemagne,Cat. II,Cerise,MIN de Paris,9.9,1,2026,Hiver,Fruits,5-10€
+Kiwi,2025-11-24,MIN d'Avignon,Kiwi Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?KIWI,3.83,5,kg,Portugal,Cat. II,Kiwi,MIN d'Avignon,3.83,11,2025,Automne,Fruits,2-5€
+Kiwi,2026-02-01,MIN de Lyon,Kiwi Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?KIWI,5.34,2,kg,Maroc,Cat. I,Kiwi,MIN de Lyon,5.34,2,2026,Hiver,Fruits,5-10€
+Agneau,2026-01-07,MIN de Rungis,Agneau Extra - Italie,https://rnm.franceagrimer.fr/prix?AGNEAU,31.69,7,litre,Italie,Extra,Agneau,MIN de Rungis,31.69,1,2026,Hiver,Viande,>20€
+Pomme de terre,2025-12-10,MIN d'Avignon,Pomme de terre Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,7.1,5,kg,Maroc,Cat. II,Pomme De Terre,MIN d'Avignon,7.1,12,2025,Hiver,Légumes,5-10€
+Volaille,2025-12-13,MIN de Perpignan,Volaille Extra - Maroc,https://rnm.franceagrimer.fr/prix?VOLAILLE,21.64,6,litre,Maroc,Extra,Volaille,MIN de Perpignan,21.64,12,2025,Hiver,Viande,>20€
+Pomme de terre,2025-12-16,MIN de Bordeaux,Pomme de terre Bio - Italie,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,5.68,10,litre,Italie,Bio,Pomme De Terre,MIN de Bordeaux,5.68,12,2025,Hiver,Légumes,5-10€
+Fraise,2025-11-04,MIN de Marseille,Fraise Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?FRAISE,3.24,4,kg,Pays-Bas,Extra,Fraise,MIN de Marseille,3.24,11,2025,Automne,Fruits,2-5€
+Veau,2025-12-08,MIN de Toulouse,Veau Extra - Maroc,https://rnm.franceagrimer.fr/prix?VEAU,32.07,8,pièce,Maroc,Extra,Veau,MIN de Toulouse,32.07,12,2025,Hiver,Viande,>20€
+Beurre,2025-12-21,MIN de Nice,Beurre Extra - Maroc,https://rnm.franceagrimer.fr/prix?BEURRE,11.74,9,kg,Maroc,Extra,Beurre,MIN de Nice,11.74,12,2025,Hiver,Produits laitiers,10-20€
+Courgette,2025-11-30,MIN d'Avignon,Courgette Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?COURGETTE,4.95,4,pièce,Belgique,Cat. II,Courgette,MIN d'Avignon,4.95,11,2025,Automne,Légumes,2-5€
+Kiwi,2025-11-28,MIN de Bordeaux,Kiwi Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?KIWI,4.27,1,litre,Allemagne,Cat. II,Kiwi,MIN de Bordeaux,4.27,11,2025,Automne,Fruits,2-5€
+Tomate,2025-11-09,MIN d'Avignon,Tomate Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?TOMATE,3.04,1,pièce,Pays-Bas,Bio,Tomate,MIN d'Avignon,3.04,11,2025,Automne,Légumes,2-5€
+Beurre,2025-12-15,MIN de Paris,Beurre Extra - Portugal,https://rnm.franceagrimer.fr/prix?BEURRE,10.26,8,pièce,Portugal,Extra,Beurre,MIN de Paris,10.26,12,2025,Hiver,Produits laitiers,10-20€
+Cerise,2025-11-23,MIN de Toulouse,Cerise Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?CERISE,6.89,4,pièce,Espagne,Cat. I,Cerise,MIN de Toulouse,6.89,11,2025,Automne,Fruits,5-10€
+Fromage de chèvre,2025-11-18,MIN de Rungis,Fromage de chèvre Extra - Italie,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,14.59,3,pièce,Italie,Extra,Fromage De Chèvre,MIN de Rungis,14.59,11,2025,Automne,Produits laitiers,10-20€
+Poivron,2025-12-06,MIN de Bordeaux,Poivron Bio - Belgique,https://rnm.franceagrimer.fr/prix?POIVRON,2.99,3,kg,Belgique,Bio,Poivron,MIN de Bordeaux,2.99,12,2025,Hiver,Légumes,2-5€
+Œuf,2025-11-05,MIN de Perpignan,Œuf Extra - Italie,https://rnm.franceagrimer.fr/prix?ŒUF,5.23,3,litre,Italie,Extra,Œuf,MIN de Perpignan,5.23,11,2025,Automne,Produits laitiers,5-10€
+Oignon,2026-01-25,MIN de Marseille,Oignon Cat. II - France,https://rnm.franceagrimer.fr/prix?OIGNON,3.07,7,kg,France,Cat. II,Oignon,MIN de Marseille,3.07,1,2026,Hiver,Légumes,2-5€
+Lait,2025-12-02,MIN d'Avignon,Lait Bio - Allemagne,https://rnm.franceagrimer.fr/prix?LAIT,7.83,1,pièce,Allemagne,Bio,Lait,MIN d'Avignon,7.83,12,2025,Hiver,Produits laitiers,5-10€
+Raisin,2025-12-16,MIN de Lille,Raisin Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?RAISIN,14.92,5,pièce,Pays-Bas,Extra,Raisin,MIN de Lille,14.92,12,2025,Hiver,Fruits,10-20€
+Yaourt,2026-01-29,MIN d'Avignon,Yaourt Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?YAOURT,7.28,4,litre,Allemagne,Cat. I,Yaourt,MIN d'Avignon,7.28,1,2026,Hiver,Produits laitiers,5-10€
+Raisin,2026-01-06,MIN de Lille,Raisin Cat. II - Italie,https://rnm.franceagrimer.fr/prix?RAISIN,14.1,4,pièce,Italie,Cat. II,Raisin,MIN de Lille,14.1,1,2026,Hiver,Fruits,10-20€
+Fromage de chèvre,2025-11-11,MIN d'Avignon,Fromage de chèvre Bio - Maroc,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,11.92,9,litre,Maroc,Bio,Fromage De Chèvre,MIN d'Avignon,11.92,11,2025,Automne,Produits laitiers,10-20€
+Carotte,2025-12-21,MIN de Lyon,Carotte Cat. II - France,https://rnm.franceagrimer.fr/prix?CAROTTE,3.23,7,litre,France,Cat. II,Carotte,MIN de Lyon,3.23,12,2025,Hiver,Légumes,2-5€
+Bœuf,2025-12-20,MIN d'Avignon,Bœuf Bio - Portugal,https://rnm.franceagrimer.fr/prix?BŒUF,25.25,9,litre,Portugal,Bio,Bœuf,MIN d'Avignon,25.25,12,2025,Hiver,Viande,>20€
+Dinde,2025-11-14,MIN d'Avignon,Dinde Extra - Belgique,https://rnm.franceagrimer.fr/prix?DINDE,34.64,4,pièce,Belgique,Extra,Dinde,MIN d'Avignon,34.64,11,2025,Automne,Viande,>20€
+Ail,2025-12-30,MIN de Nice,Ail Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?AIL,7.33,10,pièce,Allemagne,Cat. I,Ail,MIN de Nice,7.33,12,2025,Hiver,Légumes,5-10€
+Pastèque,2026-01-18,MIN de Nantes,Pastèque Extra - Italie,https://rnm.franceagrimer.fr/prix?PASTÈQUE,3.69,8,kg,Italie,Extra,Pastèque,MIN de Nantes,3.69,1,2026,Hiver,Fruits,2-5€
+Chou,2025-11-17,MIN de Toulouse,Chou Extra - Espagne,https://rnm.franceagrimer.fr/prix?CHOU,8.08,10,litre,Espagne,Extra,Chou,MIN de Toulouse,8.08,11,2025,Automne,Légumes,5-10€
+Pastèque,2025-12-25,MIN de Lyon,Pastèque Extra - France,https://rnm.franceagrimer.fr/prix?PASTÈQUE,4.13,8,litre,France,Extra,Pastèque,MIN de Lyon,4.13,12,2025,Hiver,Fruits,2-5€
+Cerise,2025-12-05,MIN de Bordeaux,Cerise Extra - France,https://rnm.franceagrimer.fr/prix?CERISE,9.04,10,pièce,France,Extra,Cerise,MIN de Bordeaux,9.04,12,2025,Hiver,Fruits,5-10€
+Fromage de chèvre,2025-12-14,MIN de Paris,Fromage de chèvre Extra - Maroc,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,12.95,10,litre,Maroc,Extra,Fromage De Chèvre,MIN de Paris,12.95,12,2025,Hiver,Produits laitiers,10-20€
+Beurre,2025-12-28,MIN de Bordeaux,Beurre Extra - Espagne,https://rnm.franceagrimer.fr/prix?BEURRE,10.86,5,kg,Espagne,Extra,Beurre,MIN de Bordeaux,10.86,12,2025,Hiver,Produits laitiers,10-20€
+Salade,2025-12-24,MIN de Nantes,Salade Bio - Maroc,https://rnm.franceagrimer.fr/prix?SALADE,5.26,6,litre,Maroc,Bio,Salade,MIN de Nantes,5.26,12,2025,Hiver,Légumes,5-10€
+Oignon,2026-01-16,MIN de Paris,Oignon Extra - Maroc,https://rnm.franceagrimer.fr/prix?OIGNON,3.82,5,pièce,Maroc,Extra,Oignon,MIN de Paris,3.82,1,2026,Hiver,Légumes,2-5€
+Poivron,2025-12-21,MIN de Lyon,Poivron Extra - Belgique,https://rnm.franceagrimer.fr/prix?POIVRON,2.91,4,pièce,Belgique,Extra,Poivron,MIN de Lyon,2.91,12,2025,Hiver,Légumes,2-5€
+Canard,2025-12-09,MIN de Toulouse,Canard Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?CANARD,34.04,3,kg,Maroc,Cat. II,Canard,MIN de Toulouse,34.04,12,2025,Hiver,Viande,>20€
+Porc,2025-11-30,MIN de Paris,Porc Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?PORC,31.43,7,kg,Portugal,Cat. I,Porc,MIN de Paris,31.43,11,2025,Automne,Viande,>20€
+Orange,2025-12-17,MIN de Paris,Orange Bio - Portugal,https://rnm.franceagrimer.fr/prix?ORANGE,13.4,8,kg,Portugal,Bio,Orange,MIN de Paris,13.4,12,2025,Hiver,Fruits,10-20€
+Veau,2026-01-16,MIN de Nice,Veau Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?VEAU,33.73,7,kg,Maroc,Cat. I,Veau,MIN de Nice,33.73,1,2026,Hiver,Viande,>20€
+Agneau,2025-11-16,MIN d'Avignon,Agneau Cat. I - France,https://rnm.franceagrimer.fr/prix?AGNEAU,26.52,5,kg,France,Cat. I,Agneau,MIN d'Avignon,26.52,11,2025,Automne,Viande,>20€
+Dinde,2025-12-17,MIN de Rungis,Dinde Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?DINDE,30.29,10,kg,Pays-Bas,Extra,Dinde,MIN de Rungis,30.29,12,2025,Hiver,Viande,>20€
+Canard,2025-12-07,MIN de Strasbourg,Canard Extra - Allemagne,https://rnm.franceagrimer.fr/prix?CANARD,29.98,6,pièce,Allemagne,Extra,Canard,MIN de Strasbourg,29.98,12,2025,Hiver,Viande,>20€
+Raisin,2026-01-08,MIN de Rungis,Raisin Extra - Allemagne,https://rnm.franceagrimer.fr/prix?RAISIN,14.5,6,pièce,Allemagne,Extra,Raisin,MIN de Rungis,14.5,1,2026,Hiver,Fruits,10-20€
+Poulet,2025-11-07,MIN d'Avignon,Poulet Cat. II - Italie,https://rnm.franceagrimer.fr/prix?POULET,15.39,9,pièce,Italie,Cat. II,Poulet,MIN d'Avignon,15.39,11,2025,Automne,Viande,10-20€
+Tomate,2026-01-23,MIN de Nantes,Tomate Bio - Italie,https://rnm.franceagrimer.fr/prix?TOMATE,3.47,2,litre,Italie,Bio,Tomate,MIN de Nantes,3.47,1,2026,Hiver,Légumes,2-5€
+Cerise,2025-12-05,MIN de Bordeaux,Cerise Bio - Portugal,https://rnm.franceagrimer.fr/prix?CERISE,9.05,5,pièce,Portugal,Bio,Cerise,MIN de Bordeaux,9.05,12,2025,Hiver,Fruits,5-10€
+Melon,2025-12-06,MIN de Marseille,Melon Bio - Allemagne,https://rnm.franceagrimer.fr/prix?MELON,6.35,10,kg,Allemagne,Bio,Melon,MIN de Marseille,6.35,12,2025,Hiver,Fruits,5-10€
+Tomate,2025-11-25,MIN de Perpignan,Tomate Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?TOMATE,3.38,4,litre,Belgique,Cat. II,Tomate,MIN de Perpignan,3.38,11,2025,Automne,Légumes,2-5€
+Œuf,2025-12-09,MIN de Marseille,Œuf Extra - Belgique,https://rnm.franceagrimer.fr/prix?ŒUF,4.99,3,pièce,Belgique,Extra,Œuf,MIN de Marseille,4.99,12,2025,Hiver,Produits laitiers,2-5€
+Lapin,2025-11-27,MIN de Nice,Lapin Cat. I - Italie,https://rnm.franceagrimer.fr/prix?LAPIN,23.93,3,kg,Italie,Cat. I,Lapin,MIN de Nice,23.93,11,2025,Automne,Viande,>20€
+Salade,2025-12-11,MIN de Lille,Salade Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?SALADE,5.65,6,litre,Pays-Bas,Extra,Salade,MIN de Lille,5.65,12,2025,Hiver,Légumes,5-10€
+Yaourt,2025-12-09,MIN de Nice,Yaourt Extra - Allemagne,https://rnm.franceagrimer.fr/prix?YAOURT,7.58,1,pièce,Allemagne,Extra,Yaourt,MIN de Nice,7.58,12,2025,Hiver,Produits laitiers,5-10€
+Kiwi,2025-12-24,MIN de Rungis,Kiwi Extra - Belgique,https://rnm.franceagrimer.fr/prix?KIWI,4.67,4,litre,Belgique,Extra,Kiwi,MIN de Rungis,4.67,12,2025,Hiver,Fruits,2-5€
+Veau,2026-01-07,MIN de Paris,Veau Bio - Allemagne,https://rnm.franceagrimer.fr/prix?VEAU,21.14,7,litre,Allemagne,Bio,Veau,MIN de Paris,21.14,1,2026,Hiver,Viande,>20€
+Poire,2025-11-03,MIN de Lille,Poire Cat. II - Italie,https://rnm.franceagrimer.fr/prix?POIRE,9.21,1,pièce,Italie,Cat. II,Poire,MIN de Lille,9.21,11,2025,Automne,Fruits,5-10€
+Orange,2025-12-29,MIN de Nice,Orange Bio - Portugal,https://rnm.franceagrimer.fr/prix?ORANGE,11.27,8,litre,Portugal,Bio,Orange,MIN de Nice,11.27,12,2025,Hiver,Fruits,10-20€
+Haricot vert,2026-01-06,MIN de Strasbourg,Haricot vert Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?HARICOT-VERT,7.08,2,litre,Pays-Bas,Extra,Haricot Vert,MIN de Strasbourg,7.08,1,2026,Hiver,Légumes,5-10€
+Beurre,2026-01-22,MIN de Nantes,Beurre Bio - Allemagne,https://rnm.franceagrimer.fr/prix?BEURRE,9.42,1,litre,Allemagne,Bio,Beurre,MIN de Nantes,9.42,1,2026,Hiver,Produits laitiers,5-10€
+Cheval,2025-12-24,MIN de Toulouse,Cheval Bio - Allemagne,https://rnm.franceagrimer.fr/prix?CHEVAL,25.87,6,pièce,Allemagne,Bio,Cheval,MIN de Toulouse,25.87,12,2025,Hiver,Viande,>20€
+Veau,2026-01-03,MIN de Lille,Veau Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?VEAU,30.19,3,litre,Pays-Bas,Bio,Veau,MIN de Lille,30.19,1,2026,Hiver,Viande,>20€
+Poivron,2025-12-16,MIN de Lyon,Poivron Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?POIVRON,2.78,8,kg,Espagne,Cat. II,Poivron,MIN de Lyon,2.78,12,2025,Hiver,Légumes,2-5€
+Yaourt,2025-12-12,MIN de Bordeaux,Yaourt Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?YAOURT,6.44,7,litre,Pays-Bas,Cat. I,Yaourt,MIN de Bordeaux,6.44,12,2025,Hiver,Produits laitiers,5-10€
+Tomate,2025-12-23,MIN de Toulouse,Tomate Extra - France,https://rnm.franceagrimer.fr/prix?TOMATE,3.46,2,litre,France,Extra,Tomate,MIN de Toulouse,3.46,12,2025,Hiver,Légumes,2-5€
+Porc,2025-12-12,MIN de Perpignan,Porc Cat. II - France,https://rnm.franceagrimer.fr/prix?PORC,31.71,9,kg,France,Cat. II,Porc,MIN de Perpignan,31.71,12,2025,Hiver,Viande,>20€
+Poire,2025-12-11,MIN de Nantes,Poire Cat. I - Italie,https://rnm.franceagrimer.fr/prix?POIRE,11.4,4,kg,Italie,Cat. I,Poire,MIN de Nantes,11.4,12,2025,Hiver,Fruits,10-20€
+Veau,2025-11-13,MIN de Marseille,Veau Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?VEAU,22.42,10,pièce,Pays-Bas,Cat. I,Veau,MIN de Marseille,22.42,11,2025,Automne,Viande,>20€
+Fraise,2026-01-15,MIN de Perpignan,Fraise Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?FRAISE,4.45,3,pièce,Portugal,Cat. II,Fraise,MIN de Perpignan,4.45,1,2026,Hiver,Fruits,2-5€
+Chou,2025-12-28,MIN de Lille,Chou Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?CHOU,6.6,8,kg,Pays-Bas,Cat. II,Chou,MIN de Lille,6.6,12,2025,Hiver,Légumes,5-10€
+Orange,2025-11-08,MIN d'Avignon,Orange Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?ORANGE,8.15,6,pièce,Pays-Bas,Cat. II,Orange,MIN d'Avignon,8.15,11,2025,Automne,Fruits,5-10€
+Carotte,2025-11-06,MIN de Lyon,Carotte Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?CAROTTE,3.54,4,kg,Allemagne,Cat. I,Carotte,MIN de Lyon,3.54,11,2025,Automne,Légumes,2-5€
+Cerise,2026-01-15,MIN d'Avignon,Cerise Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?CERISE,9.19,7,pièce,Belgique,Cat. I,Cerise,MIN d'Avignon,9.19,1,2026,Hiver,Fruits,5-10€
+Orange,2026-01-06,MIN de Nice,Orange Extra - France,https://rnm.franceagrimer.fr/prix?ORANGE,12.54,10,litre,France,Extra,Orange,MIN de Nice,12.54,1,2026,Hiver,Fruits,10-20€
+Tomate,2025-11-11,MIN de Marseille,Tomate Cat. I - Portugal,https://rnm.franceagrimer.fr/prix?TOMATE,3.3,3,litre,Portugal,Cat. I,Tomate,MIN de Marseille,3.3,11,2025,Automne,Légumes,2-5€
+Tomate,2026-01-11,MIN d'Avignon,Tomate Extra - Belgique,https://rnm.franceagrimer.fr/prix?TOMATE,3.64,4,litre,Belgique,Extra,Tomate,MIN d'Avignon,3.64,1,2026,Hiver,Légumes,2-5€
+Kiwi,2026-01-23,MIN d'Avignon,Kiwi Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?KIWI,4.52,9,kg,Portugal,Cat. II,Kiwi,MIN d'Avignon,4.52,1,2026,Hiver,Fruits,2-5€
+Aubergine,2025-12-08,MIN de Rungis,Aubergine Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?AUBERGINE,3.06,5,kg,Maroc,Cat. I,Aubergine,MIN de Rungis,3.06,12,2025,Hiver,Légumes,2-5€
+Fromage,2025-11-27,MIN de Bordeaux,Fromage Extra - Allemagne,https://rnm.franceagrimer.fr/prix?FROMAGE,9.96,8,litre,Allemagne,Extra,Fromage,MIN de Bordeaux,9.96,11,2025,Automne,Produits laitiers,5-10€
+Fraise,2025-12-04,MIN de Toulouse,Fraise Cat. I - Italie,https://rnm.franceagrimer.fr/prix?FRAISE,4.49,9,kg,Italie,Cat. I,Fraise,MIN de Toulouse,4.49,12,2025,Hiver,Fruits,2-5€
+Courgette,2025-12-22,MIN de Strasbourg,Courgette Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?COURGETTE,3.96,8,litre,Maroc,Cat. I,Courgette,MIN de Strasbourg,3.96,12,2025,Hiver,Légumes,2-5€
+Pomme de terre,2025-12-30,MIN de Paris,Pomme de terre Extra - Allemagne,https://rnm.franceagrimer.fr/prix?POMME-DE-TERRE,5.65,4,litre,Allemagne,Extra,Pomme De Terre,MIN de Paris,5.65,12,2025,Hiver,Légumes,5-10€
+Poulet,2025-12-04,MIN de Lille,Poulet Bio - Espagne,https://rnm.franceagrimer.fr/prix?POULET,15.75,7,kg,Espagne,Bio,Poulet,MIN de Lille,15.75,12,2025,Hiver,Viande,10-20€
+Œuf,2025-12-28,MIN de Marseille,Œuf Extra - Espagne,https://rnm.franceagrimer.fr/prix?ŒUF,5.71,4,kg,Espagne,Extra,Œuf,MIN de Marseille,5.71,12,2025,Hiver,Produits laitiers,5-10€
+Orange,2025-12-13,MIN de Marseille,Orange Cat. II - Italie,https://rnm.franceagrimer.fr/prix?ORANGE,11.35,2,kg,Italie,Cat. II,Orange,MIN de Marseille,11.35,12,2025,Hiver,Fruits,10-20€
+Poire,2026-01-05,MIN de Paris,Poire Extra - Belgique,https://rnm.franceagrimer.fr/prix?POIRE,10.78,1,kg,Belgique,Extra,Poire,MIN de Paris,10.78,1,2026,Hiver,Fruits,10-20€
+Lait,2026-01-12,MIN de Lille,Lait Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?LAIT,8.14,9,litre,Espagne,Cat. I,Lait,MIN de Lille,8.14,1,2026,Hiver,Produits laitiers,5-10€
+Pastèque,2026-01-24,MIN de Perpignan,Pastèque Bio - Italie,https://rnm.franceagrimer.fr/prix?PASTÈQUE,4.2,5,pièce,Italie,Bio,Pastèque,MIN de Perpignan,4.2,1,2026,Hiver,Fruits,2-5€
+Melon,2025-12-01,MIN de Perpignan,Melon Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?MELON,8.78,1,kg,Pays-Bas,Cat. II,Melon,MIN de Perpignan,8.78,12,2025,Hiver,Fruits,5-10€
+Orange,2025-12-11,MIN d'Avignon,Orange Bio - Belgique,https://rnm.franceagrimer.fr/prix?ORANGE,13.36,8,litre,Belgique,Bio,Orange,MIN d'Avignon,13.36,12,2025,Hiver,Fruits,10-20€
+Volaille,2025-11-29,MIN de Bordeaux,Volaille Bio - Italie,https://rnm.franceagrimer.fr/prix?VOLAILLE,22.21,6,pièce,Italie,Bio,Volaille,MIN de Bordeaux,22.21,11,2025,Automne,Viande,>20€
+Veau,2026-01-02,MIN de Bordeaux,Veau Bio - Belgique,https://rnm.franceagrimer.fr/prix?VEAU,22.72,1,litre,Belgique,Bio,Veau,MIN de Bordeaux,22.72,1,2026,Hiver,Viande,>20€
+Poire,2026-01-12,MIN de Rungis,Poire Extra - Italie,https://rnm.franceagrimer.fr/prix?POIRE,12.07,1,pièce,Italie,Extra,Poire,MIN de Rungis,12.07,1,2026,Hiver,Fruits,10-20€
+Bœuf,2025-11-17,MIN de Lille,Bœuf Extra - Belgique,https://rnm.franceagrimer.fr/prix?BŒUF,29.09,3,litre,Belgique,Extra,Bœuf,MIN de Lille,29.09,11,2025,Automne,Viande,>20€
+Cerise,2025-12-31,MIN de Perpignan,Cerise Cat. II - France,https://rnm.franceagrimer.fr/prix?CERISE,9.09,5,kg,France,Cat. II,Cerise,MIN de Perpignan,9.09,12,2025,Hiver,Fruits,5-10€
+Agneau,2025-11-25,MIN de Rungis,Agneau Bio - France,https://rnm.franceagrimer.fr/prix?AGNEAU,31.51,3,pièce,France,Bio,Agneau,MIN de Rungis,31.51,11,2025,Automne,Viande,>20€
+Citron,2025-12-26,MIN de Lille,Citron Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?CITRON,8.86,7,pièce,Pays-Bas,Cat. II,Citron,MIN de Lille,8.86,12,2025,Hiver,Fruits,5-10€
+Crème,2026-01-07,MIN de Perpignan,Crème Cat. II - France,https://rnm.franceagrimer.fr/prix?CRÈME,11.63,4,pièce,France,Cat. II,Crème,MIN de Perpignan,11.63,1,2026,Hiver,Produits laitiers,10-20€
+Beurre,2026-01-31,MIN d'Avignon,Beurre Extra - Belgique,https://rnm.franceagrimer.fr/prix?BEURRE,9.0,3,pièce,Belgique,Extra,Beurre,MIN d'Avignon,9.0,1,2026,Hiver,Produits laitiers,5-10€
+Banane,2026-01-04,MIN de Nantes,Banane Extra - Allemagne,https://rnm.franceagrimer.fr/prix?BANANE,14.62,8,litre,Allemagne,Extra,Banane,MIN de Nantes,14.62,1,2026,Hiver,Fruits,10-20€
+Oignon,2025-11-12,MIN de Bordeaux,Oignon Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?OIGNON,2.89,5,litre,Portugal,Cat. II,Oignon,MIN de Bordeaux,2.89,11,2025,Automne,Légumes,2-5€
+Haricot vert,2025-11-26,MIN de Paris,Haricot vert Extra - Espagne,https://rnm.franceagrimer.fr/prix?HARICOT-VERT,6.75,6,kg,Espagne,Extra,Haricot Vert,MIN de Paris,6.75,11,2025,Automne,Légumes,5-10€
+Haricot vert,2025-12-17,MIN de Strasbourg,Haricot vert Extra - Italie,https://rnm.franceagrimer.fr/prix?HARICOT-VERT,7.69,6,pièce,Italie,Extra,Haricot Vert,MIN de Strasbourg,7.69,12,2025,Hiver,Légumes,5-10€
+Poireau,2025-11-23,MIN de Bordeaux,Poireau Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?POIREAU,4.46,3,litre,Espagne,Cat. II,Poireau,MIN de Bordeaux,4.46,11,2025,Automne,Légumes,2-5€
+Pastèque,2025-11-17,MIN de Lille,Pastèque Cat. II - France,https://rnm.franceagrimer.fr/prix?PASTÈQUE,3.28,4,kg,France,Cat. II,Pastèque,MIN de Lille,3.28,11,2025,Automne,Fruits,2-5€
+Bœuf,2026-01-09,MIN d'Avignon,Bœuf Bio - Maroc,https://rnm.franceagrimer.fr/prix?BŒUF,28.54,4,litre,Maroc,Bio,Bœuf,MIN d'Avignon,28.54,1,2026,Hiver,Viande,>20€
+Yaourt,2025-12-16,MIN de Bordeaux,Yaourt Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?YAOURT,6.14,3,litre,Allemagne,Cat. II,Yaourt,MIN de Bordeaux,6.14,12,2025,Hiver,Produits laitiers,5-10€
+Fromage de chèvre,2025-11-18,MIN d'Avignon,Fromage de chèvre Bio - Maroc,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,13.55,7,kg,Maroc,Bio,Fromage De Chèvre,MIN d'Avignon,13.55,11,2025,Automne,Produits laitiers,10-20€
+Cheval,2025-11-16,MIN de Toulouse,Cheval Cat. II - Italie,https://rnm.franceagrimer.fr/prix?CHEVAL,26.26,5,litre,Italie,Cat. II,Cheval,MIN de Toulouse,26.26,11,2025,Automne,Viande,>20€
+Courgette,2026-01-08,MIN de Toulouse,Courgette Extra - Allemagne,https://rnm.franceagrimer.fr/prix?COURGETTE,4.42,9,kg,Allemagne,Extra,Courgette,MIN de Toulouse,4.42,1,2026,Hiver,Légumes,2-5€
+Crème,2025-11-09,MIN de Marseille,Crème Cat. I - Italie,https://rnm.franceagrimer.fr/prix?CRÈME,12.39,9,litre,Italie,Cat. I,Crème,MIN de Marseille,12.39,11,2025,Automne,Produits laitiers,10-20€
+Orange,2025-11-19,MIN de Perpignan,Orange Bio - France,https://rnm.franceagrimer.fr/prix?ORANGE,9.87,2,pièce,France,Bio,Orange,MIN de Perpignan,9.87,11,2025,Automne,Fruits,5-10€
+Courgette,2025-11-17,MIN de Perpignan,Courgette Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?COURGETTE,4.78,3,kg,Pays-Bas,Cat. I,Courgette,MIN de Perpignan,4.78,11,2025,Automne,Légumes,2-5€
+Tomate,2025-11-03,MIN de Marseille,Tomate Bio - Allemagne,https://rnm.franceagrimer.fr/prix?TOMATE,3.23,9,litre,Allemagne,Bio,Tomate,MIN de Marseille,3.23,11,2025,Automne,Légumes,2-5€
+Lait,2026-01-25,MIN d'Avignon,Lait Extra - Portugal,https://rnm.franceagrimer.fr/prix?LAIT,8.17,5,pièce,Portugal,Extra,Lait,MIN d'Avignon,8.17,1,2026,Hiver,Produits laitiers,5-10€
+Bœuf,2026-01-25,MIN de Rungis,Bœuf Bio - Belgique,https://rnm.franceagrimer.fr/prix?BŒUF,29.89,8,pièce,Belgique,Bio,Bœuf,MIN de Rungis,29.89,1,2026,Hiver,Viande,>20€
+Cheval,2025-11-09,MIN de Paris,Cheval Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?CHEVAL,23.61,5,pièce,Allemagne,Cat. I,Cheval,MIN de Paris,23.61,11,2025,Automne,Viande,>20€
+Lapin,2025-12-17,MIN de Bordeaux,Lapin Cat. II - Italie,https://rnm.franceagrimer.fr/prix?LAPIN,24.25,9,pièce,Italie,Cat. II,Lapin,MIN de Bordeaux,24.25,12,2025,Hiver,Viande,>20€
+Cerise,2026-01-16,MIN de Bordeaux,Cerise Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?CERISE,11.49,8,litre,Pays-Bas,Bio,Cerise,MIN de Bordeaux,11.49,1,2026,Hiver,Fruits,10-20€
+Ail,2026-01-28,MIN d'Avignon,Ail Cat. I - Maroc,https://rnm.franceagrimer.fr/prix?AIL,6.99,2,pièce,Maroc,Cat. I,Ail,MIN d'Avignon,6.99,1,2026,Hiver,Légumes,5-10€
+Oignon,2025-12-20,MIN de Marseille,Oignon Cat. I - Italie,https://rnm.franceagrimer.fr/prix?OIGNON,3.66,5,pièce,Italie,Cat. I,Oignon,MIN de Marseille,3.66,12,2025,Hiver,Légumes,2-5€
+Lapin,2025-12-20,MIN de Perpignan,Lapin Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?LAPIN,27.67,3,pièce,Espagne,Cat. II,Lapin,MIN de Perpignan,27.67,12,2025,Hiver,Viande,>20€
+Tomate,2025-11-12,MIN de Lyon,Tomate Bio - Belgique,https://rnm.franceagrimer.fr/prix?TOMATE,2.91,1,pièce,Belgique,Bio,Tomate,MIN de Lyon,2.91,11,2025,Automne,Légumes,2-5€
+Citron,2025-12-30,MIN de Paris,Citron Bio - Portugal,https://rnm.franceagrimer.fr/prix?CITRON,8.31,7,litre,Portugal,Bio,Citron,MIN de Paris,8.31,12,2025,Hiver,Fruits,5-10€
+Veau,2025-12-28,MIN d'Avignon,Veau Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?VEAU,32.94,3,litre,Belgique,Cat. I,Veau,MIN d'Avignon,32.94,12,2025,Hiver,Viande,>20€
+Salade,2025-11-09,MIN de Bordeaux,Salade Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?SALADE,5.22,1,kg,Pays-Bas,Cat. I,Salade,MIN de Bordeaux,5.22,11,2025,Automne,Légumes,5-10€
+Agneau,2026-01-01,MIN de Marseille,Agneau Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?AGNEAU,35.47,7,kg,Espagne,Cat. II,Agneau,MIN de Marseille,35.47,1,2026,Hiver,Viande,>20€
+Poivron,2025-11-22,MIN de Nantes,Poivron Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?POIVRON,3.11,10,kg,Allemagne,Cat. I,Poivron,MIN de Nantes,3.11,11,2025,Automne,Légumes,2-5€
+Agneau,2026-01-30,MIN de Perpignan,Agneau Bio - France,https://rnm.franceagrimer.fr/prix?AGNEAU,27.67,5,kg,France,Bio,Agneau,MIN de Perpignan,27.67,1,2026,Hiver,Viande,>20€
+Poireau,2025-11-20,MIN de Toulouse,Poireau Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?POIREAU,3.94,6,pièce,Espagne,Cat. I,Poireau,MIN de Toulouse,3.94,11,2025,Automne,Légumes,2-5€
+Lait,2026-01-08,MIN de Lyon,Lait Bio - Espagne,https://rnm.franceagrimer.fr/prix?LAIT,8.8,8,pièce,Espagne,Bio,Lait,MIN de Lyon,8.8,1,2026,Hiver,Produits laitiers,5-10€
+Tomate,2026-01-29,MIN de Marseille,Tomate Bio - Espagne,https://rnm.franceagrimer.fr/prix?TOMATE,3.2,10,kg,Espagne,Bio,Tomate,MIN de Marseille,3.2,1,2026,Hiver,Légumes,2-5€
+Volaille,2025-11-19,MIN de Marseille,Volaille Extra - Belgique,https://rnm.franceagrimer.fr/prix?VOLAILLE,23.54,1,litre,Belgique,Extra,Volaille,MIN de Marseille,23.54,11,2025,Automne,Viande,>20€
+Pomme,2025-11-13,MIN de Toulouse,Pomme Extra - Italie,https://rnm.franceagrimer.fr/prix?POMME,8.43,2,pièce,Italie,Extra,Pomme,MIN de Toulouse,8.43,11,2025,Automne,Fruits,5-10€
+Lapin,2025-12-03,MIN d'Avignon,Lapin Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?LAPIN,25.98,9,kg,Espagne,Cat. II,Lapin,MIN d'Avignon,25.98,12,2025,Hiver,Viande,>20€
+Haricot vert,2026-01-09,MIN de Lyon,Haricot vert Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?HARICOT-VERT,7.09,2,kg,Allemagne,Cat. II,Haricot Vert,MIN de Lyon,7.09,1,2026,Hiver,Légumes,5-10€
+Agneau,2025-12-12,MIN d'Avignon,Agneau Cat. I - France,https://rnm.franceagrimer.fr/prix?AGNEAU,24.76,10,kg,France,Cat. I,Agneau,MIN d'Avignon,24.76,12,2025,Hiver,Viande,>20€
+Raisin,2026-01-28,MIN de Marseille,Raisin Extra - Espagne,https://rnm.franceagrimer.fr/prix?RAISIN,11.46,2,pièce,Espagne,Extra,Raisin,MIN de Marseille,11.46,1,2026,Hiver,Fruits,10-20€
+Poulet,2025-11-25,MIN de Strasbourg,Poulet Extra - Espagne,https://rnm.franceagrimer.fr/prix?POULET,15.7,6,pièce,Espagne,Extra,Poulet,MIN de Strasbourg,15.7,11,2025,Automne,Viande,10-20€
+Pomme,2025-11-09,MIN de Toulouse,Pomme Bio - Maroc,https://rnm.franceagrimer.fr/prix?POMME,9.12,9,litre,Maroc,Bio,Pomme,MIN de Toulouse,9.12,11,2025,Automne,Fruits,5-10€
+Salade,2026-01-17,MIN de Paris,Salade Bio - Espagne,https://rnm.franceagrimer.fr/prix?SALADE,5.91,10,kg,Espagne,Bio,Salade,MIN de Paris,5.91,1,2026,Hiver,Légumes,5-10€
+Tomate,2025-11-05,MIN de Rungis,Tomate Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?TOMATE,3.43,5,pièce,Belgique,Cat. II,Tomate,MIN de Rungis,3.43,11,2025,Automne,Légumes,2-5€
+Fromage de chèvre,2025-11-19,MIN de Nice,Fromage de chèvre Bio - Maroc,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,13.37,2,litre,Maroc,Bio,Fromage De Chèvre,MIN de Nice,13.37,11,2025,Automne,Produits laitiers,10-20€
+Oignon,2025-11-05,MIN de Toulouse,Oignon Cat. II - Belgique,https://rnm.franceagrimer.fr/prix?OIGNON,3.74,5,pièce,Belgique,Cat. II,Oignon,MIN de Toulouse,3.74,11,2025,Automne,Légumes,2-5€
+Raisin,2025-12-24,MIN de Strasbourg,Raisin Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?RAISIN,13.15,7,pièce,Pays-Bas,Extra,Raisin,MIN de Strasbourg,13.15,12,2025,Hiver,Fruits,10-20€
+Chou,2025-12-28,MIN d'Avignon,Chou Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?CHOU,6.5,9,litre,Espagne,Cat. I,Chou,MIN d'Avignon,6.5,12,2025,Hiver,Légumes,5-10€
+Poivron,2026-01-15,MIN de Toulouse,Poivron Cat. II - Pays-Bas,https://rnm.franceagrimer.fr/prix?POIVRON,3.1,3,pièce,Pays-Bas,Cat. II,Poivron,MIN de Toulouse,3.1,1,2026,Hiver,Légumes,2-5€
+Aubergine,2025-11-27,MIN de Nantes,Aubergine Extra - Italie,https://rnm.franceagrimer.fr/prix?AUBERGINE,2.39,10,kg,Italie,Extra,Aubergine,MIN de Nantes,2.39,11,2025,Automne,Légumes,2-5€
+Lait,2025-11-08,MIN de Marseille,Lait Bio - Italie,https://rnm.franceagrimer.fr/prix?LAIT,9.09,1,pièce,Italie,Bio,Lait,MIN de Marseille,9.09,11,2025,Automne,Produits laitiers,5-10€
+Agneau,2026-01-25,MIN de Nantes,Agneau Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?AGNEAU,26.65,9,pièce,Portugal,Cat. II,Agneau,MIN de Nantes,26.65,1,2026,Hiver,Viande,>20€
+Yaourt,2026-01-13,MIN de Marseille,Yaourt Cat. II - Portugal,https://rnm.franceagrimer.fr/prix?YAOURT,6.06,7,pièce,Portugal,Cat. II,Yaourt,MIN de Marseille,6.06,1,2026,Hiver,Produits laitiers,5-10€
+Oignon,2025-11-22,MIN de Nantes,Oignon Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?OIGNON,3.41,5,kg,Espagne,Cat. II,Oignon,MIN de Nantes,3.41,11,2025,Automne,Légumes,2-5€
+Lapin,2026-01-20,MIN de Lille,Lapin Extra - Italie,https://rnm.franceagrimer.fr/prix?LAPIN,27.61,6,kg,Italie,Extra,Lapin,MIN de Lille,27.61,1,2026,Hiver,Viande,>20€
+Fromage de chèvre,2025-12-16,MIN de Paris,Fromage de chèvre Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,13.97,6,kg,Allemagne,Cat. I,Fromage De Chèvre,MIN de Paris,13.97,12,2025,Hiver,Produits laitiers,10-20€
+Tomate,2026-01-31,MIN de Nice,Tomate Extra - Espagne,https://rnm.franceagrimer.fr/prix?TOMATE,2.95,4,pièce,Espagne,Extra,Tomate,MIN de Nice,2.95,1,2026,Hiver,Légumes,2-5€
+Bœuf,2026-01-18,MIN de Lille,Bœuf Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?BŒUF,24.51,8,litre,Maroc,Cat. II,Bœuf,MIN de Lille,24.51,1,2026,Hiver,Viande,>20€
+Oignon,2025-12-17,MIN de Lyon,Oignon Extra - Belgique,https://rnm.franceagrimer.fr/prix?OIGNON,2.89,8,pièce,Belgique,Extra,Oignon,MIN de Lyon,2.89,12,2025,Hiver,Légumes,2-5€
+Tomate,2026-01-05,MIN de Paris,Tomate Bio - Espagne,https://rnm.franceagrimer.fr/prix?TOMATE,2.9,8,litre,Espagne,Bio,Tomate,MIN de Paris,2.9,1,2026,Hiver,Légumes,2-5€
+Lapin,2026-01-31,MIN de Nantes,Lapin Cat. I - Pays-Bas,https://rnm.franceagrimer.fr/prix?LAPIN,23.5,5,kg,Pays-Bas,Cat. I,Lapin,MIN de Nantes,23.5,1,2026,Hiver,Viande,>20€
+Fromage de chèvre,2026-01-07,MIN d'Avignon,Fromage de chèvre Extra - Belgique,https://rnm.franceagrimer.fr/prix?FROMAGE-DE-CHÈVRE,15.35,8,kg,Belgique,Extra,Fromage De Chèvre,MIN d'Avignon,15.35,1,2026,Hiver,Produits laitiers,10-20€
+Carotte,2025-11-08,MIN de Nantes,Carotte Cat. II - Allemagne,https://rnm.franceagrimer.fr/prix?CAROTTE,3.9,5,litre,Allemagne,Cat. II,Carotte,MIN de Nantes,3.9,11,2025,Automne,Légumes,2-5€
+Oignon,2025-12-10,MIN de Toulouse,Oignon Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?OIGNON,3.04,9,kg,Pays-Bas,Extra,Oignon,MIN de Toulouse,3.04,12,2025,Hiver,Légumes,2-5€
+Cerise,2025-11-14,MIN de Lille,Cerise Bio - Belgique,https://rnm.franceagrimer.fr/prix?CERISE,7.0,1,litre,Belgique,Bio,Cerise,MIN de Lille,7.0,11,2025,Automne,Fruits,5-10€
+Salade,2026-01-11,MIN de Marseille,Salade Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?SALADE,5.21,7,pièce,Pays-Bas,Extra,Salade,MIN de Marseille,5.21,1,2026,Hiver,Légumes,5-10€
+Fraise,2025-11-22,MIN de Nantes,Fraise Extra - Pays-Bas,https://rnm.franceagrimer.fr/prix?FRAISE,2.75,5,pièce,Pays-Bas,Extra,Fraise,MIN de Nantes,2.75,11,2025,Automne,Fruits,2-5€
+Lapin,2026-02-01,MIN de Marseille,Lapin Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?LAPIN,26.19,3,kg,Maroc,Cat. II,Lapin,MIN de Marseille,26.19,2,2026,Hiver,Viande,>20€
+Haricot vert,2025-12-24,MIN de Perpignan,Haricot vert Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?HARICOT-VERT,7.21,9,pièce,Espagne,Cat. I,Haricot Vert,MIN de Perpignan,7.21,12,2025,Hiver,Légumes,5-10€
+Oignon,2026-01-23,MIN de Bordeaux,Oignon Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?OIGNON,3.26,5,kg,Espagne,Cat. II,Oignon,MIN de Bordeaux,3.26,1,2026,Hiver,Légumes,2-5€
+Banane,2026-02-01,MIN de Nice,Banane Extra - Allemagne,https://rnm.franceagrimer.fr/prix?BANANE,14.98,3,pièce,Allemagne,Extra,Banane,MIN de Nice,14.98,2,2026,Hiver,Fruits,10-20€
+Volaille,2025-11-14,MIN de Toulouse,Volaille Cat. II - Italie,https://rnm.franceagrimer.fr/prix?VOLAILLE,22.08,9,pièce,Italie,Cat. II,Volaille,MIN de Toulouse,22.08,11,2025,Automne,Viande,>20€
+Pastèque,2025-12-15,MIN de Perpignan,Pastèque Bio - Allemagne,https://rnm.franceagrimer.fr/prix?PASTÈQUE,5.08,5,pièce,Allemagne,Bio,Pastèque,MIN de Perpignan,5.08,12,2025,Hiver,Fruits,5-10€
+Tomate,2025-11-11,MIN de Nice,Tomate Bio - Espagne,https://rnm.franceagrimer.fr/prix?TOMATE,3.48,7,kg,Espagne,Bio,Tomate,MIN de Nice,3.48,11,2025,Automne,Légumes,2-5€
+Bœuf,2025-12-26,MIN de Bordeaux,Bœuf Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?BŒUF,23.9,8,pièce,Espagne,Cat. I,Bœuf,MIN de Bordeaux,23.9,12,2025,Hiver,Viande,>20€
+Lapin,2026-01-03,MIN de Paris,Lapin Extra - Portugal,https://rnm.franceagrimer.fr/prix?LAPIN,22.13,9,pièce,Portugal,Extra,Lapin,MIN de Paris,22.13,1,2026,Hiver,Viande,>20€
+Agneau,2026-01-07,MIN de Perpignan,Agneau Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?AGNEAU,28.38,8,litre,Pays-Bas,Bio,Agneau,MIN de Perpignan,28.38,1,2026,Hiver,Viande,>20€
+Haricot vert,2025-12-10,MIN de Rungis,Haricot vert Cat. II - Espagne,https://rnm.franceagrimer.fr/prix?HARICOT-VERT,8.15,6,litre,Espagne,Cat. II,Haricot Vert,MIN de Rungis,8.15,12,2025,Hiver,Légumes,5-10€
+Cerise,2025-11-07,MIN de Strasbourg,Cerise Cat. II - Italie,https://rnm.franceagrimer.fr/prix?CERISE,6.61,7,litre,Italie,Cat. II,Cerise,MIN de Strasbourg,6.61,11,2025,Automne,Fruits,5-10€
+Veau,2025-12-13,MIN de Lyon,Veau Cat. I - Allemagne,https://rnm.franceagrimer.fr/prix?VEAU,20.17,9,pièce,Allemagne,Cat. I,Veau,MIN de Lyon,20.17,12,2025,Hiver,Viande,>20€
+Porc,2025-11-13,MIN de Lyon,Porc Extra - Allemagne,https://rnm.franceagrimer.fr/prix?PORC,28.04,8,kg,Allemagne,Extra,Porc,MIN de Lyon,28.04,11,2025,Automne,Viande,>20€
+Fraise,2025-11-09,MIN de Toulouse,Fraise Bio - Pays-Bas,https://rnm.franceagrimer.fr/prix?FRAISE,3.41,2,pièce,Pays-Bas,Bio,Fraise,MIN de Toulouse,3.41,11,2025,Automne,Fruits,2-5€
+Fraise,2025-12-14,MIN de Paris,Fraise Cat. II - Maroc,https://rnm.franceagrimer.fr/prix?FRAISE,4.08,4,kg,Maroc,Cat. II,Fraise,MIN de Paris,4.08,12,2025,Hiver,Fruits,2-5€
+Haricot vert,2025-11-15,MIN de Perpignan,Haricot vert Bio - Maroc,https://rnm.franceagrimer.fr/prix?HARICOT-VERT,7.69,10,kg,Maroc,Bio,Haricot Vert,MIN de Perpignan,7.69,11,2025,Automne,Légumes,5-10€
+Orange,2025-12-28,MIN de Marseille,Orange Cat. I - France,https://rnm.franceagrimer.fr/prix?ORANGE,12.56,8,pièce,France,Cat. I,Orange,MIN de Marseille,12.56,12,2025,Hiver,Fruits,10-20€
+Courgette,2025-11-14,MIN de Marseille,Courgette Bio - Portugal,https://rnm.franceagrimer.fr/prix?COURGETTE,3.95,5,pièce,Portugal,Bio,Courgette,MIN de Marseille,3.95,11,2025,Automne,Légumes,2-5€
+Tomate,2026-01-11,MIN de Perpignan,Tomate Cat. I - Belgique,https://rnm.franceagrimer.fr/prix?TOMATE,3.51,1,kg,Belgique,Cat. I,Tomate,MIN de Perpignan,3.51,1,2026,Hiver,Légumes,2-5€
+Agneau,2025-11-13,MIN d'Avignon,Agneau Bio - Maroc,https://rnm.franceagrimer.fr/prix?AGNEAU,37.51,2,litre,Maroc,Bio,Agneau,MIN d'Avignon,37.51,11,2025,Automne,Viande,>20€
+Orange,2026-01-15,MIN de Paris,Orange Cat. I - Espagne,https://rnm.franceagrimer.fr/prix?ORANGE,12.93,9,pièce,Espagne,Cat. I,Orange,MIN de Paris,12.93,1,2026,Hiver,Fruits,10-20€
