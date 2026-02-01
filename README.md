@@ -1,8 +1,6 @@
-
-
 # 🎯 Objectif du Projet
 
-L’objectif de ce projet est de concevoir une plateforme décisionnelle complète permettant d’analyser, modéliser et visualiser les dynamiques du secteur agroalimentaire à partir de données collectées automatiquement sur le web.
+L'objectif de ce projet est de concevoir une plateforme décisionnelle complète permettant d'analyser, modéliser et visualiser les dynamiques du secteur agroalimentaire à partir de données collectées automatiquement sur le web.
 
 ## 🚀 Fonctionnalités Principales
 
@@ -137,7 +135,6 @@ streamlit run app.py
 - 🔄 **Mise à jour** : Temps réel
 - 📱 **Responsive** : Mobile & Desktop
 - 🎨 **Design** : Moderne & intuitif
-
 
 ## 🌟 Points Forts Techniques
 
