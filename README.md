@@ -298,3 +298,6 @@ Projet développé pour démonstration de compétences en :
 ---
 
 **🥬 Dashboard Agroalimentaire** - Transformant les données brutes en insights pertinents pour l'industrie agroalimentaire.
+=======
+# Tableau-dAnalyse-des-Prix-Agroalimentaires
+>>>>>>> 904f46f2b98dad431f5f293763740c058c26092f
